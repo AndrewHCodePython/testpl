@@ -90,7 +90,7 @@ def main():
         with open(output_json, 'w') as outfile:
             for row in values:
                 # Print columns A and E, which correspond to indices 0 and 4.
-                #print('%s, %s, %s, %s, %s' % (row[0], row[1], row[2], row[3], row[4]))
+                print('%s, %s, %s, %s, %s' % (row[0], row[1], row[2], row[3], row[4]))
                 outfile.write("\n")
                 outfile.write(str(row))
 
