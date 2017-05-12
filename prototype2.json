@@ -1,0 +1,100 @@
+{
+    "Parity Season": "TPL Season 10 - Rock Bands: Public Doc",
+    "Players": [{
+            "Name": "Normal Lew",
+                "Stats":{
+                    "Wins": "7",
+                    "Times Traded": "2",
+                    "Receiver Error": "7",
+                    "Goals": "30",
+                    "2nd Assists": "25",
+                    "Total Assist:Throw Away Ratio": "2.38",
+                    "Ds:Turnover Ratio": "0.55",
+                    "Throwaways": "40",
+                    "Salary": "$679,000",
+                    "Ds": "26",
+                    "Assists": "70"
+                }
+        },
+        {
+            "Name": "David Ip",
+                "Stats": {
+                    "Wins": "7",
+                    "Times Traded": "1",
+                    "Receiver Error": "1",
+                    "Goals": "42",
+                    "2nd Assists": "14",
+                    "Total Assist:Throw Away Ratio": "1.57",
+                    "Ds:Turnover Ratio": "0.50",
+                    "Throwaways": "21",
+                    "Salary": "$460,500",
+                    "Ds": "11",
+                    "Assists": "19"
+                }
+            },
+        {
+            "Name": "Taunya Tremblay", 
+                "Stats": {
+                    "Wins": "2",
+                    "Times Traded": "1",
+                    "Receiver Error": "1",
+                    "Goals": "7",
+                    "2nd Assists": "6",
+                    "Total Assist:Throw Away Ratio": "7.00",
+                    "Ds:Turnover Ratio": "1.00",
+                    "Throwaways": "1",
+                    "Salary": "$171,500",
+                    "Ds": "2",
+                    "Assists": "1"
+                }
+            },
+        {
+            "Name": "Remi Jr. Ojo",
+                "Stats": {
+                    "Wins": "7",
+                    "Times Traded": "0",
+                    "Receiver Error": "5",
+                    "Goals": "46",
+                    "2nd Assists": "17",
+                    "Total Assist:Throw Away Ratio": "2.24",
+                    "Ds:Turnover Ratio": "0.54",
+                    "Throwaways": "34",
+                    "Salary": "$682,000",
+                    "Ds": "21",
+                    "Assists": "59"
+                }
+        },
+        {
+            "Name": "Mathew Harder",
+                "Stats": {
+                    "Wins": "6.5",
+                    "Times Traded": "4",
+                    "Receiver Error": "2",
+                    "Goals": "7",
+                    "2nd Assists": "21",
+                    "Total Assist:Throw Away Ratio": "4.43",
+                    "Ds:Turnover Ratio": "0.78",
+                    "Throwaways": "7",
+                    "Salary": "$285,000",
+                    "Ds": "7",
+                    "Assists": "10"
+            }
+        },
+        {
+            "Name": "Finlay D'silva",
+                "Stats": {
+                    "Wins": "4.5",
+                    "Times Traded": "1",
+                    "Receiver Error": "2",
+                    "Goals": "9",
+                    "2nd Assists": "25",
+                    "Total Assist:Throw Away Ratio": "2.11",
+                    "Ds:Turnover Ratio": "0.10",
+                    "Throwaways": "28",
+                    "Salary": "$323,500",
+                    "Ds": "3",
+                    "Assists": "34"
+                }
+        }
+    ]
+}
