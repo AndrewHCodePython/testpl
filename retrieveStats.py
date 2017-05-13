@@ -2,7 +2,7 @@ from __future__ import print_function
 import httplib2
 import os
 import json
-
+import pprint 
 from apiclient import discovery
 from oauth2client import client
 from oauth2client import tools
@@ -50,6 +50,7 @@ def get_credentials():
     return credentials
 
 def main():
+
     """Shows basic usage of the Sheets API.
 
     Creates a Sheets API service object and prints the names and majors of
@@ -66,6 +67,9 @@ def main():
     TPL Season II:
     TPL Season I:
     """
+    dictionary1 = {}
+    stat_keys = ['Salary', 'Goals', 'Assists', '2nd Assists', 'Ds', 'Throwaways', 'Receiver Error', 'Wins', 'Times Traded', 'Ds:Turnover Ratio', 'Total Assist:Throw Away Ratio']
+    
     credentials = get_credentials()
     http = credentials.authorize(httplib2.Http())
     discoveryUrl = ('https://sheets.googleapis.com/$discovery/rest?'
@@ -74,25 +78,69 @@ def main():
                               discoveryServiceUrl=discoveryUrl)
 
     #spreadsheetId = '1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms'
-    spreadsheetId = '1SP7oeq_60bDXW4QbLZwDnzE_H9HlwIr41donZg_jS88'
+    spreadsheetId = '1K6fHhdBGHlyur1NTZ6ob0wEPAqjKMQSHPUwdlxglLa4'
     #rangeName = 'Class Data!A2:E'
     rangeName = 'Overall Leaderboard!A4:X'
     #rangeName = 'Import!D10:AF'    # Import tab in some of the tpl spreadsheets
+    title = service.spreadsheets().get(spreadsheetId=spreadsheetId).execute().get('properties', []).get('title', [])
+    dic2 = {}
+    dic2['Season'] = title
+    pprint.pprint(dic2)
     result = service.spreadsheets().values().get(
         spreadsheetId=spreadsheetId, range=rangeName).execute()
-    values = result.get('values', [])
+    values = result.get('values', [])    
+
 
     if not values:
         print('No data found.')
+    elif len(values[0]) != 23:
+        print("wront number of rows", len(values[0]))
     else:
-        output_json = 'TPLSeason05Stats.json'    
-        #print('Name, Major:')
-        with open(output_json, 'w') as outfile:
-            for row in values:
-                # Print columns A and E, which correspond to indices 0 and 4.
-                #print('%s, %s, %s, %s, %s' % (row[0], row[1], row[2], row[3], row[4]))
-                outfile.write("\n")
-                outfile.write(str(row))
+        output_json = 'test.json'   
+        dictionary1['Parity Season'] = title
+        for rows in values[1:]:
+            for i in range(0, len(rows), 2):
+                if rows[i] not in dictionary1:
+                    dictionary1[rows[i]] = dict.fromkeys(stat_keys)        
+
+                if i == 0:
+                    dictionary1[rows[i]]['Salary'] = rows[i+1]
+                if i == 2:
+                    dictionary1[rows[i]]['Goals'] = rows[i+1]
+                if i == 4:
+                    dictionary1[rows[i]]['Assists'] = rows[i+1]
+                if i == 6:
+                    dictionary1[rows[i]]['2nd Assists'] = rows[i+1]
+                if i == 8:
+                    dictionary1[rows[i]]['Ds'] = rows[i+1]
+                if i == 10:
+                    dictionary1[rows[i]]['Throwaways'] = rows[i+1]
+                if i == 12:
+                    dictionary1[rows[i]]['Receiver Error'] = rows[i+1]
+                if i == 14:
+                    dictionary1[rows[i]]['Wins'] = rows[i+1]
+                if i == 16:
+                    dictionary1[rows[i]]['Times Traded'] = rows[i+1]
+                if i == 18:
+                    dictionary1[rows[i]]['Ds:Turnover Ratio'] = rows[i+1]
+                if i == 20:
+                    dictionary1[rows[i]]['Total Assist:Throw Away Ratio'] = rows[i+1]
+
+        #pprint.pprint(dictionary1)
+        j = json.dumps(dictionary1, indent=4)
+        f = open(output_json, 'w')
+        f.write(j)
+        f.close()
+
+        # with open(output_json, 'w') as outfile:
+        #     json.dumps(dictionary1, outfile)
+
+        # with open(output_json, 'w') as outfile:
+        #     for row in values:
+        #         # Print columns A and E, which correspond to indices 0 and 4.
+        #         print('%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s' % (row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10], row[11], row[12], row[13], row[14], row[15], row[16], row[17], row[18]))
+        #         outfile.write("\n")
+        #         outfile.write(str(row))
 
     # convert list into json
     '''output_json = 'output.json'
