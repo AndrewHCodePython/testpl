@@ -96,6 +96,7 @@ def main():
     elif len(values[0]) != 23:
         print("wront number of rows", len(values[0]))
     else:
+<<<<<<< HEAD
         output_json = 'test.json'   
         dictionary1['Parity Season'] = title
         for rows in values[1:]:
@@ -141,6 +142,16 @@ def main():
         #         print('%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s' % (row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10], row[11], row[12], row[13], row[14], row[15], row[16], row[17], row[18]))
         #         outfile.write("\n")
         #         outfile.write(str(row))
+=======
+        output_json = 'TPLSeason05Stats.json'    
+        #print('Name, Major:')
+        with open(output_json, 'w') as outfile:
+            for row in values:
+                # Print columns A and E, which correspond to indices 0 and 4.
+                print('%s, %s, %s, %s, %s' % (row[0], row[1], row[2], row[3], row[4]))
+                outfile.write("\n")
+                outfile.write(str(row))
+>>>>>>> 49321914918c0dca48ab29900292e5f157ed295b
 
     # convert list into json
     '''output_json = 'output.json'
