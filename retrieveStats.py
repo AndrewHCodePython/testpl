@@ -36,7 +36,7 @@ def get_credentials():
         os.makedirs(credential_dir)
     credential_path = os.path.join(credential_dir,
                                    'sheets.googleapis.com-python-quickstart.json')
-
+    print(credential_path)
     store = Storage(credential_path)
     credentials = store.get()
     if not credentials or credentials.invalid:
@@ -96,36 +96,35 @@ def main():
     elif len(values[0]) != 23:
         print("wront number of rows", len(values[0]))
     else:
-<<<<<<< HEAD
-        output_json = 'test.json'   
+        output_json = 'season_10_stats.json'   
         dictionary1['Parity Season'] = title
         for rows in values[1:]:
             for i in range(0, len(rows), 2):
                 if rows[i] not in dictionary1:
-                    dictionary1[rows[i]] = dict.fromkeys(stat_keys)        
+                    dictionary1[rows[i]] = {"Stats": dict.fromkeys(stat_keys)}
 
                 if i == 0:
-                    dictionary1[rows[i]]['Salary'] = rows[i+1]
+                    dictionary1[rows[i]]['Stats']['Salary'] = rows[i+1]
                 if i == 2:
-                    dictionary1[rows[i]]['Goals'] = rows[i+1]
+                    dictionary1[rows[i]]['Stats']['Goals'] = rows[i+1]
                 if i == 4:
-                    dictionary1[rows[i]]['Assists'] = rows[i+1]
+                    dictionary1[rows[i]]['Stats']['Assists'] = rows[i+1]
                 if i == 6:
-                    dictionary1[rows[i]]['2nd Assists'] = rows[i+1]
+                    dictionary1[rows[i]]['Stats']['2nd Assists'] = rows[i+1]
                 if i == 8:
-                    dictionary1[rows[i]]['Ds'] = rows[i+1]
+                    dictionary1[rows[i]]['Stats']['Ds'] = rows[i+1]
                 if i == 10:
-                    dictionary1[rows[i]]['Throwaways'] = rows[i+1]
+                    dictionary1[rows[i]]['Stats']['Throwaways'] = rows[i+1]
                 if i == 12:
-                    dictionary1[rows[i]]['Receiver Error'] = rows[i+1]
+                    dictionary1[rows[i]]['Stats']['Receiver Error'] = rows[i+1]
                 if i == 14:
-                    dictionary1[rows[i]]['Wins'] = rows[i+1]
+                    dictionary1[rows[i]]['Stats']['Wins'] = rows[i+1]
                 if i == 16:
-                    dictionary1[rows[i]]['Times Traded'] = rows[i+1]
+                    dictionary1[rows[i]]['Stats']['Times Traded'] = rows[i+1]
                 if i == 18:
-                    dictionary1[rows[i]]['Ds:Turnover Ratio'] = rows[i+1]
+                    dictionary1[rows[i]]['Stats']['Ds:Turnover Ratio'] = rows[i+1]
                 if i == 20:
-                    dictionary1[rows[i]]['Total Assist:Throw Away Ratio'] = rows[i+1]
+                    dictionary1[rows[i]]['Stats']['Total Assist:Throw Away Ratio'] = rows[i+1]
 
         #pprint.pprint(dictionary1)
         j = json.dumps(dictionary1, indent=4)
@@ -142,16 +141,6 @@ def main():
         #         print('%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s' % (row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10], row[11], row[12], row[13], row[14], row[15], row[16], row[17], row[18]))
         #         outfile.write("\n")
         #         outfile.write(str(row))
-=======
-        output_json = 'TPLSeason05Stats.json'    
-        #print('Name, Major:')
-        with open(output_json, 'w') as outfile:
-            for row in values:
-                # Print columns A and E, which correspond to indices 0 and 4.
-                print('%s, %s, %s, %s, %s' % (row[0], row[1], row[2], row[3], row[4]))
-                outfile.write("\n")
-                outfile.write(str(row))
->>>>>>> 49321914918c0dca48ab29900292e5f157ed295b
 
     # convert list into json
     '''output_json = 'output.json'

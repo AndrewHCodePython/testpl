@@ -1,0 +1,2523 @@
+{
+    "Charles Burger": {
+        "Stats": {
+            "Assists": "3",
+            "Goals": "20",
+            "2nd Assists": "1",
+            "Times Traded": "0",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "1.38",
+            "Total Assist:Throw Away Ratio": "0.80",
+            "Salary": "$266,500",
+            "Throwaways": "5",
+            "Receiver Error": "3",
+            "Ds": "11"
+        }
+    },
+    "Amanda Murdoch": {
+        "Stats": {
+            "Assists": "1",
+            "Goals": "11",
+            "2nd Assists": "7",
+            "Times Traded": "3",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.50",
+            "Total Assist:Throw Away Ratio": "1.00",
+            "Salary": "$193,000",
+            "Throwaways": "8",
+            "Receiver Error": "0",
+            "Ds": "4"
+        }
+    },
+    "Rebecca Chan": {
+        "Stats": {
+            "Assists": "3",
+            "Goals": "16",
+            "2nd Assists": "9",
+            "Times Traded": "1",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "0.08",
+            "Total Assist:Throw Away Ratio": "2.00",
+            "Salary": "$215,000",
+            "Throwaways": "6",
+            "Receiver Error": "7",
+            "Ds": "1"
+        }
+    },
+    "Ian Bone": {
+        "Stats": {
+            "Assists": "29",
+            "Goals": "36",
+            "2nd Assists": "15",
+            "Times Traded": "2",
+            "Wins": "9",
+            "Ds:Turnover Ratio": "1.59",
+            "Total Assist:Throw Away Ratio": "2.00",
+            "Salary": "$638,000",
+            "Throwaways": "22",
+            "Receiver Error": "5",
+            "Ds": "43"
+        }
+    },
+    "Carter Chin": {
+        "Stats": {
+            "Assists": "22",
+            "Goals": "4",
+            "2nd Assists": "18",
+            "Times Traded": "0",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.18",
+            "Total Assist:Throw Away Ratio": "1.43",
+            "Salary": "$236,000",
+            "Throwaways": "28",
+            "Receiver Error": "5",
+            "Ds": "6"
+        }
+    },
+    "Andrew Gosbee": {
+        "Stats": {
+            "Assists": "31",
+            "Goals": "18",
+            "2nd Assists": "30",
+            "Times Traded": "0",
+            "Wins": "9",
+            "Ds:Turnover Ratio": "0.39",
+            "Total Assist:Throw Away Ratio": "3.21",
+            "Salary": "$446,500",
+            "Throwaways": "19",
+            "Receiver Error": "4",
+            "Ds": "9"
+        }
+    },
+    "Blue McClellan": {
+        "Stats": {
+            "Assists": "10",
+            "Goals": "3",
+            "2nd Assists": "11",
+            "Times Traded": "2",
+            "Wins": "2",
+            "Ds:Turnover Ratio": "0.22",
+            "Total Assist:Throw Away Ratio": "2.33",
+            "Salary": "$186,500",
+            "Throwaways": "9",
+            "Receiver Error": "0",
+            "Ds": "2"
+        }
+    },
+    "Cathy Wong": {
+        "Stats": {
+            "Assists": "19",
+            "Goals": "12",
+            "2nd Assists": "9",
+            "Times Traded": "5",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.38",
+            "Total Assist:Throw Away Ratio": "2.80",
+            "Salary": "$298,000",
+            "Throwaways": "10",
+            "Receiver Error": "3",
+            "Ds": "5"
+        }
+    },
+    "Jon Jephcott": {
+        "Stats": {
+            "Assists": "11",
+            "Goals": "20",
+            "2nd Assists": "14",
+            "Times Traded": "2",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "0.80",
+            "Total Assist:Throw Away Ratio": "2.50",
+            "Salary": "$337,000",
+            "Throwaways": "10",
+            "Receiver Error": "5",
+            "Ds": "12"
+        }
+    },
+    "Andrew Fell": {
+        "Stats": {
+            "Assists": "3",
+            "Goals": "3",
+            "2nd Assists": "9",
+            "Times Traded": "3",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.43",
+            "Total Assist:Throw Away Ratio": "2.00",
+            "Salary": "$175,500",
+            "Throwaways": "6",
+            "Receiver Error": "1",
+            "Ds": "3"
+        }
+    },
+    "Mark Taylor": {
+        "Stats": {
+            "Assists": "13",
+            "Goals": "31",
+            "2nd Assists": "5",
+            "Times Traded": "1",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "2.44",
+            "Total Assist:Throw Away Ratio": "3.00",
+            "Salary": "$442,500",
+            "Throwaways": "6",
+            "Receiver Error": "3",
+            "Ds": "22"
+        }
+    },
+    "Mark Virata": {
+        "Stats": {
+            "Assists": "2",
+            "Goals": "4",
+            "2nd Assists": "12",
+            "Times Traded": "6",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.33",
+            "Total Assist:Throw Away Ratio": "0.93",
+            "Salary": "$148,000",
+            "Throwaways": "15",
+            "Receiver Error": "6",
+            "Ds": "7"
+        }
+    },
+    "Brittany Heath": {
+        "Stats": {
+            "Assists": "1",
+            "Goals": "9",
+            "2nd Assists": "6",
+            "Times Traded": "1",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.43",
+            "Total Assist:Throw Away Ratio": "1.17",
+            "Salary": "$186,500",
+            "Throwaways": "6",
+            "Receiver Error": "1",
+            "Ds": "3"
+        }
+    },
+    "Greg McMullin": {
+        "Stats": {
+            "Assists": "30",
+            "Goals": "9",
+            "2nd Assists": "18",
+            "Times Traded": "1",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.43",
+            "Total Assist:Throw Away Ratio": "3.69",
+            "Salary": "$355,500",
+            "Throwaways": "13",
+            "Receiver Error": "1",
+            "Ds": "6"
+        }
+    },
+    "Kristie Ellis": {
+        "Stats": {
+            "Assists": "25",
+            "Goals": "22",
+            "2nd Assists": "19",
+            "Times Traded": "3",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.28",
+            "Total Assist:Throw Away Ratio": "2.20",
+            "Salary": "$367,000",
+            "Throwaways": "20",
+            "Receiver Error": "5",
+            "Ds": "7"
+        }
+    },
+    "Aaron Hooper": {
+        "Stats": {
+            "Assists": "34",
+            "Goals": "39",
+            "2nd Assists": "13",
+            "Times Traded": "3",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "2.00",
+            "Total Assist:Throw Away Ratio": "2.94",
+            "Salary": "$652,000",
+            "Throwaways": "16",
+            "Receiver Error": "2",
+            "Ds": "36"
+        }
+    },
+    "Puja Ahluwalia": {
+        "Stats": {
+            "Assists": "0",
+            "Goals": "19",
+            "2nd Assists": "5",
+            "Times Traded": "2",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.73",
+            "Total Assist:Throw Away Ratio": "0.63",
+            "Salary": "$240,500",
+            "Throwaways": "8",
+            "Receiver Error": "3",
+            "Ds": "8"
+        }
+    },
+    "Misiu Godfrey": {
+        "Stats": {
+            "Assists": "36",
+            "Goals": "36",
+            "2nd Assists": "30",
+            "Times Traded": "2",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.94",
+            "Total Assist:Throw Away Ratio": "4.40",
+            "Salary": "$598,500",
+            "Throwaways": "15",
+            "Receiver Error": "3",
+            "Ds": "17"
+        }
+    },
+    "Julie DeWolf": {
+        "Stats": {
+            "Assists": "8",
+            "Goals": "32",
+            "2nd Assists": "18",
+            "Times Traded": "2",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.88",
+            "Total Assist:Throw Away Ratio": "8.67",
+            "Salary": "$383,500",
+            "Throwaways": "3",
+            "Receiver Error": "5",
+            "Ds": "7"
+        }
+    },
+    "Mark Kalvaitis": {
+        "Stats": {
+            "Assists": "7",
+            "Goals": "14",
+            "2nd Assists": "16",
+            "Times Traded": "3",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "0.50",
+            "Total Assist:Throw Away Ratio": "2.09",
+            "Salary": "$269,500",
+            "Throwaways": "11",
+            "Receiver Error": "5",
+            "Ds": "8"
+        }
+    },
+    "Anita Benoit": {
+        "Stats": {
+            "Assists": "2",
+            "Goals": "3",
+            "2nd Assists": "6",
+            "Times Traded": "2",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "0.22",
+            "Total Assist:Throw Away Ratio": "1.14",
+            "Salary": "$145,000",
+            "Throwaways": "7",
+            "Receiver Error": "2",
+            "Ds": "2"
+        }
+    },
+    "John Spears": {
+        "Stats": {
+            "Assists": "5",
+            "Goals": "12",
+            "2nd Assists": "5",
+            "Times Traded": "2",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "0.13",
+            "Total Assist:Throw Away Ratio": "0.77",
+            "Salary": "$178,000",
+            "Throwaways": "13",
+            "Receiver Error": "3",
+            "Ds": "2"
+        }
+    },
+    "Remi Jr. Ojo": {
+        "Stats": {
+            "Assists": "59",
+            "Goals": "46",
+            "2nd Assists": "17",
+            "Times Traded": "0",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.54",
+            "Total Assist:Throw Away Ratio": "2.24",
+            "Salary": "$682,000",
+            "Throwaways": "34",
+            "Receiver Error": "5",
+            "Ds": "21"
+        }
+    },
+    "Patrick Russell": {
+        "Stats": {
+            "Assists": "4",
+            "Goals": "10",
+            "2nd Assists": "13",
+            "Times Traded": "2",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.67",
+            "Total Assist:Throw Away Ratio": "2.13",
+            "Salary": "$228,000",
+            "Throwaways": "8",
+            "Receiver Error": "1",
+            "Ds": "6"
+        }
+    },
+    "Janine Duffy": {
+        "Stats": {
+            "Assists": "18",
+            "Goals": "10",
+            "2nd Assists": "8",
+            "Times Traded": "3",
+            "Wins": "1",
+            "Ds:Turnover Ratio": "0.50",
+            "Total Assist:Throw Away Ratio": "1.30",
+            "Salary": "$248,000",
+            "Throwaways": "20",
+            "Receiver Error": "2",
+            "Ds": "11"
+        }
+    },
+    "Colin Mattison": {
+        "Stats": {
+            "Assists": "23",
+            "Goals": "16",
+            "2nd Assists": "13",
+            "Times Traded": "8",
+            "Wins": "8",
+            "Ds:Turnover Ratio": "0.50",
+            "Total Assist:Throw Away Ratio": "1.50",
+            "Salary": "$348,000",
+            "Throwaways": "24",
+            "Receiver Error": "4",
+            "Ds": "14"
+        }
+    },
+    "Nick Hung": {
+        "Stats": {
+            "Assists": "17",
+            "Goals": "11",
+            "2nd Assists": "14",
+            "Times Traded": "0",
+            "Wins": "3",
+            "Ds:Turnover Ratio": "0.32",
+            "Total Assist:Throw Away Ratio": "1.35",
+            "Salary": "$246,500",
+            "Throwaways": "23",
+            "Receiver Error": "5",
+            "Ds": "9"
+        }
+    },
+    "Raoul Tanyan": {
+        "Stats": {
+            "Assists": "11",
+            "Goals": "13",
+            "2nd Assists": "8",
+            "Times Traded": "9",
+            "Wins": "3",
+            "Ds:Turnover Ratio": "0.34",
+            "Total Assist:Throw Away Ratio": "0.79",
+            "Salary": "$206,000",
+            "Throwaways": "24",
+            "Receiver Error": "8",
+            "Ds": "11"
+        }
+    },
+    "Farra Kurniawan": {
+        "Stats": {
+            "Assists": "13",
+            "Goals": "14",
+            "2nd Assists": "11",
+            "Times Traded": "2",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.35",
+            "Total Assist:Throw Away Ratio": "1.85",
+            "Salary": "$260,500",
+            "Throwaways": "13",
+            "Receiver Error": "4",
+            "Ds": "6"
+        }
+    },
+    "Laura Wiese": {
+        "Stats": {
+            "Assists": "12",
+            "Goals": "16",
+            "2nd Assists": "16",
+            "Times Traded": "0",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.29",
+            "Total Assist:Throw Away Ratio": "1.75",
+            "Salary": "$274,500",
+            "Throwaways": "16",
+            "Receiver Error": "5",
+            "Ds": "6"
+        }
+    },
+    "Michael Rudanycz": {
+        "Stats": {
+            "Assists": "7",
+            "Goals": "12",
+            "2nd Assists": "3",
+            "Times Traded": "4",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.26",
+            "Total Assist:Throw Away Ratio": "0.56",
+            "Salary": "$166,500",
+            "Throwaways": "18",
+            "Receiver Error": "9",
+            "Ds": "7"
+        }
+    },
+    "Kyle Hubbard": {
+        "Stats": {
+            "Assists": "11",
+            "Goals": "18",
+            "2nd Assists": "9",
+            "Times Traded": "0",
+            "Wins": "9",
+            "Ds:Turnover Ratio": "0.18",
+            "Total Assist:Throw Away Ratio": "2.86",
+            "Salary": "$290,500",
+            "Throwaways": "7",
+            "Receiver Error": "4",
+            "Ds": "2"
+        }
+    },
+    "James Ho": {
+        "Stats": {
+            "Assists": "14",
+            "Goals": "18",
+            "2nd Assists": "7",
+            "Times Traded": "2",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.47",
+            "Total Assist:Throw Away Ratio": "1.62",
+            "Salary": "$295,000",
+            "Throwaways": "13",
+            "Receiver Error": "6",
+            "Ds": "9"
+        }
+    },
+    "Marianne Perko": {
+        "Stats": {
+            "Assists": "22",
+            "Goals": "55",
+            "2nd Assists": "14",
+            "Times Traded": "1",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.44",
+            "Total Assist:Throw Away Ratio": "3.00",
+            "Salary": "$543,000",
+            "Throwaways": "12",
+            "Receiver Error": "4",
+            "Ds": "7"
+        }
+    },
+    "Leroy Lo": {
+        "Stats": {
+            "Assists": "14",
+            "Goals": "19",
+            "2nd Assists": "13",
+            "Times Traded": "5",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.41",
+            "Total Assist:Throw Away Ratio": "1.50",
+            "Salary": "$299,000",
+            "Throwaways": "18",
+            "Receiver Error": "4",
+            "Ds": "9"
+        }
+    },
+    "Genevieve Daigle": {
+        "Stats": {
+            "Assists": "6",
+            "Goals": "17",
+            "2nd Assists": "5",
+            "Times Traded": "5",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.22",
+            "Total Assist:Throw Away Ratio": "1.83",
+            "Salary": "$235,000",
+            "Throwaways": "6",
+            "Receiver Error": "3",
+            "Ds": "2"
+        }
+    },
+    "David Yu": {
+        "Stats": {
+            "Assists": "30",
+            "Goals": "21",
+            "2nd Assists": "17",
+            "Times Traded": "3",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.56",
+            "Total Assist:Throw Away Ratio": "1.52",
+            "Salary": "$418,500",
+            "Throwaways": "31",
+            "Receiver Error": "3",
+            "Ds": "19"
+        }
+    },
+    "Don Colangelo": {
+        "Stats": {
+            "Assists": "21",
+            "Goals": "14",
+            "2nd Assists": "12",
+            "Times Traded": "2",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.89",
+            "Total Assist:Throw Away Ratio": "2.06",
+            "Salary": "$363,500",
+            "Throwaways": "16",
+            "Receiver Error": "3",
+            "Ds": "17"
+        }
+    },
+    "Tom Brooks": {
+        "Stats": {
+            "Assists": "4",
+            "Goals": "14",
+            "2nd Assists": "13",
+            "Times Traded": "3",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.44",
+            "Total Assist:Throw Away Ratio": "0.94",
+            "Salary": "$235,000",
+            "Throwaways": "18",
+            "Receiver Error": "7",
+            "Ds": "11"
+        }
+    },
+    "Kaity Williams": {
+        "Stats": {
+            "Assists": "17",
+            "Goals": "3",
+            "2nd Assists": "11",
+            "Times Traded": "0",
+            "Wins": "2.5",
+            "Ds:Turnover Ratio": "0.09",
+            "Total Assist:Throw Away Ratio": "1.56",
+            "Salary": "$177,500",
+            "Throwaways": "18",
+            "Receiver Error": "5",
+            "Ds": "2"
+        }
+    },
+    "Norman Lew": {
+        "Stats": {
+            "Assists": "70",
+            "Goals": "30",
+            "2nd Assists": "25",
+            "Times Traded": "2",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.55",
+            "Total Assist:Throw Away Ratio": "2.38",
+            "Salary": "$679,000",
+            "Throwaways": "40",
+            "Receiver Error": "7",
+            "Ds": "26"
+        }
+    },
+    "Danielle Leung": {
+        "Stats": {
+            "Assists": "9",
+            "Goals": "23",
+            "2nd Assists": "15",
+            "Times Traded": "2",
+            "Wins": "9.5",
+            "Ds:Turnover Ratio": "0.68",
+            "Total Assist:Throw Away Ratio": "1.50",
+            "Salary": "$352,500",
+            "Throwaways": "16",
+            "Receiver Error": "3",
+            "Ds": "13"
+        }
+    },
+    "Taunya Tremblay": {
+        "Stats": {
+            "Assists": "1",
+            "Goals": "7",
+            "2nd Assists": "6",
+            "Times Traded": "1",
+            "Wins": "2",
+            "Ds:Turnover Ratio": "1.00",
+            "Total Assist:Throw Away Ratio": "7.00",
+            "Salary": "$171,500",
+            "Throwaways": "1",
+            "Receiver Error": "1",
+            "Ds": "2"
+        }
+    },
+    "Lachlan Holmes": {
+        "Stats": {
+            "Assists": "12",
+            "Goals": "19",
+            "2nd Assists": "14",
+            "Times Traded": "4",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.91",
+            "Total Assist:Throw Away Ratio": "3.25",
+            "Salary": "$327,500",
+            "Throwaways": "8",
+            "Receiver Error": "3",
+            "Ds": "10"
+        }
+    },
+    "Jessica Chen": {
+        "Stats": {
+            "Assists": "2",
+            "Goals": "15",
+            "2nd Assists": "7",
+            "Times Traded": "1",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.18",
+            "Total Assist:Throw Away Ratio": "0.90",
+            "Salary": "$198,000",
+            "Throwaways": "10",
+            "Receiver Error": "1",
+            "Ds": "2"
+        }
+    },
+    "Dario Zgrablic": {
+        "Stats": {
+            "Assists": "27",
+            "Goals": "11",
+            "2nd Assists": "23",
+            "Times Traded": "1",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "0.48",
+            "Total Assist:Throw Away Ratio": "2.00",
+            "Salary": "$359,500",
+            "Throwaways": "25",
+            "Receiver Error": "4",
+            "Ds": "14"
+        }
+    },
+    "Lori Bristow": {
+        "Stats": {
+            "Assists": "5",
+            "Goals": "3",
+            "2nd Assists": "7",
+            "Times Traded": "1",
+            "Wins": "3",
+            "Ds:Turnover Ratio": "0.00",
+            "Total Assist:Throw Away Ratio": "0.80",
+            "Salary": "$117,500",
+            "Throwaways": "15",
+            "Receiver Error": "2",
+            "Ds": "0"
+        }
+    },
+    "Kirk MacRae": {
+        "Stats": {
+            "Assists": "21",
+            "Goals": "44",
+            "2nd Assists": "17",
+            "Times Traded": "0",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "0.59",
+            "Total Assist:Throw Away Ratio": "2.71",
+            "Salary": "$490,500",
+            "Throwaways": "14",
+            "Receiver Error": "3",
+            "Ds": "10"
+        }
+    },
+    "Jill Elliot": {
+        "Stats": {
+            "Assists": "5",
+            "Goals": "6",
+            "2nd Assists": "2",
+            "Times Traded": "4",
+            "Wins": "3",
+            "Ds:Turnover Ratio": "0.60",
+            "Total Assist:Throw Away Ratio": "1.75",
+            "Salary": "$174,000",
+            "Throwaways": "4",
+            "Receiver Error": "1",
+            "Ds": "3"
+        }
+    },
+    "Travis DeWolf": {
+        "Stats": {
+            "Assists": "13",
+            "Goals": "44",
+            "2nd Assists": "10",
+            "Times Traded": "0",
+            "Wins": "7.5",
+            "Ds:Turnover Ratio": "0.94",
+            "Total Assist:Throw Away Ratio": "2.09",
+            "Salary": "$474,000",
+            "Throwaways": "11",
+            "Receiver Error": "5",
+            "Ds": "15"
+        }
+    },
+    "Carolina Vargas": {
+        "Stats": {
+            "Assists": "5",
+            "Goals": "13",
+            "2nd Assists": "21",
+            "Times Traded": "2",
+            "Wins": "8.5",
+            "Ds:Turnover Ratio": "0.56",
+            "Total Assist:Throw Away Ratio": "2.60",
+            "Salary": "$286,500",
+            "Throwaways": "10",
+            "Receiver Error": "8",
+            "Ds": "10"
+        }
+    },
+    "Rick St. Jean": {
+        "Stats": {
+            "Assists": "13",
+            "Goals": "10",
+            "2nd Assists": "9",
+            "Times Traded": "3",
+            "Wins": "3",
+            "Ds:Turnover Ratio": "0.45",
+            "Total Assist:Throw Away Ratio": "2.20",
+            "Salary": "$244,000",
+            "Throwaways": "10",
+            "Receiver Error": "1",
+            "Ds": "5"
+        }
+    },
+    "Morgan Leech": {
+        "Stats": {
+            "Assists": "7",
+            "Goals": "8",
+            "2nd Assists": "4",
+            "Times Traded": "1",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.15",
+            "Total Assist:Throw Away Ratio": "0.69",
+            "Salary": "$154,000",
+            "Throwaways": "16",
+            "Receiver Error": "4",
+            "Ds": "3"
+        }
+    },
+    "Emma Seaborn": {
+        "Stats": {
+            "Assists": "27",
+            "Goals": "6",
+            "2nd Assists": "37",
+            "Times Traded": "0",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.18",
+            "Total Assist:Throw Away Ratio": "2.29",
+            "Salary": "$318,000",
+            "Throwaways": "28",
+            "Receiver Error": "5",
+            "Ds": "6"
+        }
+    },
+    "Daniel McKittrick": {
+        "Stats": {
+            "Assists": "5",
+            "Goals": "16",
+            "2nd Assists": "7",
+            "Times Traded": "3",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.80",
+            "Total Assist:Throw Away Ratio": "1.71",
+            "Salary": "$260,000",
+            "Throwaways": "7",
+            "Receiver Error": "3",
+            "Ds": "8"
+        }
+    },
+    "Ronald Ha": {
+        "Stats": {
+            "Assists": "8",
+            "Goals": "10",
+            "2nd Assists": "9",
+            "Times Traded": "3",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.45",
+            "Total Assist:Throw Away Ratio": "1.55",
+            "Salary": "$214,000",
+            "Throwaways": "11",
+            "Receiver Error": "9",
+            "Ds": "9"
+        }
+    },
+    "Marko Iskric": {
+        "Stats": {
+            "Assists": "29",
+            "Goals": "16",
+            "2nd Assists": "28",
+            "Times Traded": "0",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.38",
+            "Total Assist:Throw Away Ratio": "1.90",
+            "Salary": "$378,000",
+            "Throwaways": "30",
+            "Receiver Error": "7",
+            "Ds": "14"
+        }
+    },
+    "Ed Kung": {
+        "Stats": {
+            "Assists": "6",
+            "Goals": "12",
+            "2nd Assists": "13",
+            "Times Traded": "1",
+            "Wins": "8",
+            "Ds:Turnover Ratio": "0.62",
+            "Total Assist:Throw Away Ratio": "3.17",
+            "Salary": "$267,000",
+            "Throwaways": "6",
+            "Receiver Error": "7",
+            "Ds": "8"
+        }
+    },
+    "Daniel Wagner": {
+        "Stats": {
+            "Assists": "13",
+            "Goals": "11",
+            "2nd Assists": "9",
+            "Times Traded": "3",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.27",
+            "Total Assist:Throw Away Ratio": "1.00",
+            "Salary": "$218,000",
+            "Throwaways": "22",
+            "Receiver Error": "4",
+            "Ds": "7"
+        }
+    },
+    "Jeff Chik": {
+        "Stats": {
+            "Assists": "25",
+            "Goals": "11",
+            "2nd Assists": "23",
+            "Times Traded": "6",
+            "Wins": "9",
+            "Ds:Turnover Ratio": "0.68",
+            "Total Assist:Throw Away Ratio": "2.40",
+            "Salary": "$393,000",
+            "Throwaways": "20",
+            "Receiver Error": "2",
+            "Ds": "15"
+        }
+    },
+    "Tyler Longo": {
+        "Stats": {
+            "Assists": "4",
+            "Goals": "3",
+            "2nd Assists": "14",
+            "Times Traded": "2",
+            "Wins": "3",
+            "Ds:Turnover Ratio": "0.14",
+            "Total Assist:Throw Away Ratio": "3.00",
+            "Salary": "$173,000",
+            "Throwaways": "6",
+            "Receiver Error": "1",
+            "Ds": "1"
+        }
+    },
+    "Anne-Marie Carey": {
+        "Stats": {
+            "Assists": "16",
+            "Goals": "20",
+            "2nd Assists": "16",
+            "Times Traded": "2",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "0.48",
+            "Total Assist:Throw Away Ratio": "1.68",
+            "Salary": "$334,500",
+            "Throwaways": "19",
+            "Receiver Error": "4",
+            "Ds": "11"
+        }
+    },
+    "Meghan Janssen": {
+        "Stats": {
+            "Assists": "10",
+            "Goals": "40",
+            "2nd Assists": "11",
+            "Times Traded": "4",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.24",
+            "Total Assist:Throw Away Ratio": "1.91",
+            "Salary": "$379,000",
+            "Throwaways": "11",
+            "Receiver Error": "6",
+            "Ds": "4"
+        }
+    },
+    "Mathew Harder": {
+        "Stats": {
+            "Assists": "10",
+            "Goals": "7",
+            "2nd Assists": "21",
+            "Times Traded": "4",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.78",
+            "Total Assist:Throw Away Ratio": "4.43",
+            "Salary": "$285,000",
+            "Throwaways": "7",
+            "Receiver Error": "2",
+            "Ds": "7"
+        }
+    },
+    "Carson Pun": {
+        "Stats": {
+            "Assists": "10",
+            "Goals": "5",
+            "2nd Assists": "6",
+            "Times Traded": "2",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "0.44",
+            "Total Assist:Throw Away Ratio": "2.00",
+            "Salary": "$204,500",
+            "Throwaways": "8",
+            "Receiver Error": "1",
+            "Ds": "4"
+        }
+    },
+    "Valerie MacDougall": {
+        "Stats": {
+            "Assists": "2",
+            "Goals": "12",
+            "2nd Assists": "4",
+            "Times Traded": "4",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "0.25",
+            "Total Assist:Throw Away Ratio": "0.75",
+            "Salary": "$179,500",
+            "Throwaways": "8",
+            "Receiver Error": "4",
+            "Ds": "3"
+        }
+    },
+    "David Burden": {
+        "Stats": {
+            "Assists": "32",
+            "Goals": "10",
+            "2nd Assists": "11",
+            "Times Traded": "3",
+            "Wins": "8.5",
+            "Ds:Turnover Ratio": "0.12",
+            "Total Assist:Throw Away Ratio": "1.48",
+            "Salary": "$292,000",
+            "Throwaways": "29",
+            "Receiver Error": "4",
+            "Ds": "4"
+        }
+    },
+    "Vincent Poon": {
+        "Stats": {
+            "Assists": "18",
+            "Goals": "11",
+            "2nd Assists": "10",
+            "Times Traded": "5",
+            "Wins": "2.5",
+            "Ds:Turnover Ratio": "0.21",
+            "Total Assist:Throw Away Ratio": "2.33",
+            "Salary": "$254,500",
+            "Throwaways": "12",
+            "Receiver Error": "2",
+            "Ds": "3"
+        }
+    },
+    "Saleh Mohamed": {
+        "Stats": {
+            "Assists": "12",
+            "Goals": "16",
+            "2nd Assists": "15",
+            "Times Traded": "2",
+            "Wins": "3",
+            "Ds:Turnover Ratio": "0.80",
+            "Total Assist:Throw Away Ratio": "3.00",
+            "Salary": "$305,500",
+            "Throwaways": "9",
+            "Receiver Error": "1",
+            "Ds": "8"
+        }
+    },
+    "Chris Loat": {
+        "Stats": {
+            "Assists": "74",
+            "Goals": "12",
+            "2nd Assists": "26",
+            "Times Traded": "1",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.52",
+            "Total Assist:Throw Away Ratio": "4.00",
+            "Salary": "$602,000",
+            "Throwaways": "25",
+            "Receiver Error": "2",
+            "Ds": "14"
+        }
+    },
+    "Beth Fisher": {
+        "Stats": {
+            "Assists": "2",
+            "Goals": "9",
+            "2nd Assists": "10",
+            "Times Traded": "9",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "0.20",
+            "Total Assist:Throw Away Ratio": "0.67",
+            "Salary": "$166,000",
+            "Throwaways": "18",
+            "Receiver Error": "2",
+            "Ds": "4"
+        }
+    },
+    "Michael McConnell": {
+        "Stats": {
+            "Assists": "12",
+            "Goals": "20",
+            "2nd Assists": "18",
+            "Times Traded": "1",
+            "Wins": "8",
+            "Ds:Turnover Ratio": "0.78",
+            "Total Assist:Throw Away Ratio": "1.88",
+            "Salary": "$362,000",
+            "Throwaways": "16",
+            "Receiver Error": "2",
+            "Ds": "14"
+        }
+    },
+    "Agatha Hodsman": {
+        "Stats": {
+            "Assists": "4",
+            "Goals": "8",
+            "2nd Assists": "11",
+            "Times Traded": "0",
+            "Wins": "9",
+            "Ds:Turnover Ratio": "0.46",
+            "Total Assist:Throw Away Ratio": "1.50",
+            "Salary": "$224,000",
+            "Throwaways": "10",
+            "Receiver Error": "3",
+            "Ds": "6"
+        }
+    },
+    "Gareth Cawley": {
+        "Stats": {
+            "Assists": "53",
+            "Goals": "65",
+            "2nd Assists": "29",
+            "Times Traded": "0",
+            "Wins": "7.5",
+            "Ds:Turnover Ratio": "0.50",
+            "Total Assist:Throw Away Ratio": "2.28",
+            "Salary": "$778,500",
+            "Throwaways": "36",
+            "Receiver Error": "0",
+            "Ds": "18"
+        }
+    },
+    "Jarel Villarroya": {
+        "Stats": {
+            "Assists": "17",
+            "Goals": "1",
+            "2nd Assists": "23",
+            "Times Traded": "0",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "0.57",
+            "Total Assist:Throw Away Ratio": "2.00",
+            "Salary": "$268,500",
+            "Throwaways": "20",
+            "Receiver Error": "1",
+            "Ds": "12"
+        }
+    },
+    "Lindsay Musalem": {
+        "Stats": {
+            "Assists": "27",
+            "Goals": "28",
+            "2nd Assists": "19",
+            "Times Traded": "2",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.56",
+            "Total Assist:Throw Away Ratio": "2.09",
+            "Salary": "$447,500",
+            "Throwaways": "22",
+            "Receiver Error": "5",
+            "Ds": "15"
+        }
+    },
+    "Chris Faulkner": {
+        "Stats": {
+            "Assists": "18",
+            "Goals": "23",
+            "2nd Assists": "22",
+            "Times Traded": "4",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.53",
+            "Total Assist:Throw Away Ratio": "3.33",
+            "Salary": "$380,000",
+            "Throwaways": "12",
+            "Receiver Error": "3",
+            "Ds": "8"
+        }
+    },
+    "Ron Waisbord": {
+        "Stats": {
+            "Assists": "23",
+            "Goals": "27",
+            "2nd Assists": "11",
+            "Times Traded": "1",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.54",
+            "Total Assist:Throw Away Ratio": "1.62",
+            "Salary": "$397,000",
+            "Throwaways": "21",
+            "Receiver Error": "5",
+            "Ds": "14"
+        }
+    },
+    "Natalie Dunn": {
+        "Stats": {
+            "Assists": "7",
+            "Goals": "14",
+            "2nd Assists": "13",
+            "Times Traded": "1",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.30",
+            "Total Assist:Throw Away Ratio": "1.25",
+            "Salary": "$233,500",
+            "Throwaways": "16",
+            "Receiver Error": "4",
+            "Ds": "6"
+        }
+    },
+    "Lucy Chu": {
+        "Stats": {
+            "Assists": "23",
+            "Goals": "30",
+            "2nd Assists": "19",
+            "Times Traded": "2",
+            "Wins": "8",
+            "Ds:Turnover Ratio": "0.67",
+            "Total Assist:Throw Away Ratio": "1.40",
+            "Salary": "$458,000",
+            "Throwaways": "30",
+            "Receiver Error": "3",
+            "Ds": "22"
+        }
+    },
+    "Robert Jackson": {
+        "Stats": {
+            "Assists": "24",
+            "Goals": "26",
+            "2nd Assists": "13",
+            "Times Traded": "3",
+            "Wins": "8",
+            "Ds:Turnover Ratio": "0.77",
+            "Total Assist:Throw Away Ratio": "1.42",
+            "Salary": "$441,000",
+            "Throwaways": "26",
+            "Receiver Error": "4",
+            "Ds": "23"
+        }
+    },
+    "Stephanie Kimmerle": {
+        "Stats": {
+            "Assists": "15",
+            "Goals": "19",
+            "2nd Assists": "8",
+            "Times Traded": "0",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.61",
+            "Total Assist:Throw Away Ratio": "1.64",
+            "Salary": "$323,000",
+            "Throwaways": "14",
+            "Receiver Error": "4",
+            "Ds": "11"
+        }
+    },
+    "Cameron Crockatt": {
+        "Stats": {
+            "Assists": "6",
+            "Goals": "18",
+            "2nd Assists": "6",
+            "Times Traded": "3",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.36",
+            "Total Assist:Throw Away Ratio": "2.00",
+            "Salary": "$242,000",
+            "Throwaways": "6",
+            "Receiver Error": "5",
+            "Ds": "4"
+        }
+    },
+    "Jon Brandt": {
+        "Stats": {
+            "Assists": "14",
+            "Goals": "21",
+            "2nd Assists": "9",
+            "Times Traded": "2",
+            "Wins": "2",
+            "Ds:Turnover Ratio": "0.27",
+            "Total Assist:Throw Away Ratio": "0.88",
+            "Salary": "$249,000",
+            "Throwaways": "26",
+            "Receiver Error": "4",
+            "Ds": "8"
+        }
+    },
+    "Graham Haines": {
+        "Stats": {
+            "Assists": "9",
+            "Goals": "11",
+            "2nd Assists": "4",
+            "Times Traded": "1",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.53",
+            "Total Assist:Throw Away Ratio": "0.93",
+            "Salary": "$224,000",
+            "Throwaways": "14",
+            "Receiver Error": "3",
+            "Ds": "9"
+        }
+    },
+    "Matthew Galloway": {
+        "Stats": {
+            "Assists": "14",
+            "Goals": "59",
+            "2nd Assists": "15",
+            "Times Traded": "1",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "1.24",
+            "Total Assist:Throw Away Ratio": "1.32",
+            "Salary": "$611,500",
+            "Throwaways": "22",
+            "Receiver Error": "3",
+            "Ds": "31"
+        }
+    },
+    "Peter Ferderber": {
+        "Stats": {
+            "Assists": "12",
+            "Goals": "18",
+            "2nd Assists": "10",
+            "Times Traded": "3",
+            "Wins": "7.5",
+            "Ds:Turnover Ratio": "0.38",
+            "Total Assist:Throw Away Ratio": "1.05",
+            "Salary": "$280,000",
+            "Throwaways": "21",
+            "Receiver Error": "3",
+            "Ds": "9"
+        }
+    },
+    "Tyler Curtis": {
+        "Stats": {
+            "Assists": "18",
+            "Goals": "69",
+            "2nd Assists": "13",
+            "Times Traded": "1",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "1.17",
+            "Total Assist:Throw Away Ratio": "2.07",
+            "Salary": "$640,000",
+            "Throwaways": "15",
+            "Receiver Error": "3",
+            "Ds": "21"
+        }
+    },
+    "Matt Kishi": {
+        "Stats": {
+            "Assists": "34",
+            "Goals": "12",
+            "2nd Assists": "25",
+            "Times Traded": "1",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "0.64",
+            "Total Assist:Throw Away Ratio": "2.27",
+            "Salary": "$428,000",
+            "Throwaways": "26",
+            "Receiver Error": "2",
+            "Ds": "18"
+        }
+    },
+    "Krista Bennatti-Roberts": {
+        "Stats": {
+            "Assists": "3",
+            "Goals": "19",
+            "2nd Assists": "11",
+            "Times Traded": "2",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.27",
+            "Total Assist:Throw Away Ratio": "2.00",
+            "Salary": "$249,000",
+            "Throwaways": "7",
+            "Receiver Error": "4",
+            "Ds": "3"
+        }
+    },
+    "Jonathan Brunetti": {
+        "Stats": {
+            "Assists": "12",
+            "Goals": "15",
+            "2nd Assists": "13",
+            "Times Traded": "2",
+            "Wins": "3",
+            "Ds:Turnover Ratio": "0.58",
+            "Total Assist:Throw Away Ratio": "1.19",
+            "Salary": "$275,500",
+            "Throwaways": "21",
+            "Receiver Error": "5",
+            "Ds": "15"
+        }
+    },
+    "Ben Kirkland": {
+        "Stats": {
+            "Assists": "18",
+            "Goals": "17",
+            "2nd Assists": "16",
+            "Times Traded": "4",
+            "Wins": "8",
+            "Ds:Turnover Ratio": "0.39",
+            "Total Assist:Throw Away Ratio": "2.00",
+            "Salary": "$330,500",
+            "Throwaways": "17",
+            "Receiver Error": "6",
+            "Ds": "9"
+        }
+    },
+    "Ikram Mustapha": {
+        "Stats": {
+            "Assists": "12",
+            "Goals": "6",
+            "2nd Assists": "17",
+            "Times Traded": "3",
+            "Wins": "7.5",
+            "Ds:Turnover Ratio": "0.24",
+            "Total Assist:Throw Away Ratio": "1.61",
+            "Salary": "$231,500",
+            "Throwaways": "18",
+            "Receiver Error": "3",
+            "Ds": "5"
+        }
+    },
+    "Lydia Dwyer": {
+        "Stats": {
+            "Assists": "1",
+            "Goals": "5",
+            "2nd Assists": "12",
+            "Times Traded": "2",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.21",
+            "Total Assist:Throw Away Ratio": "1.08",
+            "Salary": "$148,000",
+            "Throwaways": "12",
+            "Receiver Error": "7",
+            "Ds": "4"
+        }
+    },
+    "Jason Chan": {
+        "Stats": {
+            "Assists": "37",
+            "Goals": "14",
+            "2nd Assists": "23",
+            "Times Traded": "1",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.23",
+            "Total Assist:Throw Away Ratio": "1.50",
+            "Salary": "$360,000",
+            "Throwaways": "40",
+            "Receiver Error": "3",
+            "Ds": "10"
+        }
+    },
+    "Debra Cohen": {
+        "Stats": {
+            "Assists": "6",
+            "Goals": "11",
+            "2nd Assists": "10",
+            "Times Traded": "5",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.20",
+            "Total Assist:Throw Away Ratio": "2.00",
+            "Salary": "$216,000",
+            "Throwaways": "8",
+            "Receiver Error": "2",
+            "Ds": "2"
+        }
+    },
+    "Helen O'Sullivan": {
+        "Stats": {
+            "Assists": "2",
+            "Goals": "16",
+            "2nd Assists": "7",
+            "Times Traded": "1",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.35",
+            "Total Assist:Throw Away Ratio": "0.90",
+            "Salary": "$212,500",
+            "Throwaways": "10",
+            "Receiver Error": "7",
+            "Ds": "6"
+        }
+    },
+    "Destin McQuillan": {
+        "Stats": {
+            "Assists": "60",
+            "Goals": "26",
+            "2nd Assists": "30",
+            "Times Traded": "0",
+            "Wins": "8.5",
+            "Ds:Turnover Ratio": "0.76",
+            "Total Assist:Throw Away Ratio": "3.91",
+            "Salary": "$671,000",
+            "Throwaways": "23",
+            "Receiver Error": "2",
+            "Ds": "19"
+        }
+    },
+    "John Hurlbut": {
+        "Stats": {
+            "Assists": "21",
+            "Goals": "3",
+            "2nd Assists": "12",
+            "Times Traded": "1",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.14",
+            "Total Assist:Throw Away Ratio": "1.14",
+            "Salary": "$192,000",
+            "Throwaways": "29",
+            "Receiver Error": "0",
+            "Ds": "4"
+        }
+    },
+    "Dawn Man": {
+        "Stats": {
+            "Assists": "3",
+            "Goals": "9",
+            "2nd Assists": "9",
+            "Times Traded": "1",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "0.22",
+            "Total Assist:Throw Away Ratio": "2.00",
+            "Salary": "$189,500",
+            "Throwaways": "6",
+            "Receiver Error": "3",
+            "Ds": "2"
+        }
+    },
+    "Eric Palmitesta": {
+        "Stats": {
+            "Assists": "23",
+            "Goals": "46",
+            "2nd Assists": "15",
+            "Times Traded": "1",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.50",
+            "Total Assist:Throw Away Ratio": "2.24",
+            "Salary": "$498,000",
+            "Throwaways": "17",
+            "Receiver Error": "5",
+            "Ds": "11"
+        }
+    },
+    "Neil Duchen": {
+        "Stats": {
+            "Assists": "38",
+            "Goals": "51",
+            "2nd Assists": "12",
+            "Times Traded": "1",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "1.17",
+            "Total Assist:Throw Away Ratio": "3.57",
+            "Salary": "$652,500",
+            "Throwaways": "14",
+            "Receiver Error": "4",
+            "Ds": "21"
+        }
+    },
+    "Kalu Kalu": {
+        "Stats": {
+            "Assists": "5",
+            "Goals": "6",
+            "2nd Assists": "11",
+            "Times Traded": "4",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.54",
+            "Total Assist:Throw Away Ratio": "1.78",
+            "Salary": "$212,000",
+            "Throwaways": "9",
+            "Receiver Error": "4",
+            "Ds": "7"
+        }
+    },
+    "Gabriel Isaac": {
+        "Stats": {
+            "Assists": "33",
+            "Goals": "11",
+            "2nd Assists": "21",
+            "Times Traded": "6",
+            "Wins": "7.5",
+            "Ds:Turnover Ratio": "0.61",
+            "Total Assist:Throw Away Ratio": "2.84",
+            "Salary": "$412,000",
+            "Throwaways": "19",
+            "Receiver Error": "4",
+            "Ds": "14"
+        }
+    },
+    "Vikki Shimoda": {
+        "Stats": {
+            "Assists": "4",
+            "Goals": "6",
+            "2nd Assists": "1",
+            "Times Traded": "0",
+            "Wins": "2",
+            "Ds:Turnover Ratio": "0.40",
+            "Total Assist:Throw Away Ratio": "1.25",
+            "Salary": "$156,000",
+            "Throwaways": "4",
+            "Receiver Error": "1",
+            "Ds": "2"
+        }
+    },
+    "Daniel Ngai": {
+        "Stats": {
+            "Assists": "22",
+            "Goals": "5",
+            "2nd Assists": "17",
+            "Times Traded": "1",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.13",
+            "Total Assist:Throw Away Ratio": "2.17",
+            "Salary": "$252,500",
+            "Throwaways": "18",
+            "Receiver Error": "6",
+            "Ds": "3"
+        }
+    },
+    "Darrel Nantais": {
+        "Stats": {
+            "Assists": "60",
+            "Goals": "5",
+            "2nd Assists": "37",
+            "Times Traded": "0",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.33",
+            "Total Assist:Throw Away Ratio": "1.87",
+            "Salary": "$466,500",
+            "Throwaways": "52",
+            "Receiver Error": "0",
+            "Ds": "17"
+        }
+    },
+    "Wesley George": {
+        "Stats": {
+            "Assists": "19",
+            "Goals": "32",
+            "2nd Assists": "13",
+            "Times Traded": "1",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.21",
+            "Total Assist:Throw Away Ratio": "1.45",
+            "Salary": "$349,000",
+            "Throwaways": "22",
+            "Receiver Error": "6",
+            "Ds": "6"
+        }
+    },
+    "Catherine Chao": {
+        "Stats": {
+            "Assists": "10",
+            "Goals": "14",
+            "2nd Assists": "7",
+            "Times Traded": "3",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.15",
+            "Total Assist:Throw Away Ratio": "1.55",
+            "Salary": "$208,000",
+            "Throwaways": "11",
+            "Receiver Error": "9",
+            "Ds": "3"
+        }
+    },
+    "Janet Wan": {
+        "Stats": {
+            "Assists": "1",
+            "Goals": "8",
+            "2nd Assists": "7",
+            "Times Traded": "3",
+            "Wins": "2.5",
+            "Ds:Turnover Ratio": "0.18",
+            "Total Assist:Throw Away Ratio": "0.80",
+            "Salary": "$127,500",
+            "Throwaways": "10",
+            "Receiver Error": "12",
+            "Ds": "4"
+        }
+    },
+    "Tabish Gilani": {
+        "Stats": {
+            "Assists": "19",
+            "Goals": "3",
+            "2nd Assists": "7",
+            "Times Traded": "0",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "0.28",
+            "Total Assist:Throw Away Ratio": "1.73",
+            "Salary": "$217,000",
+            "Throwaways": "15",
+            "Receiver Error": "3",
+            "Ds": "5"
+        }
+    },
+    "Anders Whist": {
+        "Stats": {
+            "Assists": "17",
+            "Goals": "8",
+            "2nd Assists": "13",
+            "Times Traded": "1",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.36",
+            "Total Assist:Throw Away Ratio": "1.67",
+            "Salary": "$242,500",
+            "Throwaways": "18",
+            "Receiver Error": "7",
+            "Ds": "9"
+        }
+    },
+    "Andrew Milne": {
+        "Stats": {
+            "Assists": "75",
+            "Goals": "14",
+            "2nd Assists": "25",
+            "Times Traded": "2",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.25",
+            "Total Assist:Throw Away Ratio": "1.89",
+            "Salary": "$523,500",
+            "Throwaways": "53",
+            "Receiver Error": "2",
+            "Ds": "14"
+        }
+    },
+    "Nathaniel Faries": {
+        "Stats": {
+            "Assists": "24",
+            "Goals": "51",
+            "2nd Assists": "20",
+            "Times Traded": "1",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "1.06",
+            "Total Assist:Throw Away Ratio": "3.14",
+            "Salary": "$604,000",
+            "Throwaways": "14",
+            "Receiver Error": "4",
+            "Ds": "19"
+        }
+    },
+    "Kat Zikov": {
+        "Stats": {
+            "Assists": "4",
+            "Goals": "2",
+            "2nd Assists": "2",
+            "Times Traded": "0",
+            "Wins": "2",
+            "Ds:Turnover Ratio": "0.20",
+            "Total Assist:Throw Away Ratio": "2.00",
+            "Salary": "$134,500",
+            "Throwaways": "3",
+            "Receiver Error": "2",
+            "Ds": "1"
+        }
+    },
+    "Heidi Siu": {
+        "Stats": {
+            "Assists": "12",
+            "Goals": "1",
+            "2nd Assists": "17",
+            "Times Traded": "0",
+            "Wins": "7.5",
+            "Ds:Turnover Ratio": "0.54",
+            "Total Assist:Throw Away Ratio": "2.64",
+            "Salary": "$244,000",
+            "Throwaways": "11",
+            "Receiver Error": "2",
+            "Ds": "7"
+        }
+    },
+    "Kieran Bol": {
+        "Stats": {
+            "Assists": "25",
+            "Goals": "20",
+            "2nd Assists": "21",
+            "Times Traded": "4",
+            "Wins": "9",
+            "Ds:Turnover Ratio": "0.58",
+            "Total Assist:Throw Away Ratio": "2.09",
+            "Salary": "$420,000",
+            "Throwaways": "22",
+            "Receiver Error": "2",
+            "Ds": "14"
+        }
+    },
+    "Jean-Francois Ouellet": {
+        "Stats": {
+            "Assists": "14",
+            "Goals": "9",
+            "2nd Assists": "15",
+            "Times Traded": "6",
+            "Wins": "3",
+            "Ds:Turnover Ratio": "0.38",
+            "Total Assist:Throw Away Ratio": "3.22",
+            "Salary": "$256,500",
+            "Throwaways": "9",
+            "Receiver Error": "4",
+            "Ds": "5"
+        }
+    },
+    "Adam Wenneman": {
+        "Stats": {
+            "Assists": "17",
+            "Goals": "15",
+            "2nd Assists": "8",
+            "Times Traded": "1",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.50",
+            "Total Assist:Throw Away Ratio": "1.25",
+            "Salary": "$291,500",
+            "Throwaways": "20",
+            "Receiver Error": "10",
+            "Ds": "15"
+        }
+    },
+    "Diane Sepa-Kishi": {
+        "Stats": {
+            "Assists": "3",
+            "Goals": "14",
+            "2nd Assists": "4",
+            "Times Traded": "4",
+            "Wins": "7.5",
+            "Ds:Turnover Ratio": "0.60",
+            "Total Assist:Throw Away Ratio": "0.70",
+            "Salary": "$229,500",
+            "Throwaways": "10",
+            "Receiver Error": "5",
+            "Ds": "9"
+        }
+    },
+    "Rob Grundy": {
+        "Stats": {
+            "Assists": "37",
+            "Goals": "22",
+            "2nd Assists": "24",
+            "Times Traded": "1",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.53",
+            "Total Assist:Throw Away Ratio": "1.30",
+            "Salary": "$459,000",
+            "Throwaways": "47",
+            "Receiver Error": "2",
+            "Ds": "26"
+        }
+    },
+    "Hin Tang": {
+        "Stats": {
+            "Assists": "18",
+            "Goals": "11",
+            "2nd Assists": "12",
+            "Times Traded": "0",
+            "Wins": "8",
+            "Ds:Turnover Ratio": "0.04",
+            "Total Assist:Throw Away Ratio": "1.43",
+            "Salary": "$240,500",
+            "Throwaways": "21",
+            "Receiver Error": "4",
+            "Ds": "1"
+        }
+    },
+    "Keegan Lee-Newbury": {
+        "Stats": {
+            "Assists": "22",
+            "Goals": "45",
+            "2nd Assists": "12",
+            "Times Traded": "1",
+            "Wins": "8",
+            "Ds:Turnover Ratio": "0.92",
+            "Total Assist:Throw Away Ratio": "1.55",
+            "Salary": "$542,000",
+            "Throwaways": "22",
+            "Receiver Error": "4",
+            "Ds": "24"
+        }
+    },
+    "Will Mercer": {
+        "Stats": {
+            "Assists": "29",
+            "Goals": "12",
+            "2nd Assists": "13",
+            "Times Traded": "3",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "0.44",
+            "Total Assist:Throw Away Ratio": "3.50",
+            "Salary": "$347,500",
+            "Throwaways": "12",
+            "Receiver Error": "4",
+            "Ds": "7"
+        }
+    },
+    "Stephanie Schwartz": {
+        "Stats": {
+            "Assists": "2",
+            "Goals": "41",
+            "2nd Assists": "5",
+            "Times Traded": "2",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "3.67",
+            "Total Assist:Throw Away Ratio": "2.33",
+            "Salary": "$409,500",
+            "Throwaways": "3",
+            "Receiver Error": "0",
+            "Ds": "11"
+        }
+    },
+    "Diane Pendlebury": {
+        "Stats": {
+            "Assists": "8",
+            "Goals": "9",
+            "2nd Assists": "16",
+            "Times Traded": "3",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "0.05",
+            "Total Assist:Throw Away Ratio": "1.60",
+            "Salary": "$197,500",
+            "Throwaways": "15",
+            "Receiver Error": "6",
+            "Ds": "1"
+        }
+    },
+    "Jacob Slan": {
+        "Stats": {
+            "Assists": "0",
+            "Goals": "14",
+            "2nd Assists": "9",
+            "Times Traded": "2",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.38",
+            "Total Assist:Throw Away Ratio": "0.69",
+            "Salary": "$196,500",
+            "Throwaways": "13",
+            "Receiver Error": "0",
+            "Ds": "5"
+        }
+    },
+    "Hadiya Roderique": {
+        "Stats": {
+            "Assists": "17",
+            "Goals": "23",
+            "2nd Assists": "9",
+            "Times Traded": "0",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.42",
+            "Total Assist:Throw Away Ratio": "1.08",
+            "Salary": "$304,500",
+            "Throwaways": "24",
+            "Receiver Error": "7",
+            "Ds": "13"
+        }
+    },
+    "Baron Lam": {
+        "Stats": {
+            "Assists": "62",
+            "Goals": "12",
+            "2nd Assists": "37",
+            "Times Traded": "0",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.22",
+            "Total Assist:Throw Away Ratio": "2.11",
+            "Salary": "$483,000",
+            "Throwaways": "47",
+            "Receiver Error": "2",
+            "Ds": "11"
+        }
+    },
+    "Benjamin Goodman": {
+        "Stats": {
+            "Assists": "18",
+            "Goals": "14",
+            "2nd Assists": "7",
+            "Times Traded": "5",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.17",
+            "Total Assist:Throw Away Ratio": "0.89",
+            "Salary": "$225,000",
+            "Throwaways": "28",
+            "Receiver Error": "1",
+            "Ds": "5"
+        }
+    },
+    "Timothy Fowler": {
+        "Stats": {
+            "Assists": "24",
+            "Goals": "20",
+            "2nd Assists": "24",
+            "Times Traded": "5",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.31",
+            "Total Assist:Throw Away Ratio": "1.60",
+            "Salary": "$354,500",
+            "Throwaways": "30",
+            "Receiver Error": "5",
+            "Ds": "11"
+        }
+    },
+    "Eli Fidler": {
+        "Stats": {
+            "Assists": "23",
+            "Goals": "16",
+            "2nd Assists": "20",
+            "Times Traded": "4",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.60",
+            "Total Assist:Throw Away Ratio": "2.39",
+            "Salary": "$381,000",
+            "Throwaways": "18",
+            "Receiver Error": "2",
+            "Ds": "12"
+        }
+    },
+    "Laurie Zacour": {
+        "Stats": {
+            "Assists": "4",
+            "Goals": "21",
+            "2nd Assists": "5",
+            "Times Traded": "6",
+            "Wins": "2",
+            "Ds:Turnover Ratio": "0.06",
+            "Total Assist:Throw Away Ratio": "0.82",
+            "Salary": "$201,500",
+            "Throwaways": "11",
+            "Receiver Error": "5",
+            "Ds": "1"
+        }
+    },
+    "Natalie Fitzgerald": {
+        "Stats": {
+            "Assists": "7",
+            "Goals": "13",
+            "2nd Assists": "14",
+            "Times Traded": "0",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.60",
+            "Total Assist:Throw Away Ratio": "2.63",
+            "Salary": "$263,000",
+            "Throwaways": "8",
+            "Receiver Error": "2",
+            "Ds": "6"
+        }
+    },
+    "Jessica Jia": {
+        "Stats": {
+            "Assists": "13",
+            "Goals": "43",
+            "2nd Assists": "23",
+            "Times Traded": "2",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.90",
+            "Total Assist:Throw Away Ratio": "4.50",
+            "Salary": "$487,500",
+            "Throwaways": "8",
+            "Receiver Error": "2",
+            "Ds": "9"
+        }
+    },
+    "Anna Luo": {
+        "Stats": {
+            "Assists": "8",
+            "Goals": "13",
+            "2nd Assists": "4",
+            "Times Traded": "1",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.65",
+            "Total Assist:Throw Away Ratio": "1.00",
+            "Salary": "$247,500",
+            "Throwaways": "12",
+            "Receiver Error": "5",
+            "Ds": "11"
+        }
+    },
+    "Peter Hawkings": {
+        "Stats": {
+            "Assists": "49",
+            "Goals": "9",
+            "2nd Assists": "31",
+            "Times Traded": "1",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.30",
+            "Total Assist:Throw Away Ratio": "3.08",
+            "Salary": "$460,000",
+            "Throwaways": "26",
+            "Receiver Error": "4",
+            "Ds": "9"
+        }
+    },
+    "Matt Denton": {
+        "Stats": {
+            "Assists": "44",
+            "Goals": "22",
+            "2nd Assists": "15",
+            "Times Traded": "2",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "0.46",
+            "Total Assist:Throw Away Ratio": "2.27",
+            "Salary": "$473,000",
+            "Throwaways": "26",
+            "Receiver Error": "2",
+            "Ds": "13"
+        }
+    },
+    "Bill Banaag": {
+        "Stats": {
+            "Assists": "74",
+            "Goals": "40",
+            "2nd Assists": "33",
+            "Times Traded": "1",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.51",
+            "Total Assist:Throw Away Ratio": "2.55",
+            "Salary": "$761,000",
+            "Throwaways": "42",
+            "Receiver Error": "7",
+            "Ds": "25"
+        }
+    },
+    "Finlay D'silva": {
+        "Stats": {
+            "Assists": "34",
+            "Goals": "9",
+            "2nd Assists": "25",
+            "Times Traded": "1",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "0.10",
+            "Total Assist:Throw Away Ratio": "2.11",
+            "Salary": "$323,500",
+            "Throwaways": "28",
+            "Receiver Error": "2",
+            "Ds": "3"
+        }
+    },
+    "Greg Kramer": {
+        "Stats": {
+            "Assists": "98",
+            "Goals": "37",
+            "2nd Assists": "37",
+            "Times Traded": "1",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.41",
+            "Total Assist:Throw Away Ratio": "1.90",
+            "Salary": "$814,000",
+            "Throwaways": "71",
+            "Receiver Error": "2",
+            "Ds": "30"
+        }
+    },
+    "Jeff Steele": {
+        "Stats": {
+            "Assists": "32",
+            "Goals": "31",
+            "2nd Assists": "6",
+            "Times Traded": "0",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "0.32",
+            "Total Assist:Throw Away Ratio": "1.73",
+            "Salary": "$417,000",
+            "Throwaways": "22",
+            "Receiver Error": "3",
+            "Ds": "8"
+        }
+    },
+    "Polly Yung": {
+        "Stats": {
+            "Assists": "4",
+            "Goals": "22",
+            "2nd Assists": "11",
+            "Times Traded": "8",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.60",
+            "Total Assist:Throw Away Ratio": "3.00",
+            "Salary": "$295,500",
+            "Throwaways": "5",
+            "Receiver Error": "5",
+            "Ds": "6"
+        }
+    },
+    "Ameet Khanderia": {
+        "Stats": {
+            "Assists": "8",
+            "Goals": "7",
+            "2nd Assists": "15",
+            "Times Traded": "2",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.17",
+            "Total Assist:Throw Away Ratio": "1.92",
+            "Salary": "$200,000",
+            "Throwaways": "12",
+            "Receiver Error": "6",
+            "Ds": "3"
+        }
+    },
+    "Cristina Chern": {
+        "Stats": {
+            "Assists": "10",
+            "Goals": "22",
+            "2nd Assists": "4",
+            "Times Traded": "2",
+            "Wins": "8",
+            "Ds:Turnover Ratio": "1.10",
+            "Total Assist:Throw Away Ratio": "1.75",
+            "Salary": "$333,000",
+            "Throwaways": "8",
+            "Receiver Error": "2",
+            "Ds": "11"
+        }
+    },
+    "Crystal Sotelo": {
+        "Stats": {
+            "Assists": "4",
+            "Goals": "7",
+            "2nd Assists": "7",
+            "Times Traded": "2",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.31",
+            "Total Assist:Throw Away Ratio": "1.00",
+            "Salary": "$180,000",
+            "Throwaways": "11",
+            "Receiver Error": "5",
+            "Ds": "5"
+        }
+    },
+    "Kenny Ye": {
+        "Stats": {
+            "Assists": "18",
+            "Goals": "21",
+            "2nd Assists": "12",
+            "Times Traded": "2",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.42",
+            "Total Assist:Throw Away Ratio": "2.73",
+            "Salary": "$349,500",
+            "Throwaways": "11",
+            "Receiver Error": "1",
+            "Ds": "5"
+        }
+    },
+    "Matthew Colphon": {
+        "Stats": {
+            "Assists": "7",
+            "Goals": "34",
+            "2nd Assists": "6",
+            "Times Traded": "3",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "0.83",
+            "Total Assist:Throw Away Ratio": "0.93",
+            "Salary": "$359,500",
+            "Throwaways": "14",
+            "Receiver Error": "4",
+            "Ds": "15"
+        }
+    },
+    "Benjamin St.Louis": {
+        "Stats": {
+            "Assists": "8",
+            "Goals": "17",
+            "2nd Assists": "19",
+            "Times Traded": "5",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.26",
+            "Total Assist:Throw Away Ratio": "1.42",
+            "Salary": "$251,000",
+            "Throwaways": "19",
+            "Receiver Error": "4",
+            "Ds": "6"
+        }
+    },
+    "Daniel Eisner": {
+        "Stats": {
+            "Assists": "12",
+            "Goals": "13",
+            "2nd Assists": "18",
+            "Times Traded": "2",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.29",
+            "Total Assist:Throw Away Ratio": "1.76",
+            "Salary": "$257,500",
+            "Throwaways": "17",
+            "Receiver Error": "4",
+            "Ds": "6"
+        }
+    },
+    "David Ip": {
+        "Stats": {
+            "Assists": "19",
+            "Goals": "42",
+            "2nd Assists": "14",
+            "Times Traded": "1",
+            "Wins": "7",
+            "Ds:Turnover Ratio": "0.50",
+            "Total Assist:Throw Away Ratio": "1.57",
+            "Salary": "$460,500",
+            "Throwaways": "21",
+            "Receiver Error": "1",
+            "Ds": "11"
+        }
+    },
+    "Colin Thompson": {
+        "Stats": {
+            "Assists": "30",
+            "Goals": "29",
+            "2nd Assists": "16",
+            "Times Traded": "6",
+            "Wins": "7.5",
+            "Ds:Turnover Ratio": "0.39",
+            "Total Assist:Throw Away Ratio": "2.09",
+            "Salary": "$445,500",
+            "Throwaways": "22",
+            "Receiver Error": "1",
+            "Ds": "9"
+        }
+    },
+    "Allan Tong": {
+        "Stats": {
+            "Assists": "6",
+            "Goals": "16",
+            "2nd Assists": "8",
+            "Times Traded": "3",
+            "Wins": "4.5",
+            "Ds:Turnover Ratio": "0.75",
+            "Total Assist:Throw Away Ratio": "1.08",
+            "Salary": "$262,000",
+            "Throwaways": "13",
+            "Receiver Error": "3",
+            "Ds": "12"
+        }
+    },
+    "Noah Goldstein": {
+        "Stats": {
+            "Assists": "25",
+            "Goals": "20",
+            "2nd Assists": "30",
+            "Times Traded": "4",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.37",
+            "Total Assist:Throw Away Ratio": "3.93",
+            "Salary": "$411,000",
+            "Throwaways": "14",
+            "Receiver Error": "5",
+            "Ds": "7"
+        }
+    },
+    "Chris Wang": {
+        "Stats": {
+            "Assists": "40",
+            "Goals": "24",
+            "2nd Assists": "20",
+            "Times Traded": "3",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "1.08",
+            "Total Assist:Throw Away Ratio": "6.00",
+            "Salary": "$534,000",
+            "Throwaways": "10",
+            "Receiver Error": "2",
+            "Ds": "13"
+        }
+    },
+    "Jennifer Law": {
+        "Stats": {
+            "Assists": "5",
+            "Goals": "15",
+            "2nd Assists": "12",
+            "Times Traded": "5",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.13",
+            "Total Assist:Throw Away Ratio": "1.06",
+            "Salary": "$188,500",
+            "Throwaways": "16",
+            "Receiver Error": "8",
+            "Ds": "3"
+        }
+    },
+    "William Peckham": {
+        "Stats": {
+            "Assists": "14",
+            "Goals": "8",
+            "2nd Assists": "10",
+            "Times Traded": "2",
+            "Wins": "5",
+            "Ds:Turnover Ratio": "0.20",
+            "Total Assist:Throw Away Ratio": "3.00",
+            "Salary": "$241,000",
+            "Throwaways": "8",
+            "Receiver Error": "2",
+            "Ds": "2"
+        }
+    },
+    "Norman Stewart": {
+        "Stats": {
+            "Assists": "14",
+            "Goals": "12",
+            "2nd Assists": "10",
+            "Times Traded": "3",
+            "Wins": "3",
+            "Ds:Turnover Ratio": "0.26",
+            "Total Assist:Throw Away Ratio": "1.20",
+            "Salary": "$226,000",
+            "Throwaways": "20",
+            "Receiver Error": "3",
+            "Ds": "6"
+        }
+    },
+    "Sarah Burke": {
+        "Stats": {
+            "Assists": "6",
+            "Goals": "9",
+            "2nd Assists": "1",
+            "Times Traded": "0",
+            "Wins": "2",
+            "Ds:Turnover Ratio": "0.17",
+            "Total Assist:Throw Away Ratio": "1.75",
+            "Salary": "$173,000",
+            "Throwaways": "4",
+            "Receiver Error": "2",
+            "Ds": "1"
+        }
+    },
+    "Alyne Azucena": {
+        "Stats": {
+            "Assists": "22",
+            "Goals": "19",
+            "2nd Assists": "7",
+            "Times Traded": "4",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.60",
+            "Total Assist:Throw Away Ratio": "1.81",
+            "Salary": "$350,500",
+            "Throwaways": "16",
+            "Receiver Error": "4",
+            "Ds": "12"
+        }
+    },
+    "Stephanie Harper": {
+        "Stats": {
+            "Assists": "14",
+            "Goals": "14",
+            "2nd Assists": "7",
+            "Times Traded": "2",
+            "Wins": "4",
+            "Ds:Turnover Ratio": "0.73",
+            "Total Assist:Throw Away Ratio": "2.33",
+            "Salary": "$283,500",
+            "Throwaways": "9",
+            "Receiver Error": "2",
+            "Ds": "8"
+        }
+    },
+    "Julian Weinrib": {
+        "Stats": {
+            "Assists": "46",
+            "Goals": "49",
+            "2nd Assists": "23",
+            "Times Traded": "2",
+            "Wins": "8.5",
+            "Ds:Turnover Ratio": "0.85",
+            "Total Assist:Throw Away Ratio": "3.00",
+            "Salary": "$707,000",
+            "Throwaways": "23",
+            "Receiver Error": "3",
+            "Ds": "22"
+        }
+    },
+    "Dexter Chu": {
+        "Stats": {
+            "Assists": "17",
+            "Goals": "22",
+            "2nd Assists": "4",
+            "Times Traded": "4",
+            "Wins": "5.5",
+            "Ds:Turnover Ratio": "0.10",
+            "Total Assist:Throw Away Ratio": "1.24",
+            "Salary": "$276,000",
+            "Throwaways": "17",
+            "Receiver Error": "3",
+            "Ds": "2"
+        }
+    },
+    "Marisa Hart": {
+        "Stats": {
+            "Assists": "10",
+            "Goals": "17",
+            "2nd Assists": "7",
+            "Times Traded": "4",
+            "Wins": "3.5",
+            "Ds:Turnover Ratio": "0.32",
+            "Total Assist:Throw Away Ratio": "1.06",
+            "Salary": "$234,500",
+            "Throwaways": "16",
+            "Receiver Error": "6",
+            "Ds": "7"
+        }
+    },
+    "Amanda Sheppard": {
+        "Stats": {
+            "Assists": "16",
+            "Goals": "20",
+            "2nd Assists": "11",
+            "Times Traded": "5",
+            "Wins": "6.5",
+            "Ds:Turnover Ratio": "0.13",
+            "Total Assist:Throw Away Ratio": "1.35",
+            "Salary": "$281,500",
+            "Throwaways": "20",
+            "Receiver Error": "3",
+            "Ds": "3"
+        }
+    },
+    "Anthea Tsoukalas": {
+        "Stats": {
+            "Assists": "1",
+            "Goals": "12",
+            "2nd Assists": "4",
+            "Times Traded": "1",
+            "Wins": "7.5",
+            "Ds:Turnover Ratio": "0.00",
+            "Total Assist:Throw Away Ratio": "5.00",
+            "Salary": "$193,000",
+            "Throwaways": "1",
+            "Receiver Error": "6",
+            "Ds": "0"
+        }
+    },
+    "Anthony Slater": {
+        "Stats": {
+            "Assists": "16",
+            "Goals": "24",
+            "2nd Assists": "17",
+            "Times Traded": "2",
+            "Wins": "6",
+            "Ds:Turnover Ratio": "0.75",
+            "Total Assist:Throw Away Ratio": "2.75",
+            "Salary": "$384,000",
+            "Throwaways": "12",
+            "Receiver Error": "0",
+            "Ds": "9"
+        }
+    },
+    "Parity Season": "TPL Season 10 - Rock Bands: Public Doc",
+    "Maxim Tomashevsky": {
+        "Stats": {
+            "Assists": "11",
+            "Goals": "20",
+            "2nd Assists": "15",
+            "Times Traded": "3",
+            "Wins": "7.5",
+            "Ds:Turnover Ratio": "0.41",
+            "Total Assist:Throw Away Ratio": "1.63",
+            "Salary": "$308,500",
+            "Throwaways": "16",
+            "Receiver Error": "6",
+            "Ds": "9"
+        }
+    }
+}
