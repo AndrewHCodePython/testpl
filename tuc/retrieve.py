@@ -9,7 +9,8 @@ class MyHTMLParser(HTMLParser):
 
     startTag = ""
     endTag = ""
-    titleContent = []
+    titleContent = ""
+    titleFlag = False 
 
     def handle_starttag(self, tag, attrs):
         self.startTag = tag
@@ -18,8 +19,10 @@ class MyHTMLParser(HTMLParser):
         self.endTag = tag
        
     def handle_data(self, data):
-        if (self.startTag == "title"):
-            self.titleContent.append(data)
+        if ((self.startTag == "title") and (self.titleFlag == False)):
+            # print ("encountered data: " + data)
+            self.titleContent = data
+            self.titleFlag = True
     
     def __del__(self):
         print ('died')
@@ -34,17 +37,17 @@ def main():
     # dictionary to hold players
     playersDict = {}
 
-    # html parser
-    #parser = MyHTMLParser()
+    # regex 
+    regexPattern = '\u00BB\s{1}(.+?)\s{1}\u00BB'
     
     
-
+    
     for playerID in range(50001, 50003):
         playerURL = baseURL + str(playerID)
         page = req.urlopen(playerURL)
-        print(page)
+        #print(page)
         pageURL = page.geturl()
-        print(pageURL)
+        #print(pageURL)
         parser = MyHTMLParser()
 
         if (pageURL == redirectURL):
@@ -54,17 +57,19 @@ def main():
             #print("Player exists, Player ID: " + str(playerID))
             pageContent = page.read()
             pageContent = str(pageContent)
-            
+            #print(pageContent)
             # html parser stuff
             parser.feed(pageContent)
-            titleContent = parser.titleContent[0]
-            print(parser.titleContent[0])
+            titleContent = parser.titleContent
+            
+            # explicitly call the object to delete it
             del parser
-            # do the regex here on titleContent
 
+            # do the regex here on titleContent
+            playerName = re.search('\u00BB\s{1}(.+?)\s{1}\u00BB', titleContent, re.UNICODE).group(1)
 
             # add players to dictionary
-            playersDict[playerID] = titleContent
+            playersDict[playerID] = playerName
 
             # clear
             
