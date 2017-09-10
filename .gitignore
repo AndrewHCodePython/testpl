@@ -1,1 +1,3 @@
 tuc/*.txt
+.gitignore
+client_secret.json
