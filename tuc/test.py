@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3
+# -*- coding: UTF-8 -*-
 #import re
 
 
@@ -12,7 +14,7 @@ import sys
 def progress(count, total, suffix=''):
     bar_len = 60
     filled_len = int(round(bar_len * count / float(total)))
-
+    print(filled_len)
     percents = round(100.0 * count / float(total), 1)
     bar = '=' * filled_len + '-' * (bar_len - filled_len)
 
