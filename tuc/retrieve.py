@@ -36,7 +36,7 @@ def main():
     redirectURL = "https://www.tuc.org/zuluru/leagues"
     
     startRange  = 50000
-    endRange    = 50050
+    endRange    = 51000
     playersDict = {}
     
     regexPattern = '\u00BB\s{1}(.+?)\s{1}\u00BB'
@@ -60,7 +60,7 @@ def main():
             pageContent = page.read()
             pageContent = str(pageContent)
             #print(pageContent)
-            
+
             # html parser stuff
             parser.feed(pageContent)
             titleContent = parser.titleContent
@@ -75,7 +75,7 @@ def main():
             playersDict[playerID] = playerName
 
             # output dictionary to file in intervals (just in case if memory/buffer overflow)
-            if (len(playersDict) == 5):
+            if (len(playersDict) == 100):
                 print("Now writing to file...")
                 with open('out.txt', 'a+') as f:
                     [f.write('{0},{1}\n'.format(key, value)) for key, value in playersDict.items()]
