@@ -56,6 +56,7 @@ def main():
     Creates a Sheets API service object and prints the names and majors of
     students in a sample spreadsheet:
     https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit
+    TPL Season XI - Romantic Comedies   https://docs.google.com/spreadsheets/d/16gLkJRHz3LoopHfz7UwCdzb2gOrIB1NsJkyavp82isY/edit#gid=1737612217
     TPL Season X - 80s Rockbands:       https://docs.google.com/spreadsheets/d/1K6fHhdBGHlyur1NTZ6ob0wEPAqjKMQSHPUwdlxglLa4/edit#gid=1238198717
     TPL Season IX - The Simpsons:       https://docs.google.com/spreadsheets/d/1qOVPR4Iiy0GSDczhO4gZMe0ZYKjiEx3e6iNBapBU1DQ/edit#gid=1238198717
     TPL Season VIII - 80s:              https://docs.google.com/spreadsheets/d/18OZCA7MDZ8-6ivja56pQjuxMSg8FV4W8GmVu01E6PH0/edit#gid=1238198717 
@@ -78,7 +79,8 @@ def main():
                               discoveryServiceUrl=discoveryUrl)
 
     #spreadsheetId = '1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms'
-    spreadsheetId = '1K6fHhdBGHlyur1NTZ6ob0wEPAqjKMQSHPUwdlxglLa4'
+    #spreadsheetId = '1K6fHhdBGHlyur1NTZ6ob0wEPAqjKMQSHPUwdlxglLa4'
+    spreadsheetId = '16gLkJRHz3LoopHfz7UwCdzb2gOrIB1NsJkyavp82isY'
     #rangeName = 'Class Data!A2:E'
     rangeName = 'Overall Leaderboard!A4:X'
     #rangeName = 'Import!D10:AF'    # Import tab in some of the tpl spreadsheets
@@ -96,7 +98,7 @@ def main():
     elif len(values[0]) != 23:
         print("wront number of rows", len(values[0]))
     else:
-        output_json = 'season_10_stats.json'   
+        output_json = 'season_11_stats.json'   
         dictionary1['Parity Season'] = title
         for rows in values[1:]:
             for i in range(0, len(rows), 2):

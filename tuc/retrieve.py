@@ -33,10 +33,9 @@ class MyHTMLParser(HTMLParser):
 
 def progress(count, total, suffix=''):
     bar_len = 60
-    filled_len = int(round(bar_len * count / float(total*10)))
-    print(filled_len)
+    filled_len = int(round(bar_len * count / float(total)))
 
-    percents = round(10.0 * count / float(total), 2)
+    percents = round(100*count / float(total), 2)
     bar = '=' * filled_len + '-' * (bar_len - filled_len)
 
     sys.stdout.write('[%s] %s%s ...%s\r' % (bar, percents, '%', suffix))
@@ -49,8 +48,9 @@ def main():
     baseURL     = "https://www.tuc.org/zuluru/people/view/person:"
     redirectURL = "https://www.tuc.org/zuluru/leagues"
     
-    startRange  = 50000
-    endRange    = 50100
+    startRange  = 51000
+    endRange    = 51500
+    total = endRange - startRange
     playersDict = {}
     
     regexPattern = '\u00BB\s{1}(.+?)\s{1}\u00BB'
@@ -59,7 +59,9 @@ def main():
 
     for playerID in range(startRange, endRange):
         msg = "get playerID: " + str(playerID) + " of " + str(endRange)
-        progress(playerID, endRange, suffix=msg)
+        count = playerID - startRange
+        
+        progress(count, total, suffix=msg)
         
         playerURL = baseURL + str(playerID)
         page = req.urlopen(playerURL)
