@@ -1,0 +1,16 @@
+- https://docs.python.org/3/library/venv.html
+
+#setup venv
+$ python3 -m venv /Users/andrewho/stuff/testpl/p3/
+
+#Activate virtual environment
+$ source bin/activate
+# should see a (p3) beside the $
+
+# this will install the shit in your venv
+$ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+
+# to deactivate the venv
+$ deactivate
+
