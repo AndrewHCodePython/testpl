@@ -1,0 +1,8 @@
+tuc/*.txt
+.gitignore
+client_secret.json
+credentials/*
+p3/bin/*
+p3/include/*
+p3/lib/*
+
