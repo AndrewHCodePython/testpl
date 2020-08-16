@@ -1,0 +1,3362 @@
+[
+    {
+        "name": "Norman Lew",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.63",
+            "assists": "69",
+            "dTurnoverRatio": "0.81",
+            "ds": null,
+            "goals": "20",
+            "receiverError": "1",
+            "salary": "$673,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "23",
+            "throwaways": "35",
+            "timesTraded": "2",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andy Lam",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.46",
+            "assists": "11",
+            "dTurnoverRatio": "0.14",
+            "ds": "3",
+            "goals": "45",
+            "receiverError": "8",
+            "salary": "$384,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "8",
+            "throwaways": "13",
+            "timesTraded": "4",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Shawn Huynh",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.24",
+            "assists": "72",
+            "dTurnoverRatio": "0.47",
+            "ds": "21",
+            "goals": "34",
+            "receiverError": "4",
+            "salary": "$662,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "20",
+            "throwaways": "41",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Greg Kramer",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.87",
+            "assists": "58",
+            "dTurnoverRatio": "0.43",
+            "ds": "23",
+            "goals": "27",
+            "receiverError": "6",
+            "salary": "$587,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "30",
+            "throwaways": "47",
+            "timesTraded": "0",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jeff Steele",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.59",
+            "assists": "57",
+            "dTurnoverRatio": "0.84",
+            "ds": "27",
+            "goals": "44",
+            "receiverError": "3",
+            "salary": null,
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "18",
+            "throwaways": "29",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Sara Thompson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.25",
+            "assists": "0",
+            "dTurnoverRatio": "1.50",
+            "ds": "6",
+            "goals": "10",
+            "receiverError": "0",
+            "salary": "$208,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "4",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rick St Jean",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.76",
+            "assists": "11",
+            "dTurnoverRatio": "0.47",
+            "ds": "9",
+            "goals": "12",
+            "receiverError": "2",
+            "salary": "$294,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "19",
+            "throwaways": "17",
+            "timesTraded": "1",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gail Russel",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.16",
+            "assists": "10",
+            "dTurnoverRatio": "0.27",
+            "ds": "6",
+            "goals": "25",
+            "receiverError": "3",
+            "salary": "$288,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "12",
+            "throwaways": "19",
+            "timesTraded": "5",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Aaron Hooper",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.20",
+            "assists": "17",
+            "dTurnoverRatio": "2.40",
+            "ds": "24",
+            "goals": "32",
+            "receiverError": "0",
+            "salary": "$485,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "5",
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Laura Weise",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "13.00",
+            "assists": "5",
+            "dTurnoverRatio": "0.50",
+            "ds": "1",
+            "goals": "9",
+            "receiverError": "1",
+            "salary": "$212,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "8",
+            "throwaways": "1",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Destin McQuillan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.40",
+            "assists": "44",
+            "dTurnoverRatio": "0.90",
+            "ds": "19",
+            "goals": "42",
+            "receiverError": "6",
+            "salary": "$663,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "22",
+            "throwaways": "15",
+            "timesTraded": "2",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "BC Roedde",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.88",
+            "assists": null,
+            "dTurnoverRatio": "0.18",
+            "ds": "11",
+            "goals": "11",
+            "receiverError": "6",
+            "salary": "$492,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "27",
+            "throwaways": null,
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Benjamin St.Louis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.07",
+            "assists": "38",
+            "dTurnoverRatio": "0.69",
+            "ds": "25",
+            "goals": "21",
+            "receiverError": "6",
+            "salary": "$494,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "24",
+            "throwaways": "30",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rajiv Seneviratne",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.86",
+            "assists": "24",
+            "dTurnoverRatio": "0.82",
+            "ds": "18",
+            "goals": "8",
+            "receiverError": "0",
+            "salary": "$339,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "17",
+            "throwaways": "22",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Mathew Denton",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.71",
+            "assists": "43",
+            "dTurnoverRatio": "0.70",
+            "ds": "16",
+            "goals": "9",
+            "receiverError": "2",
+            "salary": "$445,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "14",
+            "throwaways": "21",
+            "timesTraded": "1",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "William Peckham",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.13",
+            "assists": "18",
+            "dTurnoverRatio": "0.40",
+            "ds": "8",
+            "goals": "22",
+            "receiverError": "5",
+            "salary": "$339,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "14",
+            "throwaways": "15",
+            "timesTraded": "4",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Neil Duchen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.75",
+            "assists": "11",
+            "dTurnoverRatio": "2.00",
+            "ds": "8",
+            "goals": "10",
+            "receiverError": "0",
+            "salary": "$255,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "4",
+            "throwaways": "4",
+            "timesTraded": "2",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jessica Jia",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "12.00",
+            "assists": "7",
+            "dTurnoverRatio": "2.00",
+            "ds": "2",
+            "goals": "11",
+            "receiverError": "0",
+            "salary": "$226,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "5",
+            "throwaways": "1",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Wilkie Lewis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.08",
+            "assists": "37",
+            "dTurnoverRatio": "1.33",
+            "ds": "20",
+            "goals": "32",
+            "receiverError": "2",
+            "salary": "$569,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "16",
+            "throwaways": "13",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nathaniel Faries",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.06",
+            "assists": "25",
+            "dTurnoverRatio": "0.17",
+            "ds": "3",
+            "goals": "43",
+            "receiverError": "2",
+            "salary": "$452,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "8",
+            "throwaways": "16",
+            "timesTraded": "2",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Madeleine Channen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.95",
+            "assists": "16",
+            "dTurnoverRatio": "0.70",
+            "ds": "19",
+            "goals": "29",
+            "receiverError": "6",
+            "salary": "$438,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "25",
+            "throwaways": "21",
+            "timesTraded": "2",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Natalie Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.62",
+            "assists": "25",
+            "dTurnoverRatio": "0.05",
+            "ds": "2",
+            "goals": "5",
+            "receiverError": "5",
+            "salary": "$250,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": null,
+            "throwaways": "37",
+            "timesTraded": "1",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lindsay Earle",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.62",
+            "assists": "24",
+            "dTurnoverRatio": "0.50",
+            "ds": "14",
+            "goals": "8",
+            "receiverError": "2",
+            "salary": "$329,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "18",
+            "throwaways": "26",
+            "timesTraded": "3",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Cassie Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.33",
+            "assists": "14",
+            "dTurnoverRatio": "0.13",
+            "ds": "2",
+            "goals": "12",
+            "receiverError": "3",
+            "salary": "$251,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "14",
+            "throwaways": "12",
+            "timesTraded": "4",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Vince Man",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "6.00",
+            "assists": "9",
+            "dTurnoverRatio": "0.50",
+            "ds": "1",
+            "goals": "1",
+            "receiverError": null,
+            "salary": "$167,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "3",
+            "throwaways": "2",
+            "timesTraded": "0",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gareth Cawley",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "44",
+            "dTurnoverRatio": "0.42",
+            "ds": "14",
+            "goals": "41",
+            "receiverError": "2",
+            "salary": "$564,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "18",
+            "throwaways": "31",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tyler Curtis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.10",
+            "assists": "15",
+            "dTurnoverRatio": "1.20",
+            "ds": "18",
+            "goals": null,
+            "receiverError": "5",
+            "salary": "$615,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "6",
+            "throwaways": "10",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Meghan Janssen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "16",
+            "dTurnoverRatio": "0.15",
+            "ds": "7",
+            "goals": "43",
+            "receiverError": "11",
+            "salary": "$359,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "19",
+            "throwaways": "35",
+            "timesTraded": "0",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Colin Thompson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.93",
+            "assists": "19",
+            "dTurnoverRatio": "0.55",
+            "ds": "11",
+            "goals": "17",
+            "receiverError": "5",
+            "salary": "$377,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "25",
+            "throwaways": "15",
+            "timesTraded": "2",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Preston Steinke",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.64",
+            "assists": "20",
+            "dTurnoverRatio": "1.28",
+            "ds": "23",
+            "goals": "26",
+            "receiverError": "7",
+            "salary": "$468,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "20",
+            "throwaways": "11",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kim Baxter",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "14",
+            "dTurnoverRatio": "0.75",
+            "ds": "6",
+            "goals": "9",
+            "receiverError": "0",
+            "salary": "$264,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "10",
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Emma Seaborn",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.83",
+            "assists": "30",
+            "dTurnoverRatio": "0.36",
+            "ds": "10",
+            "goals": "17",
+            "receiverError": "4",
+            "salary": "$445,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": null,
+            "throwaways": "24",
+            "timesTraded": "2",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Anita Benoit",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.60",
+            "assists": "3",
+            "dTurnoverRatio": "0.07",
+            "ds": "1",
+            "goals": "4",
+            "receiverError": "4",
+            "salary": "$167,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "13",
+            "throwaways": "10",
+            "timesTraded": "4",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Christian Parsons",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "5.75",
+            "assists": "27",
+            "dTurnoverRatio": "1.44",
+            "ds": "13",
+            "goals": "14",
+            "receiverError": "1",
+            "salary": "$413,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "19",
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Agatha Hodsman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.40",
+            "assists": "17",
+            "dTurnoverRatio": "0.19",
+            "ds": "6",
+            "goals": "9",
+            "receiverError": "1",
+            "salary": "$259,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "25",
+            "throwaways": "30",
+            "timesTraded": "0",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kevin Rabichow",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.35",
+            "assists": "15",
+            "dTurnoverRatio": "0.24",
+            "ds": "4",
+            "goals": "12",
+            "receiverError": "0",
+            "salary": "$249,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "8",
+            "throwaways": "17",
+            "timesTraded": "3",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Elena Wang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.23",
+            "assists": "3",
+            "dTurnoverRatio": "0.36",
+            "ds": "8",
+            "goals": "15",
+            "receiverError": "9",
+            "salary": "$239,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "13",
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kenny Ye",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.69",
+            "assists": "25",
+            "dTurnoverRatio": "1.47",
+            "ds": "22",
+            "goals": "20",
+            "receiverError": "2",
+            "salary": "$453,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "10",
+            "throwaways": "13",
+            "timesTraded": "1",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Marianne Perko",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "5.40",
+            "assists": "13",
+            "dTurnoverRatio": "0.75",
+            "ds": "6",
+            "goals": "35",
+            "receiverError": "3",
+            "salary": "$400,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "14",
+            "throwaways": "5",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Raoul Tanyan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.97",
+            "assists": "26",
+            "dTurnoverRatio": "0.28",
+            "ds": "11",
+            "goals": "5",
+            "receiverError": "6",
+            "salary": "$222,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "6",
+            "throwaways": "33",
+            "timesTraded": "0",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kat Zikov",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.67",
+            "assists": "10",
+            "dTurnoverRatio": "0.11",
+            "ds": "1",
+            "goals": "7",
+            "receiverError": "0",
+            "salary": "$196,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "5",
+            "throwaways": "9",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Zach Margolis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.95",
+            "assists": "25",
+            "dTurnoverRatio": "0.64",
+            "ds": "14",
+            "goals": "31",
+            "receiverError": "3",
+            "salary": "$440,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "12",
+            "throwaways": "19",
+            "timesTraded": "3",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nicole James",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.75",
+            "assists": "9",
+            "dTurnoverRatio": "1.38",
+            "ds": "11",
+            "goals": "19",
+            "receiverError": "4",
+            "salary": "$324,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "10",
+            "throwaways": "4",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jared Westreich",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.38",
+            "assists": "23",
+            "dTurnoverRatio": "0.94",
+            "ds": "17",
+            "goals": "37",
+            "receiverError": "2",
+            "salary": "$483,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "15",
+            "throwaways": "16",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Audrey Fu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "12",
+            "dTurnoverRatio": "0.32",
+            "ds": "6",
+            "goals": "6",
+            "receiverError": "1",
+            "salary": "$246,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "24",
+            "throwaways": "18",
+            "timesTraded": "1",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jeff Chik",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.33",
+            "assists": "32",
+            "dTurnoverRatio": "0.26",
+            "ds": "9",
+            "goals": "10",
+            "receiverError": "2",
+            "salary": "$294,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "12",
+            "throwaways": "33",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Bryan Smith",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.73",
+            "assists": null,
+            "dTurnoverRatio": "1.11",
+            "ds": null,
+            "goals": null,
+            "receiverError": "2",
+            "salary": null,
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "16",
+            "throwaways": "33",
+            "timesTraded": "2",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Raymond Tang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.33",
+            "assists": "11",
+            "dTurnoverRatio": "0.64",
+            "ds": "7",
+            "goals": "27",
+            "receiverError": "5",
+            "salary": "$356,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "6",
+            "timesTraded": "3",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Laura Archila",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.38",
+            "assists": "9",
+            "dTurnoverRatio": "0.82",
+            "ds": "9",
+            "goals": "36",
+            "receiverError": "3",
+            "salary": "$434,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "18",
+            "throwaways": "8",
+            "timesTraded": "3",
+            "wins": null
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Remi Jr. Ojo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.97",
+            "assists": "41",
+            "dTurnoverRatio": "0.58",
+            "ds": "18",
+            "goals": "21",
+            "receiverError": "1",
+            "salary": "$471,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "18",
+            "throwaways": "30",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matt Kishi",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.86",
+            "assists": "34",
+            "dTurnoverRatio": "0.66",
+            "ds": "21",
+            "goals": "17",
+            "receiverError": "4",
+            "salary": "$436,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "18",
+            "throwaways": "28",
+            "timesTraded": "2",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jennifer Law",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.57",
+            "assists": "6",
+            "dTurnoverRatio": "0.29",
+            "ds": "2",
+            "goals": "3",
+            "receiverError": "0",
+            "salary": "$155,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "5",
+            "throwaways": "7",
+            "timesTraded": "2",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Quinn Liddicoat",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.48",
+            "assists": "2",
+            "dTurnoverRatio": "0.17",
+            "ds": "5",
+            "goals": "11",
+            "receiverError": "7",
+            "salary": "$135,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "23",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Greg McMullin",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.63",
+            "assists": "38",
+            "dTurnoverRatio": "0.65",
+            "ds": "13",
+            "goals": "7",
+            "receiverError": "1",
+            "salary": "$384,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "12",
+            "throwaways": "19",
+            "timesTraded": "0",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lily Steponaitis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.23",
+            "assists": "35",
+            "dTurnoverRatio": "0.42",
+            "ds": "13",
+            "goals": "25",
+            "receiverError": "5",
+            "salary": "$443,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "23",
+            "throwaways": "26",
+            "timesTraded": "2",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jamie Weatherby",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.94",
+            "assists": "11",
+            "dTurnoverRatio": "0.39",
+            "ds": "7",
+            "goals": "17",
+            "receiverError": "0",
+            "salary": "$265,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "6",
+            "throwaways": "18",
+            "timesTraded": "3",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Peter Hawkings",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.32",
+            "assists": "24",
+            "dTurnoverRatio": "0.50",
+            "ds": "11",
+            "goals": "19",
+            "receiverError": "3",
+            "salary": "$394,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "20",
+            "throwaways": "19",
+            "timesTraded": "3",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Puja Ahluwalia",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.40",
+            "assists": "1",
+            "dTurnoverRatio": "0.11",
+            "ds": "1",
+            "goals": "8",
+            "receiverError": "4",
+            "salary": "$143,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "1",
+            "throwaways": "5",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Polly Yung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.00",
+            "assists": "6",
+            "dTurnoverRatio": "0.50",
+            "ds": "4",
+            "goals": "13",
+            "receiverError": "5",
+            "salary": "$227,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "6",
+            "throwaways": "3",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Mark Taylor",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.71",
+            "assists": "9",
+            "dTurnoverRatio": null,
+            "ds": "20",
+            "goals": "24",
+            "receiverError": "1",
+            "salary": "$382,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "10",
+            "throwaways": "7",
+            "timesTraded": "2",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hin Tang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.86",
+            "assists": "10",
+            "dTurnoverRatio": "0.19",
+            "ds": "4",
+            "goals": "12",
+            "receiverError": "0",
+            "salary": "$203,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "8",
+            "throwaways": "21",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Marisa Hart",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.57",
+            "assists": "22",
+            "dTurnoverRatio": "0.56",
+            "ds": "15",
+            "goals": "33",
+            "receiverError": "6",
+            "salary": "$426,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "11",
+            "throwaways": "21",
+            "timesTraded": "0",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rebecca Mesburis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.30",
+            "assists": "25",
+            "dTurnoverRatio": "0.33",
+            "ds": "9",
+            "goals": "31",
+            "receiverError": "7",
+            "salary": "$422,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "21",
+            "throwaways": "20",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chris Wang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.61",
+            "assists": "30",
+            "dTurnoverRatio": "1.11",
+            "ds": "20",
+            "goals": "15",
+            "receiverError": "0",
+            "salary": "$443,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "17",
+            "throwaways": "18",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "David So",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.65",
+            "assists": "14",
+            "dTurnoverRatio": "1.12",
+            "ds": "19",
+            "goals": "10",
+            "receiverError": "0",
+            "salary": "$332,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "14",
+            "throwaways": "17",
+            "timesTraded": "0",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Melissa Morlidge",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.78",
+            "assists": "22",
+            "dTurnoverRatio": "0.28",
+            "ds": "7",
+            "goals": "4",
+            "receiverError": "2",
+            "salary": "$275,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "19",
+            "throwaways": "23",
+            "timesTraded": "3",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Natalie Fitzgerald",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.93",
+            "assists": "4",
+            "dTurnoverRatio": "0.33",
+            "ds": "6",
+            "goals": "20",
+            "receiverError": "4",
+            "salary": "$236,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "14",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jason Chan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.45",
+            "assists": "15",
+            "dTurnoverRatio": "1.15",
+            "ds": "15",
+            "goals": "12",
+            "receiverError": "2",
+            "salary": "$331,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "12",
+            "throwaways": "11",
+            "timesTraded": "0",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Dexter Chu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.67",
+            "assists": "13",
+            "dTurnoverRatio": "0.75",
+            "ds": "6",
+            "goals": "17",
+            "receiverError": "2",
+            "salary": "$317,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Julian Weinrib",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.29",
+            "assists": "23",
+            "dTurnoverRatio": "0.71",
+            "ds": "12",
+            "goals": "28",
+            "receiverError": "3",
+            "salary": "$406,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "14",
+            "timesTraded": "1",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chris Loat",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.60",
+            "assists": "31",
+            "dTurnoverRatio": "0.42",
+            "ds": "10",
+            "goals": "7",
+            "receiverError": "4",
+            "salary": "$356,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "21",
+            "throwaways": "20",
+            "timesTraded": "3",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jacqui Hayworth",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "2",
+            "dTurnoverRatio": "1.14",
+            "ds": "8",
+            "goals": "21",
+            "receiverError": "2",
+            "salary": "$275,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "8",
+            "throwaways": "5",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Sanjay Parker",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.14",
+            "assists": "19",
+            "dTurnoverRatio": "0.32",
+            "ds": "8",
+            "goals": "32",
+            "receiverError": "3",
+            "salary": "$354,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "6",
+            "throwaways": "22",
+            "timesTraded": "2",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nicolas Zuniga",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.83",
+            "assists": "34",
+            "dTurnoverRatio": "0.21",
+            "ds": "13",
+            "goals": "16",
+            "receiverError": "4",
+            "salary": "$267,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "14",
+            "throwaways": null,
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Warren Tang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.93",
+            "assists": "32",
+            "dTurnoverRatio": "0.55",
+            "ds": "16",
+            "goals": "23",
+            "receiverError": "2",
+            "salary": "$439,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "20",
+            "throwaways": "27",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Carter Chin",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "15",
+            "dTurnoverRatio": "0.14",
+            "ds": "3",
+            "goals": "4",
+            "receiverError": "0",
+            "salary": "$174,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "6",
+            "throwaways": "21",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jesse Watt",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.92",
+            "assists": "26",
+            "dTurnoverRatio": "0.94",
+            "ds": "15",
+            "goals": "28",
+            "receiverError": "3",
+            "salary": "$464,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "12",
+            "throwaways": "13",
+            "timesTraded": "1",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Janet Wan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.38",
+            "assists": "11",
+            "dTurnoverRatio": "0.25",
+            "ds": "5",
+            "goals": "32",
+            "receiverError": "7",
+            "salary": "$314,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "7",
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Carissa Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.67",
+            "assists": "2",
+            "dTurnoverRatio": "0.11",
+            "ds": "1",
+            "goals": "11",
+            "receiverError": "0",
+            "salary": "$160,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "4",
+            "throwaways": "9",
+            "timesTraded": "3",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kieran Bol",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.10",
+            "assists": "34",
+            "dTurnoverRatio": "0.30",
+            "ds": "7",
+            "goals": "17",
+            "receiverError": "2",
+            "salary": "$370,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "10",
+            "throwaways": "21",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrea Nickel",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": null,
+            "assists": "1",
+            "dTurnoverRatio": null,
+            "ds": "0",
+            "goals": "2",
+            "receiverError": "0",
+            "salary": "$128,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "1",
+            "throwaways": "0",
+            "timesTraded": "2",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tyler Longo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.58",
+            "assists": "17",
+            "dTurnoverRatio": "0.71",
+            "ds": "10",
+            "goals": "12",
+            "receiverError": "2",
+            "salary": "$326,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "14",
+            "throwaways": "12",
+            "timesTraded": "2",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Michael Huang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.57",
+            "assists": "33",
+            "dTurnoverRatio": "0.39",
+            "ds": "7",
+            "goals": "11",
+            "receiverError": "4",
+            "salary": "$325,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "3",
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Megan Mcnally",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.24",
+            "assists": "16",
+            "dTurnoverRatio": "0.37",
+            "ds": "11",
+            "goals": "17",
+            "receiverError": "5",
+            "salary": "$300,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "15",
+            "throwaways": "25",
+            "timesTraded": "0",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kevin Christensen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.90",
+            "assists": "10",
+            "dTurnoverRatio": "0.44",
+            "ds": "8",
+            "goals": "16",
+            "receiverError": "8",
+            "salary": "$265,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tim Fowler",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "14",
+            "dTurnoverRatio": "0.67",
+            "ds": "14",
+            "goals": "21",
+            "receiverError": "1",
+            "salary": "$340,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "16",
+            "throwaways": "20",
+            "timesTraded": null,
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Max van der Weerd",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.12",
+            "assists": "19",
+            "dTurnoverRatio": "0.58",
+            "ds": "15",
+            "goals": "9",
+            "receiverError": "9",
+            "salary": "$317,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "17",
+            "throwaways": "17",
+            "timesTraded": "2",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Calvin Ho",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.13",
+            "assists": "18",
+            "dTurnoverRatio": "0.60",
+            "ds": "18",
+            "goals": "20",
+            "receiverError": "6",
+            "salary": "$330,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "24",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Taunya Tremblay",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.13",
+            "assists": "1",
+            "dTurnoverRatio": "0.11",
+            "ds": "1",
+            "goals": "9",
+            "receiverError": "1",
+            "salary": "$173,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "8",
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "James Ho",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.83",
+            "assists": "8",
+            "dTurnoverRatio": "0.30",
+            "ds": "6",
+            "goals": "10",
+            "receiverError": "2",
+            "salary": "$202,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "7",
+            "throwaways": "18",
+            "timesTraded": "3",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Amanda Moore",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.90",
+            "assists": "19",
+            "dTurnoverRatio": "0.09",
+            "ds": "1",
+            "goals": "8",
+            "receiverError": "1",
+            "salary": "$242,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "10",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hayden Andrews",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.12",
+            "assists": "31",
+            "dTurnoverRatio": "0.13",
+            "ds": "3",
+            "goals": "28",
+            "receiverError": "6",
+            "salary": "$382,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "5",
+            "throwaways": "17",
+            "timesTraded": "1",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Benjamin Goodman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.35",
+            "assists": "18",
+            "dTurnoverRatio": "0.69",
+            "ds": "18",
+            "goals": "15",
+            "receiverError": "3",
+            "salary": "$334,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "13",
+            "throwaways": "23",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Heather Gilmour",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.72",
+            "assists": "11",
+            "dTurnoverRatio": "0.27",
+            "ds": "8",
+            "goals": "12",
+            "receiverError": "5",
+            "salary": "$186,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "7",
+            "throwaways": "25",
+            "timesTraded": "2",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "\"Scott ODonnell\"",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.17",
+            "assists": "4",
+            "dTurnoverRatio": "0.29",
+            "ds": "2",
+            "goals": "1",
+            "receiverError": "1",
+            "salary": "$125,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "3",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jarel Villaroya",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "19",
+            "dTurnoverRatio": "0.71",
+            "ds": "12",
+            "goals": "10",
+            "receiverError": "3",
+            "salary": "$311,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jacqueline Statten",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.44",
+            "assists": "3",
+            "dTurnoverRatio": "0.08",
+            "ds": "1",
+            "goals": "14",
+            "receiverError": "4",
+            "salary": "$179,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "1",
+            "throwaways": "9",
+            "timesTraded": "3",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Debra Cohen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.84",
+            "assists": "6",
+            "dTurnoverRatio": "0.15",
+            "ds": "4",
+            "goals": "11",
+            "receiverError": "2",
+            "salary": "$191,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "15",
+            "throwaways": "25",
+            "timesTraded": "1",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Sarah MacQuarrie",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.33",
+            "assists": "2",
+            "dTurnoverRatio": "0.50",
+            "ds": "2",
+            "goals": "7",
+            "receiverError": "1",
+            "salary": "$169,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "5",
+            "throwaways": "3",
+            "timesTraded": "2",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jacob Sone",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.75",
+            "assists": "8",
+            "dTurnoverRatio": "0.67",
+            "ds": "6",
+            "goals": "16",
+            "receiverError": "1",
+            "salary": "$267,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "6",
+            "throwaways": "8",
+            "timesTraded": "3",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Arthur Pang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.10",
+            "assists": "31",
+            "dTurnoverRatio": "0.48",
+            "ds": "13",
+            "goals": "13",
+            "receiverError": "6",
+            "salary": "$365,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "13",
+            "throwaways": "21",
+            "timesTraded": "2",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Baron Lam",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.52",
+            "assists": "27",
+            "dTurnoverRatio": "0.14",
+            "ds": "4",
+            "goals": "10",
+            "receiverError": "4",
+            "salary": "$258,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "11",
+            "throwaways": "25",
+            "timesTraded": "1",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Cathy Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.27",
+            "assists": "21",
+            "dTurnoverRatio": "0.50",
+            "ds": "12",
+            "goals": "10",
+            "receiverError": "9",
+            "salary": "$312,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "13",
+            "throwaways": "15",
+            "timesTraded": "2",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Irene Tse",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.60",
+            "assists": "3",
+            "dTurnoverRatio": "0.40",
+            "ds": "8",
+            "goals": "17",
+            "receiverError": "10",
+            "salary": "$219,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "3",
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Alyne Azucena",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.71",
+            "assists": "24",
+            "dTurnoverRatio": "0.44",
+            "ds": "11",
+            "goals": "23",
+            "receiverError": "1",
+            "salary": "$391,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "17",
+            "throwaways": "24",
+            "timesTraded": "2",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Genevieve Grier",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.36",
+            "assists": "0",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "3",
+            "receiverError": "4",
+            "salary": "$104,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "4",
+            "throwaways": "11",
+            "timesTraded": "3",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Helen Liao",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.90",
+            "assists": "7",
+            "dTurnoverRatio": "0.45",
+            "ds": "13",
+            "goals": "27",
+            "receiverError": "9",
+            "salary": "$303,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "11",
+            "throwaways": "20",
+            "timesTraded": "1",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matthew Colphon",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.21",
+            "assists": "14",
+            "dTurnoverRatio": "0.30",
+            "ds": "6",
+            "goals": "16",
+            "receiverError": "1",
+            "salary": "$262,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "19",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Allison Soong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.46",
+            "assists": "11",
+            "dTurnoverRatio": "0.47",
+            "ds": "8",
+            "goals": "12",
+            "receiverError": "4",
+            "salary": "$259,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "8",
+            "throwaways": "13",
+            "timesTraded": "1",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Diane Sepa-Kishi",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.75",
+            "assists": "4",
+            "dTurnoverRatio": "0.17",
+            "ds": "2",
+            "goals": "6",
+            "receiverError": "4",
+            "salary": "$165,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "10",
+            "throwaways": "8",
+            "timesTraded": "3",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Amanda Sheppard",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.96",
+            "assists": "8",
+            "dTurnoverRatio": "0.41",
+            "ds": "12",
+            "goals": "12",
+            "receiverError": "5",
+            "salary": "$221,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "15",
+            "throwaways": "24",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Shimon Pokorny",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.30",
+            "assists": "17",
+            "dTurnoverRatio": "0.35",
+            "ds": "7",
+            "goals": "11",
+            "receiverError": null,
+            "salary": "$267,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "20",
+            "timesTraded": "1",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Christine Cashin",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "2",
+            "dTurnoverRatio": "0.16",
+            "ds": "4",
+            "goals": "17",
+            "receiverError": "7",
+            "salary": "$179,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "7",
+            "throwaways": "18",
+            "timesTraded": "3",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Krista Bennatti-Roberts",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.13",
+            "assists": "4",
+            "dTurnoverRatio": "0.33",
+            "ds": "3",
+            "goals": "11",
+            "receiverError": "1",
+            "salary": "$189,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "5",
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Anna Kazmierska",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.25",
+            "assists": "6",
+            "dTurnoverRatio": "0.73",
+            "ds": "8",
+            "goals": "17",
+            "receiverError": "3",
+            "salary": "$279,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "12",
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kaity Williams",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.55",
+            "assists": "5",
+            "dTurnoverRatio": "0.10",
+            "ds": "2",
+            "goals": "5",
+            "receiverError": "1",
+            "salary": "$115,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "6",
+            "throwaways": "20",
+            "timesTraded": "0",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrew Fell",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.33",
+            "assists": "3",
+            "dTurnoverRatio": "0.50",
+            "ds": "2",
+            "goals": "1",
+            "receiverError": "1",
+            "salary": "$144,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "1",
+            "throwaways": "3",
+            "timesTraded": "3",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Alex Brittain Boisvert",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.82",
+            "assists": "20",
+            "dTurnoverRatio": "0.44",
+            "ds": "8",
+            "goals": "25",
+            "receiverError": "1",
+            "salary": "$368,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "11",
+            "throwaways": "17",
+            "timesTraded": "2",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Julie DeWolf",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.25",
+            "assists": "2",
+            "dTurnoverRatio": "0.60",
+            "ds": "3",
+            "goals": "12",
+            "receiverError": "1",
+            "salary": "$187,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "3",
+            "throwaways": "4",
+            "timesTraded": "0",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Adam Wenneman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.43",
+            "assists": "11",
+            "dTurnoverRatio": "0.47",
+            "ds": "9",
+            "goals": "13",
+            "receiverError": "5",
+            "salary": "$263,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "14",
+            "timesTraded": "3",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jon Brandt",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.79",
+            "assists": "19",
+            "dTurnoverRatio": "0.35",
+            "ds": "7",
+            "goals": "11",
+            "receiverError": "1",
+            "salary": "$290,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "15",
+            "throwaways": "19",
+            "timesTraded": null,
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jane Logan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.50",
+            "assists": "3",
+            "dTurnoverRatio": "0.20",
+            "ds": "1",
+            "goals": "5",
+            "receiverError": "1",
+            "salary": "$159,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "7",
+            "throwaways": "4",
+            "timesTraded": "0",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Victor Rehorst",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.07",
+            "assists": "3",
+            "dTurnoverRatio": "0.44",
+            "ds": "8",
+            "goals": "8",
+            "receiverError": "3",
+            "salary": "$192,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "13",
+            "throwaways": "15",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Don Colangelo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.27",
+            "assists": "15",
+            "dTurnoverRatio": "0.30",
+            "ds": "7",
+            "goals": "19",
+            "receiverError": "1",
+            "salary": "$279,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "13",
+            "throwaways": "22",
+            "timesTraded": "2",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chris Faulkner",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.05",
+            "assists": "17",
+            "dTurnoverRatio": "0.15",
+            "ds": "4",
+            "goals": "18",
+            "receiverError": "4",
+            "salary": "$254,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "6",
+            "throwaways": "22",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "\"Helen OSullivan\"",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": null,
+            "assists": "0",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "0",
+            "receiverError": "1",
+            "salary": "$97,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "0",
+            "throwaways": "0",
+            "timesTraded": "0",
+            "wins": "0"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Patrick Russell",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.16",
+            "assists": "13",
+            "dTurnoverRatio": "0.26",
+            "ds": "6",
+            "goals": "22",
+            "receiverError": "4",
+            "salary": "$281,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "19",
+            "timesTraded": "0",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nick Hung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.14",
+            "assists": "12",
+            "dTurnoverRatio": "0.33",
+            "ds": "8",
+            "goals": "8",
+            "receiverError": "3",
+            "salary": "$223,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "12",
+            "throwaways": "21",
+            "timesTraded": "0",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Natalie Dunn",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.43",
+            "assists": "3",
+            "dTurnoverRatio": "0.23",
+            "ds": "3",
+            "goals": "12",
+            "receiverError": "6",
+            "salary": "$212,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "14",
+            "throwaways": "7",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lindsay Chong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.60",
+            "assists": "8",
+            "dTurnoverRatio": "0.42",
+            "ds": "5",
+            "goals": "22",
+            "receiverError": "2",
+            "salary": "$285,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "8",
+            "throwaways": "10",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Morgan Leech",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.14",
+            "assists": "11",
+            "dTurnoverRatio": "0.17",
+            "ds": "4",
+            "goals": "7",
+            "receiverError": "3",
+            "salary": "$194,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "13",
+            "throwaways": "21",
+            "timesTraded": "2",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Mathew Harder",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.42",
+            "assists": "18",
+            "dTurnoverRatio": "0.36",
+            "ds": "5",
+            "goals": "6",
+            "receiverError": "2",
+            "salary": "$255,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "11",
+            "throwaways": "12",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Anthony Slater",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.53",
+            "assists": "12",
+            "dTurnoverRatio": "0.59",
+            "ds": "10",
+            "goals": "22",
+            "receiverError": "2",
+            "salary": "$329,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "11",
+            "throwaways": "15",
+            "timesTraded": "0",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Diane Pendlebury",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.23",
+            "assists": "5",
+            "dTurnoverRatio": "0.07",
+            "ds": "1",
+            "goals": "7",
+            "receiverError": "1",
+            "salary": "$169,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "11",
+            "throwaways": "13",
+            "timesTraded": "1",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Joel Meyers",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.58",
+            "assists": "15",
+            "dTurnoverRatio": "0.48",
+            "ds": "11",
+            "goals": "18",
+            "receiverError": "4",
+            "salary": "$311,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "15",
+            "throwaways": "19",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Crystal Sotelo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.42",
+            "assists": "7",
+            "dTurnoverRatio": "0.31",
+            "ds": "4",
+            "goals": "18",
+            "receiverError": "1",
+            "salary": "$260,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "10",
+            "throwaways": "12",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Saleh Mohamed",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "4",
+            "dTurnoverRatio": "0.46",
+            "ds": "6",
+            "goals": "10",
+            "receiverError": "2",
+            "salary": "$206,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "7",
+            "throwaways": "11",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrew Gosbee",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.89",
+            "assists": "20",
+            "dTurnoverRatio": "0.59",
+            "ds": "13",
+            "goals": "8",
+            "receiverError": "4",
+            "salary": "$294,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "14",
+            "throwaways": "18",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Phil Lam",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "3",
+            "dTurnoverRatio": "0.14",
+            "ds": "3",
+            "goals": "8",
+            "receiverError": "5",
+            "salary": "$134,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "5",
+            "throwaways": "16",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Michael Luubert",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.21",
+            "assists": "11",
+            "dTurnoverRatio": "0.65",
+            "ds": "11",
+            "goals": "21",
+            "receiverError": "3",
+            "salary": "$300,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "6",
+            "throwaways": "14",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Amy Hunt",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.14",
+            "assists": "9",
+            "dTurnoverRatio": "0.24",
+            "ds": "6",
+            "goals": "12",
+            "receiverError": "4",
+            "salary": "$214,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "15",
+            "throwaways": "21",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Amanda Murdoch",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.25",
+            "assists": "2",
+            "dTurnoverRatio": "0.40",
+            "ds": "2",
+            "goals": "6",
+            "receiverError": "1",
+            "salary": "$147,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "3",
+            "throwaways": "4",
+            "timesTraded": "1",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Heidi Siu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.93",
+            "assists": "15",
+            "dTurnoverRatio": "0.05",
+            "ds": "1",
+            "goals": "1",
+            "receiverError": "6",
+            "salary": "$186,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "12",
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Dong-Ling Chen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "4",
+            "dTurnoverRatio": "0.64",
+            "ds": "7",
+            "goals": "11",
+            "receiverError": "7",
+            "salary": "$204,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "4",
+            "throwaways": "4",
+            "timesTraded": "1",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Carolina Vargas",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.67",
+            "assists": "1",
+            "dTurnoverRatio": "0.60",
+            "ds": "3",
+            "goals": "4",
+            "receiverError": "2",
+            "salary": "$140,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "4",
+            "throwaways": "3",
+            "timesTraded": "0",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Laura Stanley",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.80",
+            "assists": "7",
+            "dTurnoverRatio": "0.26",
+            "ds": "6",
+            "goals": "14",
+            "receiverError": "3",
+            "salary": "$213,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "20",
+            "timesTraded": "1",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Stephanie Schwartz",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.57",
+            "assists": "16",
+            "dTurnoverRatio": "0.44",
+            "ds": "7",
+            "goals": "10",
+            "receiverError": "2",
+            "salary": "$258,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "6",
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jocelyne Chan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.18",
+            "assists": "3",
+            "dTurnoverRatio": "0.26",
+            "ds": "6",
+            "goals": "19",
+            "receiverError": "12",
+            "salary": "$225,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "10",
+            "throwaways": "11",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Vikki Shimoda",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.33",
+            "assists": "1",
+            "dTurnoverRatio": "0.38",
+            "ds": "3",
+            "goals": "6",
+            "receiverError": "2",
+            "salary": "$136,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "1",
+            "throwaways": "6",
+            "timesTraded": "0",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hazel Tenefrancia",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.30",
+            "assists": "3",
+            "dTurnoverRatio": "0.07",
+            "ds": "1",
+            "goals": "18",
+            "receiverError": "4",
+            "salary": "$223,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "10",
+            "throwaways": "10",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lori Bristow",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.63",
+            "assists": "17",
+            "dTurnoverRatio": "0.11",
+            "ds": "2",
+            "goals": "5",
+            "receiverError": "2",
+            "salary": "$190,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "16",
+            "timesTraded": "0",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Michael Rudanycz",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.30",
+            "assists": "9",
+            "dTurnoverRatio": "0.50",
+            "ds": "7",
+            "goals": "0",
+            "receiverError": "4",
+            "salary": "$170,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "4",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gwyneth Gerecke",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "0",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "2",
+            "receiverError": "2",
+            "salary": "$139,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "4",
+            "throwaways": "2",
+            "timesTraded": "0",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jenny Dale",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.83",
+            "assists": "2",
+            "dTurnoverRatio": "0.25",
+            "ds": "2",
+            "goals": "1",
+            "receiverError": "2",
+            "salary": "$127,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "3",
+            "throwaways": "6",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Alexandra Sleghel",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "0",
+            "dTurnoverRatio": "0.50",
+            "ds": "3",
+            "goals": "9",
+            "receiverError": "3",
+            "salary": "$169,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "3",
+            "throwaways": "3",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Benjamin Holmes",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.07",
+            "assists": "5",
+            "dTurnoverRatio": "0.25",
+            "ds": "4",
+            "goals": "17",
+            "receiverError": "2",
+            "salary": "$220,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "10",
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Ed Kung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.30",
+            "assists": "8",
+            "dTurnoverRatio": "0.31",
+            "ds": "4",
+            "goals": "8",
+            "receiverError": "3",
+            "salary": "$201,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "5",
+            "throwaways": "10",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Brittany Heath",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "0",
+            "dTurnoverRatio": "0.38",
+            "ds": "3",
+            "goals": "7",
+            "receiverError": "4",
+            "salary": "$172,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "6",
+            "throwaways": "4",
+            "timesTraded": "0",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hilary Lum",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.60",
+            "assists": "2",
+            "dTurnoverRatio": "0.43",
+            "ds": "3",
+            "goals": "5",
+            "receiverError": "2",
+            "salary": "$149,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "1",
+            "throwaways": "5",
+            "timesTraded": "1",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Catherine Chao",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.18",
+            "assists": "11",
+            "dTurnoverRatio": "0.13",
+            "ds": "3",
+            "goals": "14",
+            "receiverError": "7",
+            "salary": "$209,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "9",
+            "throwaways": "17",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rebecca Chan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.56",
+            "assists": "2",
+            "dTurnoverRatio": "0.33",
+            "ds": "4",
+            "goals": "14",
+            "receiverError": "3",
+            "salary": "$193,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "3",
+            "throwaways": "9",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chelsea Jackson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.60",
+            "assists": "9",
+            "dTurnoverRatio": "0.25",
+            "ds": "3",
+            "goals": "5",
+            "receiverError": "2",
+            "salary": "$175,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "7",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Dara Lo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.80",
+            "assists": "11",
+            "dTurnoverRatio": "0.40",
+            "ds": "6",
+            "goals": "13",
+            "receiverError": "5",
+            "salary": "$266,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "7",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": null
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Elizabeth Foran",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.40",
+            "assists": "6",
+            "dTurnoverRatio": "0.21",
+            "ds": "4",
+            "goals": "13",
+            "receiverError": "9",
+            "salary": "$204,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "8",
+            "throwaways": "10",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Beth Fisher",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.85",
+            "assists": "6",
+            "dTurnoverRatio": "0.28",
+            "ds": "5",
+            "goals": "7",
+            "receiverError": "5",
+            "salary": "$172,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "5",
+            "throwaways": "13",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Claire Midgley",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "2",
+            "dTurnoverRatio": "0.12",
+            "ds": "2",
+            "goals": "7",
+            "receiverError": "3",
+            "salary": "$127,000",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "5",
+            "throwaways": "14",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jazmin Ulalan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.77",
+            "assists": "3",
+            "dTurnoverRatio": "0.13",
+            "ds": "2",
+            "goals": "3",
+            "receiverError": "3",
+            "salary": "$111,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "7",
+            "throwaways": "13",
+            "timesTraded": "0",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kelsey Waugh",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.71",
+            "assists": "0",
+            "dTurnoverRatio": "0.10",
+            "ds": "2",
+            "goals": "2",
+            "receiverError": "13",
+            "salary": "$96,500",
+            "season": "Football",
+            "seasonId": 12,
+            "secondAssists": "5",
+            "throwaways": "7",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    }
+]

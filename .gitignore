@@ -5,5 +5,7 @@ credentials/*
 p3/bin/*
 p3/include/*
 p3/lib/*
+p3/Scripts/*
 credentials.json
+p3/src/token.pickle
 

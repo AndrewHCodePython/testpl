@@ -12,14 +12,44 @@ import json
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 
-# The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '16gLkJRHz3LoopHfz7UwCdzb2gOrIB1NsJkyavp82isY'
-SAMPLE_RANGE_NAME = 'Overall Leaderboard!A4:X'
-
 def main():
-    """Shows basic usage of the Sheets API.
-    Prints values from a sample spreadsheet.
     """
+        TPL Season XVI - Myths and Legends  https://docs.google.com/spreadsheets/d/1N8kW89lcsU0iGxNm_KGHDWK9MDJ9bpwohlfaUUqMoW4/edit#gid=1238198717
+        TPL Season XV - Video Games         https://docs.google.com/spreadsheets/d/1jU05zSqXXXnfnJwQQV8wq7Z2bdabnOXTHitOXLIeXxw/edit#gid=1238198717
+        TPL Season XIV - Seinfeld           https://docs.google.com/spreadsheets/d/1F3wJvqe6naVQI4DWCTSBTQSBtLqaa54IYx91uf9yT_k/edit
+        TPL Season XIII - Beer              https://docs.google.com/spreadsheets/d/1F3wJvqe6naVQI4DWCTSBTQSBtLqaa54IYx91uf9yT_k/edit#gid=1238198717
+        TPL Season XII - Football           https://docs.google.com/spreadsheets/d/1d1mEl_2t7PBP71sdHD-N_Z-8wxEik8Th9lUO4-v0-Wk/edit?ts=5a733912#gid=1238198717
+        TPL Season XI - Rom Com             https://docs.google.com/spreadsheets/d/16gLkJRHz3LoopHfz7UwCdzb2gOrIB1NsJkyavp82isY/edit#gid=1238198717
+        TPL Season X - 80s Rockbands:       https://docs.google.com/spreadsheets/d/1K6fHhdBGHlyur1NTZ6ob0wEPAqjKMQSHPUwdlxglLa4/edit#gid=1238198717
+        TPL Season IX - The Simpsons:       https://docs.google.com/spreadsheets/d/1qOVPR4Iiy0GSDczhO4gZMe0ZYKjiEx3e6iNBapBU1DQ/edit#gid=1238198717
+        TPL Season VIII - 80s:              https://docs.google.com/spreadsheets/d/18OZCA7MDZ8-6ivja56pQjuxMSg8FV4W8GmVu01E6PH0/edit#gid=1238198717 
+        TPL Season VII - Operation 007:     https://docs.google.com/spreadsheets/d/1THYcgYuOtX5sO9d9prG7ouwowAlfvpoGto1wgLK_7No/edit#gid=1238198717     
+        TPL Season VI - Semester:           https://docs.google.com/spreadsheets/d/1SP7oeq_60bDXW4QbLZwDnzE_H9HlwIr41donZg_jS88/edit#gid=1238198717     
+        TPL Season V:                       https://docs.google.com/spreadsheets/d/1qjGc2HD9yX4aHKtJRSn_D29N24F1IonLwG70krdT4PQ/edit#gid=1238198717 
+        TPL Season IV:
+        TPL Season III - GoT:               https://docs.google.com/spreadsheets/d/1AVBNISCLSvI-46OyLaLlw-dIkgEphXS535KEijZq1tY/edit#gid=1 
+        TPL Season II:
+        TPL Season I:
+    """
+
+    # parity related things
+    output_json = "TPLSeason16Stats.json"
+    dictionary1 = {}
+    stat_keys = ['Salary', 
+                'Goals', 
+                'Assists', 
+                '2nd Assists', 
+                'Ds', 
+                'Throwaways', 
+                'Receiver Error', 
+                'Wins', 
+                'Times Traded', 
+                'Ds:Turnover Ratio', 
+                'Total Assist:Throw Away Ratio']
+    # The ID and range of a sample spreadsheet.
+    SPREADSHEET_ID = '1N8kW89lcsU0iGxNm_KGHDWK9MDJ9bpwohlfaUUqMoW4'
+    RANGE_NAME = 'Overall Leaderboard!A4:X'
+    
     creds = None
     # The file token.pickle stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
@@ -44,23 +74,9 @@ def main():
 
     # Call the Sheets API
     sheet = service.spreadsheets()
-    result = sheet.values().get(spreadsheetId=SAMPLE_SPREADSHEET_ID,
-                                range=SAMPLE_RANGE_NAME).execute()
+    result = sheet.values().get(spreadsheetId=SPREADSHEET_ID,
+                                range=RANGE_NAME).execute()
     values = result.get('values', [])
-    
-    output_json = "season_11.json"
-    dictionary1 = {}
-    stat_keys = ['Salary', 
-                'Goals', 
-                'Assists', 
-                '2nd Assists', 
-                'Ds', 
-                'Throwaways', 
-                'Receiver Error', 
-                'Wins', 
-                'Times Traded', 
-                'Ds:Turnover Ratio', 
-                'Total Assist:Throw Away Ratio']
     
     pp = pprint.PrettyPrinter(indent=4)
 
@@ -70,6 +86,7 @@ def main():
         print("wrong number of rows: ", len(values[0]))
     else:
         for rows in values[1:]:
+            print(rows)
             for i in range(0, len(rows), 2):
                 if rows[i] not in dictionary1:
                     # name = 'name: \"' + rows[i]
@@ -98,12 +115,14 @@ def main():
                 if i == 20:
                     dictionary1[name]['Stats']['Total Assist:Throw Away Ratio'] = rows[i+1]
         
-        pp.pprint(dictionary1)
+        # pp.pprint(dictionary1)
     
-    j = json.dumps(dictionary1, indent=4)
-    f = open(output_json, 'w')
-    f.write(j)
-    f.close()
+    with open(output_json, 'w') as outfile:
+            for row in values:
+                # Print columns A and E, which correspond to indices 0 and 4.
+                print('%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s' % (row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10], row[11], row[12], row[13], row[14], row[15], row[16], row[17], row[18]))
+                outfile.write("\n")
+                outfile.write(str(row))
 
 if __name__ == '__main__':
     main()

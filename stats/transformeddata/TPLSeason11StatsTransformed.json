@@ -1,0 +1,3362 @@
+[
+    {
+        "name": "Aaron Hooper",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.69",
+            "assists": "20",
+            "dTurnoverRatio": null,
+            "ds": "29",
+            "goals": "46",
+            "receiverError": "4",
+            "salary": "$605,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "15",
+            "throwaways": "13",
+            "timesTraded": "4",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gareth Cawley",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "27",
+            "dTurnoverRatio": "0.65",
+            "ds": "17",
+            "goals": "47",
+            "receiverError": "0",
+            "salary": "$520,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "12",
+            "throwaways": "26",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "BC Roedde",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.30",
+            "assists": "59",
+            "dTurnoverRatio": "0.13",
+            "ds": "9",
+            "goals": "20",
+            "receiverError": "4",
+            "salary": "$405,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "27",
+            "throwaways": null,
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Greg Kramer",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.36",
+            "assists": null,
+            "dTurnoverRatio": "0.29",
+            "ds": "19",
+            "goals": "8",
+            "receiverError": "2",
+            "salary": "$424,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "28",
+            "throwaways": null,
+            "timesTraded": "0",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Ian Bone",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.24",
+            "assists": "31",
+            "dTurnoverRatio": "0.74",
+            "ds": "32",
+            "goals": "17",
+            "receiverError": "5",
+            "salary": "$425,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "16",
+            "throwaways": "38",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Darrel Nantais",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.70",
+            "assists": null,
+            "dTurnoverRatio": "0.20",
+            "ds": "12",
+            "goals": "12",
+            "receiverError": "2",
+            "salary": "$480,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "21",
+            "throwaways": "57",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hadiya Roderique",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.83",
+            "assists": "13",
+            "dTurnoverRatio": "0.63",
+            "ds": "15",
+            "goals": "16",
+            "receiverError": "0",
+            "salary": "$274,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "7",
+            "throwaways": "24",
+            "timesTraded": "1",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chris Wang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.28",
+            "assists": "34",
+            "dTurnoverRatio": "0.90",
+            "ds": "18",
+            "goals": "13",
+            "receiverError": "2",
+            "salary": "$476,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "25",
+            "throwaways": "18",
+            "timesTraded": "2",
+            "wins": "9"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gail Russel",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.95",
+            "assists": "9",
+            "dTurnoverRatio": "0.45",
+            "ds": "9",
+            "goals": "23",
+            "receiverError": "1",
+            "salary": "$285,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "9",
+            "throwaways": "19",
+            "timesTraded": "6",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jessica Jia",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.71",
+            "assists": "14",
+            "dTurnoverRatio": "1.50",
+            "ds": "18",
+            "goals": "35",
+            "receiverError": "5",
+            "salary": "$461,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "12",
+            "throwaways": "7",
+            "timesTraded": "4",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kevin Christensen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.75",
+            "assists": "8",
+            "dTurnoverRatio": "0.50",
+            "ds": "4",
+            "goals": "14",
+            "receiverError": "4",
+            "salary": "$247,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "7",
+            "throwaways": "4",
+            "timesTraded": "3",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tom Jennings",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.52",
+            "assists": "42",
+            "dTurnoverRatio": "0.58",
+            "ds": "15",
+            "goals": "37",
+            "receiverError": "5",
+            "salary": "$549,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "11",
+            "throwaways": "21",
+            "timesTraded": "1",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrew Milne",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.31",
+            "assists": "57",
+            "dTurnoverRatio": "0.25",
+            "ds": "14",
+            "goals": "9",
+            "receiverError": "1",
+            "salary": "$377,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "54",
+            "timesTraded": "2",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jeff Chik",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.17",
+            "assists": "29",
+            "dTurnoverRatio": "0.18",
+            "ds": "9",
+            "goals": "9",
+            "receiverError": "1",
+            "salary": "$272,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "27",
+            "throwaways": "48",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nicole James",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.83",
+            "assists": "8",
+            "dTurnoverRatio": "1.00",
+            "ds": "13",
+            "goals": "21",
+            "receiverError": "7",
+            "salary": "$319,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "3",
+            "throwaways": "6",
+            "timesTraded": "3",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Mona Sim",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.67",
+            "assists": "3",
+            "dTurnoverRatio": "0.50",
+            "ds": "9",
+            "goals": "11",
+            "receiverError": "6",
+            "salary": "$197,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "12",
+            "timesTraded": "5",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Natalie Fitzgerald",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.67",
+            "assists": "6",
+            "dTurnoverRatio": "1.44",
+            "ds": "13",
+            "goals": "17",
+            "receiverError": "3",
+            "salary": "$320,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "10",
+            "throwaways": "6",
+            "timesTraded": "4",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Neil Duchen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.18",
+            "assists": "56",
+            "dTurnoverRatio": "0.41",
+            "ds": "15",
+            "goals": "45",
+            "receiverError": "3",
+            "salary": null,
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "18",
+            "throwaways": "34",
+            "timesTraded": "0",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Travis DeWolf",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.54",
+            "assists": "17",
+            "dTurnoverRatio": null,
+            "ds": null,
+            "goals": "25",
+            "receiverError": "2",
+            "salary": "$529,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "16",
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Remi Jr. Ojo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.21",
+            "assists": "54",
+            "dTurnoverRatio": "0.95",
+            "ds": null,
+            "goals": "45",
+            "receiverError": null,
+            "salary": null,
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": null,
+            "throwaways": "39",
+            "timesTraded": "0",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matt Kishi",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.35",
+            "assists": "40",
+            "dTurnoverRatio": "0.55",
+            "ds": "28",
+            "goals": "14",
+            "receiverError": "3",
+            "salary": "$433,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "25",
+            "throwaways": "48",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Bryan Tran",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.17",
+            "assists": "3",
+            "dTurnoverRatio": "1.33",
+            "ds": "8",
+            "goals": "6",
+            "receiverError": "0",
+            "salary": "$196,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "4",
+            "throwaways": "6",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lindsay Chong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.27",
+            "assists": "3",
+            "dTurnoverRatio": "0.39",
+            "ds": "7",
+            "goals": "13",
+            "receiverError": "7",
+            "salary": "$231,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "11",
+            "throwaways": "11",
+            "timesTraded": "1",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kat Zikov",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "22",
+            "dTurnoverRatio": "0.17",
+            "ds": "4",
+            "goals": "6",
+            "receiverError": "3",
+            "salary": "$222,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "8",
+            "throwaways": "20",
+            "timesTraded": "5",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Julian Weinrib",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.47",
+            "assists": "36",
+            "dTurnoverRatio": "0.69",
+            "ds": "11",
+            "goals": "27",
+            "receiverError": "1",
+            "salary": "$502,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "16",
+            "throwaways": "15",
+            "timesTraded": "1",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Maxim Tomashevsky",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": null,
+            "assists": "15",
+            "dTurnoverRatio": "1.00",
+            "ds": "4",
+            "goals": "10",
+            "receiverError": "2",
+            "salary": "$262,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "2",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tyler Curtis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.22",
+            "assists": "15",
+            "dTurnoverRatio": "0.88",
+            "ds": "21",
+            "goals": null,
+            "receiverError": "6",
+            "salary": "$527,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "7",
+            "throwaways": "18",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Robert Jackson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.60",
+            "assists": "22",
+            "dTurnoverRatio": "1.14",
+            "ds": "25",
+            "goals": "30",
+            "receiverError": "2",
+            "salary": "$464,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "10",
+            "throwaways": "20",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrew Fell",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.17",
+            "assists": "1",
+            "dTurnoverRatio": "1.00",
+            "ds": "6",
+            "goals": "3",
+            "receiverError": "0",
+            "salary": "$154,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "0",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Dara Lo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.22",
+            "assists": "7",
+            "dTurnoverRatio": "0.43",
+            "ds": "6",
+            "goals": "9",
+            "receiverError": "5",
+            "salary": "$218,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "4",
+            "throwaways": "9",
+            "timesTraded": "0",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jacob Slan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.78",
+            "assists": "5",
+            "dTurnoverRatio": "0.67",
+            "ds": "8",
+            "goals": "12",
+            "receiverError": "3",
+            "salary": "$252,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "11",
+            "throwaways": "9",
+            "timesTraded": "5",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lily Steponaitis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.48",
+            "assists": "20",
+            "dTurnoverRatio": "0.50",
+            "ds": "16",
+            "goals": null,
+            "receiverError": "9",
+            "salary": "$499,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "23",
+            "timesTraded": "1",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Charles Burger",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.64",
+            "assists": "9",
+            "dTurnoverRatio": "0.78",
+            "ds": "18",
+            "goals": "42",
+            "receiverError": "9",
+            "salary": "$448,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "14",
+            "timesTraded": "1",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chris Loat",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.92",
+            "assists": "51",
+            "dTurnoverRatio": "0.36",
+            "ds": "10",
+            "goals": "10",
+            "receiverError": "2",
+            "salary": "$468,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "25",
+            "throwaways": "26",
+            "timesTraded": "0",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rajiv Seneviratne",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.47",
+            "assists": "28",
+            "dTurnoverRatio": "0.75",
+            "ds": "24",
+            "goals": "11",
+            "receiverError": "2",
+            "salary": "$379,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "16",
+            "throwaways": "30",
+            "timesTraded": "2",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Madeleine Channen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.07",
+            "assists": "22",
+            "dTurnoverRatio": "0.43",
+            "ds": "21",
+            "goals": "22",
+            "receiverError": "7",
+            "salary": "$356,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "23",
+            "throwaways": "42",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Amira Radwan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.00",
+            "assists": "0",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "3",
+            "receiverError": "0",
+            "salary": "$113,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "0",
+            "throwaways": "2",
+            "timesTraded": "4",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Davida Ander",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.13",
+            "assists": "4",
+            "dTurnoverRatio": "0.10",
+            "ds": "3",
+            "goals": "15",
+            "receiverError": "15",
+            "salary": "$181,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "13",
+            "throwaways": "15",
+            "timesTraded": "5",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Laura Archila",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.88",
+            "assists": "11",
+            "dTurnoverRatio": "1.08",
+            "ds": "13",
+            "goals": "33",
+            "receiverError": "4",
+            "salary": "$408,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "12",
+            "throwaways": "8",
+            "timesTraded": "3",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Graham Haines",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "23",
+            "dTurnoverRatio": "0.29",
+            "ds": "4",
+            "goals": "14",
+            "receiverError": "4",
+            "salary": "$319,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "7",
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Vikki Shimoda",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.78",
+            "assists": "9",
+            "dTurnoverRatio": "0.36",
+            "ds": "5",
+            "goals": "39",
+            "receiverError": "5",
+            "salary": "$347,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "7",
+            "throwaways": "9",
+            "timesTraded": "0",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jonathan Brunetti",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.57",
+            "assists": "21",
+            "dTurnoverRatio": "0.92",
+            "ds": "23",
+            "goals": "15",
+            "receiverError": "2",
+            "salary": "$388,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "15",
+            "throwaways": "23",
+            "timesTraded": "3",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Alyne Azucena",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "9",
+            "dTurnoverRatio": "0.67",
+            "ds": "4",
+            "goals": "5",
+            "receiverError": "0",
+            "salary": "$211,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "9",
+            "throwaways": "6",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Sarah Kidd",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.42",
+            "assists": "34",
+            "dTurnoverRatio": "0.52",
+            "ds": "15",
+            "goals": "23",
+            "receiverError": "10",
+            "salary": "$439,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "12",
+            "throwaways": "19",
+            "timesTraded": "1",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Colin Thompson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.16",
+            "assists": "32",
+            "dTurnoverRatio": "0.59",
+            "ds": "16",
+            "goals": "8",
+            "receiverError": "2",
+            "salary": "$380,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "22",
+            "throwaways": "25",
+            "timesTraded": "5",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hayden Andrews",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.73",
+            "assists": "42",
+            "dTurnoverRatio": "0.38",
+            "ds": "14",
+            "goals": "25",
+            "receiverError": "4",
+            "salary": "$460,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "15",
+            "throwaways": "33",
+            "timesTraded": "1",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hin Tang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.72",
+            "assists": "14",
+            "dTurnoverRatio": "0.14",
+            "ds": "6",
+            "goals": "15",
+            "receiverError": "3",
+            "salary": "$206,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "39",
+            "timesTraded": "0",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tyler Longo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.18",
+            "assists": "15",
+            "dTurnoverRatio": "0.17",
+            "ds": "4",
+            "goals": "11",
+            "receiverError": "1",
+            "salary": "$253,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "11",
+            "throwaways": "22",
+            "timesTraded": "1",
+            "wins": null
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Vinidhra Vaitheeswaran",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.60",
+            "assists": "2",
+            "dTurnoverRatio": "0.43",
+            "ds": "3",
+            "goals": "11",
+            "receiverError": "2",
+            "salary": "$179,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "1",
+            "throwaways": "5",
+            "timesTraded": "4",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rebecca Mesburis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "12",
+            "dTurnoverRatio": "0.32",
+            "ds": "7",
+            "goals": "36",
+            "receiverError": "6",
+            "salary": "$388,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "20",
+            "throwaways": "16",
+            "timesTraded": "3",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Destin McQuillan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.48",
+            "assists": "42",
+            "dTurnoverRatio": "0.65",
+            "ds": "17",
+            "goals": "18",
+            "receiverError": "1",
+            "salary": "$477,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "20",
+            "throwaways": "25",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Puja Ahluwalia",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.63",
+            "assists": "3",
+            "dTurnoverRatio": "0.56",
+            "ds": "5",
+            "goals": "15",
+            "receiverError": "1",
+            "salary": "$217,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "2",
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Morgan Leech",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.56",
+            "assists": "4",
+            "dTurnoverRatio": "0.44",
+            "ds": "7",
+            "goals": "14",
+            "receiverError": "7",
+            "salary": "$242,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "10",
+            "throwaways": "9",
+            "timesTraded": "4",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Valerie MacDougall",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.73",
+            "assists": "4",
+            "dTurnoverRatio": "0.18",
+            "ds": "3",
+            "goals": "17",
+            "receiverError": "6",
+            "salary": "$200,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "4",
+            "throwaways": "11",
+            "timesTraded": "4",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Eric Swanson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.17",
+            "assists": "8",
+            "dTurnoverRatio": "1.00",
+            "ds": "9",
+            "goals": "18",
+            "receiverError": "3",
+            "salary": "$280,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "6",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Will Mercer",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.17",
+            "assists": "37",
+            "dTurnoverRatio": "0.45",
+            "ds": "13",
+            "goals": "19",
+            "receiverError": "5",
+            "salary": "$418,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "15",
+            "throwaways": "24",
+            "timesTraded": "2",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Meghan Janssen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.62",
+            "assists": "16",
+            "dTurnoverRatio": "0.47",
+            "ds": "8",
+            "goals": "36",
+            "receiverError": "4",
+            "salary": "$375,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Megan Mcnally",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.41",
+            "assists": "10",
+            "dTurnoverRatio": "0.77",
+            "ds": "20",
+            "goals": "18",
+            "receiverError": "4",
+            "salary": "$341,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "21",
+            "throwaways": "22",
+            "timesTraded": "4",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jeff Luckett",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.91",
+            "assists": "21",
+            "dTurnoverRatio": "0.78",
+            "ds": "21",
+            "goals": "12",
+            "receiverError": "5",
+            "salary": "$371,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "21",
+            "throwaways": "22",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Emma Seaborn",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.81",
+            "assists": "35",
+            "dTurnoverRatio": "0.15",
+            "ds": "6",
+            "goals": "13",
+            "receiverError": "3",
+            "salary": "$362,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": null,
+            "throwaways": "36",
+            "timesTraded": "0",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nat Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.67",
+            "assists": "6",
+            "dTurnoverRatio": "0.23",
+            "ds": "3",
+            "goals": "5",
+            "receiverError": "1",
+            "salary": "$182,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "12",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Marko Iskric",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.29",
+            "assists": "26",
+            "dTurnoverRatio": "0.26",
+            "ds": "9",
+            "goals": "11",
+            "receiverError": "4",
+            "salary": "$291,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "31",
+            "timesTraded": "0",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Patrick Meredith-Karam",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.60",
+            "assists": "27",
+            "dTurnoverRatio": "0.62",
+            "ds": "13",
+            "goals": "30",
+            "receiverError": "6",
+            "salary": "$430,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "12",
+            "throwaways": "15",
+            "timesTraded": "4",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Brittany Heath",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.43",
+            "assists": "3",
+            "dTurnoverRatio": "1.00",
+            "ds": "11",
+            "goals": "11",
+            "receiverError": "4",
+            "salary": "$247,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "7",
+            "throwaways": "7",
+            "timesTraded": "1",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "\"Helen OSullivan\"",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.71",
+            "assists": "5",
+            "dTurnoverRatio": "0.33",
+            "ds": "4",
+            "goals": "28",
+            "receiverError": "5",
+            "salary": "$325,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "7",
+            "timesTraded": "3",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kieran Bol",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.32",
+            "assists": "30",
+            "dTurnoverRatio": "0.78",
+            "ds": "18",
+            "goals": "11",
+            "receiverError": "1",
+            "salary": "$405,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "21",
+            "throwaways": "22",
+            "timesTraded": null,
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Carter Chin",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.81",
+            "assists": "15",
+            "dTurnoverRatio": "0.10",
+            "ds": "4",
+            "goals": "5",
+            "receiverError": "4",
+            "salary": "$141,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "36",
+            "timesTraded": "0",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Michael Huang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.84",
+            "assists": "34",
+            "dTurnoverRatio": "0.42",
+            "ds": "11",
+            "goals": "21",
+            "receiverError": "1",
+            "salary": "$400,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "12",
+            "throwaways": "25",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "David Ip",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.21",
+            "assists": "26",
+            "dTurnoverRatio": "0.87",
+            "ds": "20",
+            "goals": "29",
+            "receiverError": "4",
+            "salary": "$469,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "16",
+            "throwaways": "19",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lindsay Earle",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.70",
+            "assists": "12",
+            "dTurnoverRatio": "0.18",
+            "ds": "2",
+            "goals": "2",
+            "receiverError": "1",
+            "salary": "$172,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "10",
+            "timesTraded": "2",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Sarah Burke",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.55",
+            "assists": "11",
+            "dTurnoverRatio": "0.33",
+            "ds": "9",
+            "goals": "31",
+            "receiverError": "7",
+            "salary": "$359,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "20",
+            "throwaways": "20",
+            "timesTraded": "2",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Daniel Wagner",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.74",
+            "assists": "12",
+            "dTurnoverRatio": "0.24",
+            "ds": "9",
+            "goals": "6",
+            "receiverError": "3",
+            "salary": "$173,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "13",
+            "throwaways": "34",
+            "timesTraded": "3",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Laura Wiese",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.57",
+            "assists": "8",
+            "dTurnoverRatio": "0.25",
+            "ds": "2",
+            "goals": "10",
+            "receiverError": "1",
+            "salary": "$212,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "10",
+            "throwaways": "7",
+            "timesTraded": "0",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jon Jephcott",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.67",
+            "assists": "12",
+            "dTurnoverRatio": "0.93",
+            "ds": "14",
+            "goals": "27",
+            "receiverError": "6",
+            "salary": "$344,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "3",
+            "throwaways": "9",
+            "timesTraded": "4",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrew Ho",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.48",
+            "assists": "20",
+            "dTurnoverRatio": "0.59",
+            "ds": "19",
+            "goals": "8",
+            "receiverError": "5",
+            "salary": "$320,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "20",
+            "throwaways": "27",
+            "timesTraded": "2",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Larry Macdonald",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.11",
+            "assists": "28",
+            "dTurnoverRatio": "0.75",
+            "ds": "15",
+            "goals": "4",
+            "receiverError": "1",
+            "salary": "$336,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "12",
+            "throwaways": "19",
+            "timesTraded": "1",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Crystal Sotelo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "5",
+            "dTurnoverRatio": "0.67",
+            "ds": "8",
+            "goals": "8",
+            "receiverError": "5",
+            "salary": "$232,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "9",
+            "throwaways": "7",
+            "timesTraded": "0",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kelsey Waugh",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.63",
+            "assists": "2",
+            "dTurnoverRatio": "0.22",
+            "ds": "4",
+            "goals": "3",
+            "receiverError": "10",
+            "salary": "$131,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "3",
+            "throwaways": "8",
+            "timesTraded": "4",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Janet Wan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.50",
+            "assists": "7",
+            "dTurnoverRatio": "0.92",
+            "ds": "12",
+            "goals": "19",
+            "receiverError": "5",
+            "salary": "$311,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "13",
+            "throwaways": "8",
+            "timesTraded": "3",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matthew Galloway",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.17",
+            "assists": "9",
+            "dTurnoverRatio": "0.71",
+            "ds": "12",
+            "goals": "29",
+            "receiverError": "5",
+            "salary": "$361,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "17",
+            "throwaways": "12",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Peter Hawkings",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.69",
+            "assists": "34",
+            "dTurnoverRatio": "0.29",
+            "ds": "10",
+            "goals": "17",
+            "receiverError": "2",
+            "salary": "$377,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "20",
+            "throwaways": "32",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Allan Tong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.56",
+            "assists": "14",
+            "dTurnoverRatio": "0.86",
+            "ds": "19",
+            "goals": "11",
+            "receiverError": "6",
+            "salary": "$304,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "11",
+            "throwaways": "16",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Benjamin Goodman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.27",
+            "assists": "26",
+            "dTurnoverRatio": "0.30",
+            "ds": "12",
+            "goals": "14",
+            "receiverError": "7",
+            "salary": "$289,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "16",
+            "throwaways": "33",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Samuel Soetanto",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "7",
+            "dTurnoverRatio": "0.29",
+            "ds": "6",
+            "goals": "17",
+            "receiverError": "4",
+            "salary": "$246,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "10",
+            "throwaways": "17",
+            "timesTraded": "2",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kelly House",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": null,
+            "assists": "4",
+            "dTurnoverRatio": "0.71",
+            "ds": "5",
+            "goals": "7",
+            "receiverError": "5",
+            "salary": "$188,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "2",
+            "timesTraded": "4",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Marisa Hart",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.55",
+            "assists": "28",
+            "dTurnoverRatio": "0.51",
+            "ds": "18",
+            "goals": "26",
+            "receiverError": "6",
+            "salary": "$424,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "17",
+            "throwaways": "29",
+            "timesTraded": "2",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kevin Korecki",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.20",
+            "assists": "28",
+            "dTurnoverRatio": "0.76",
+            "ds": "16",
+            "goals": "10",
+            "receiverError": "1",
+            "salary": "$370,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "16",
+            "throwaways": "20",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Eric Palmitesta",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.47",
+            "assists": "14",
+            "dTurnoverRatio": "0.90",
+            "ds": "18",
+            "goals": "18",
+            "receiverError": "1",
+            "salary": "$332,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "19",
+            "timesTraded": "4",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matthew Denton",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.52",
+            "assists": "34",
+            "dTurnoverRatio": "0.42",
+            "ds": "13",
+            "goals": "19",
+            "receiverError": null,
+            "salary": "$388,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "13",
+            "throwaways": "31",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kaity Williams",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.11",
+            "assists": "16",
+            "dTurnoverRatio": "0.10",
+            "ds": "2",
+            "goals": "5",
+            "receiverError": "1",
+            "salary": "$183,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "19",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jacqui Hayworth",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.54",
+            "assists": "6",
+            "dTurnoverRatio": "0.80",
+            "ds": "12",
+            "goals": "28",
+            "receiverError": "2",
+            "salary": "$358,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jennifer Law",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "6",
+            "dTurnoverRatio": "0.15",
+            "ds": "2",
+            "goals": "11",
+            "receiverError": "5",
+            "salary": "$168,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "2",
+            "throwaways": "8",
+            "timesTraded": "4",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chantal Moloughney",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.50",
+            "assists": "1",
+            "dTurnoverRatio": "0.38",
+            "ds": "3",
+            "goals": "11",
+            "receiverError": "6",
+            "salary": "$174,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "4",
+            "throwaways": "2",
+            "timesTraded": "4",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Shawn Lee",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.54",
+            "assists": "22",
+            "dTurnoverRatio": "0.39",
+            "ds": "11",
+            "goals": "8",
+            "receiverError": "2",
+            "salary": "$279,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "18",
+            "throwaways": "26",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jon Brandt",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.18",
+            "assists": "17",
+            "dTurnoverRatio": "0.48",
+            "ds": "14",
+            "goals": "11",
+            "receiverError": "1",
+            "salary": "$287,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "16",
+            "throwaways": "28",
+            "timesTraded": "0",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Max van der Weerd",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.52",
+            "assists": "31",
+            "dTurnoverRatio": "0.28",
+            "ds": "8",
+            "goals": "8",
+            "receiverError": "2",
+            "salary": "$299,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "10",
+            "throwaways": "27",
+            "timesTraded": "1",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matthew Colphon",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "17",
+            "dTurnoverRatio": "0.28",
+            "ds": "10",
+            "goals": "18",
+            "receiverError": "6",
+            "salary": "$268,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "13",
+            "throwaways": "30",
+            "timesTraded": "0",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Eli Fidler",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.38",
+            "assists": "17",
+            "dTurnoverRatio": "0.46",
+            "ds": "12",
+            "goals": "8",
+            "receiverError": "5",
+            "salary": "$252,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "12",
+            "throwaways": "21",
+            "timesTraded": "4",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Cathy Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.45",
+            "assists": "25",
+            "dTurnoverRatio": "0.25",
+            "ds": "4",
+            "goals": "16",
+            "receiverError": "5",
+            "salary": "$307,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "2",
+            "throwaways": "11",
+            "timesTraded": "4",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrew Gosbee",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.04",
+            "assists": "29",
+            "dTurnoverRatio": "0.52",
+            "ds": "13",
+            "goals": "13",
+            "receiverError": "2",
+            "salary": "$372,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "18",
+            "throwaways": "23",
+            "timesTraded": "1",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Dawn Man",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.75",
+            "assists": "2",
+            "dTurnoverRatio": "0.25",
+            "ds": "3",
+            "goals": "9",
+            "receiverError": "4",
+            "salary": "$203,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "12",
+            "throwaways": "8",
+            "timesTraded": "1",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Debra Cohen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.67",
+            "assists": "1",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "7",
+            "receiverError": "1",
+            "salary": "$158,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "9",
+            "throwaways": "6",
+            "timesTraded": "4",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tim Kiladze",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.88",
+            "assists": "9",
+            "dTurnoverRatio": "0.80",
+            "ds": "8",
+            "goals": "14",
+            "receiverError": "2",
+            "salary": "$259,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "6",
+            "throwaways": "8",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Adina Ander",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.69",
+            "assists": "16",
+            "dTurnoverRatio": "0.27",
+            "ds": "6",
+            "goals": "27",
+            "receiverError": "6",
+            "salary": "$341,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "11",
+            "throwaways": "16",
+            "timesTraded": "2",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nick Hung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.73",
+            "assists": "21",
+            "dTurnoverRatio": "0.56",
+            "ds": "14",
+            "goals": "8",
+            "receiverError": "3",
+            "salary": "$315,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "17",
+            "throwaways": "22",
+            "timesTraded": "1",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Anna Kazmierska",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.23",
+            "assists": "13",
+            "dTurnoverRatio": "0.64",
+            "ds": "18",
+            "goals": "25",
+            "receiverError": "6",
+            "salary": "$349,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "22",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "David St Bernard",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "13",
+            "dTurnoverRatio": "0.59",
+            "ds": "10",
+            "goals": "26",
+            "receiverError": "2",
+            "salary": "$375,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "17",
+            "throwaways": "15",
+            "timesTraded": "3",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Christine Cashin",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.42",
+            "assists": "4",
+            "dTurnoverRatio": "0.13",
+            "ds": "3",
+            "goals": "16",
+            "receiverError": "5",
+            "salary": "$163,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "4",
+            "throwaways": "19",
+            "timesTraded": "4",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Misiu Godfrey",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.36",
+            "assists": "18",
+            "dTurnoverRatio": "0.77",
+            "ds": "10",
+            "goals": "16",
+            "receiverError": "2",
+            "salary": "$322,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "8",
+            "throwaways": "11",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Daniel Ngai",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.96",
+            "assists": "17",
+            "dTurnoverRatio": "0.09",
+            "ds": "3",
+            "goals": "11",
+            "receiverError": "4",
+            "salary": "$185,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "10",
+            "throwaways": "28",
+            "timesTraded": "3",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Ed Kung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "4",
+            "dTurnoverRatio": "0.33",
+            "ds": "2",
+            "goals": "10",
+            "receiverError": "1",
+            "salary": "$207,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "6",
+            "throwaways": "5",
+            "timesTraded": "3",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chelsea Jackson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.39",
+            "assists": "13",
+            "dTurnoverRatio": "0.30",
+            "ds": "7",
+            "goals": "15",
+            "receiverError": "5",
+            "salary": "$270,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "12",
+            "throwaways": "18",
+            "timesTraded": "0",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Sandeep Kembhavi",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.33",
+            "assists": "9",
+            "dTurnoverRatio": "0.78",
+            "ds": "7",
+            "goals": "8",
+            "receiverError": "3",
+            "salary": "$215,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "6",
+            "timesTraded": "0",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Don Colangelo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.23",
+            "assists": "16",
+            "dTurnoverRatio": "0.35",
+            "ds": "8",
+            "goals": "12",
+            "receiverError": "1",
+            "salary": "$263,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "11",
+            "throwaways": "22",
+            "timesTraded": "0",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Heidi Siu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.33",
+            "assists": "17",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "2",
+            "receiverError": "3",
+            "salary": "$209,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "11",
+            "throwaways": "12",
+            "timesTraded": "2",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Elissa Borrelli",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.47",
+            "assists": "11",
+            "dTurnoverRatio": "0.20",
+            "ds": "5",
+            "goals": "2",
+            "receiverError": "6",
+            "salary": "$174,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "17",
+            "throwaways": "19",
+            "timesTraded": "1",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lindsay Musalem",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.33",
+            "assists": "21",
+            "dTurnoverRatio": "0.17",
+            "ds": "6",
+            "goals": "16",
+            "receiverError": "8",
+            "salary": "$266,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "15",
+            "throwaways": "27",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Helen Liao",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "11",
+            "dTurnoverRatio": "0.29",
+            "ds": "7",
+            "goals": "25",
+            "receiverError": "3",
+            "salary": "$292,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "10",
+            "throwaways": "21",
+            "timesTraded": "3",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Anthony Slater",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.26",
+            "assists": "11",
+            "dTurnoverRatio": "0.46",
+            "ds": "11",
+            "goals": "19",
+            "receiverError": "5",
+            "salary": "$300,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "13",
+            "throwaways": "19",
+            "timesTraded": "0",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Amanda Murdoch",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.23",
+            "assists": "3",
+            "dTurnoverRatio": "0.41",
+            "ds": "7",
+            "goals": "24",
+            "receiverError": "4",
+            "salary": "$279,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "13",
+            "throwaways": "13",
+            "timesTraded": "4",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chris Faulkner",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.30",
+            "assists": "13",
+            "dTurnoverRatio": "0.40",
+            "ds": "6",
+            "goals": "16",
+            "receiverError": "5",
+            "salary": "$285,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "10",
+            "throwaways": "10",
+            "timesTraded": "1",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Curtis Reason",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "12",
+            "dTurnoverRatio": "0.64",
+            "ds": "16",
+            "goals": "17",
+            "receiverError": "4",
+            "salary": "$289,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "9",
+            "throwaways": "21",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Adam Wenneman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.64",
+            "assists": "11",
+            "dTurnoverRatio": "0.50",
+            "ds": "8",
+            "goals": "13",
+            "receiverError": "5",
+            "salary": "$257,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "7",
+            "throwaways": "11",
+            "timesTraded": "4",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Raymond Tang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.63",
+            "assists": "10",
+            "dTurnoverRatio": "0.41",
+            "ds": "9",
+            "goals": "17",
+            "receiverError": "6",
+            "salary": "$284,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "16",
+            "throwaways": "16",
+            "timesTraded": "1",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Raoul Tanyan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.92",
+            "assists": "14",
+            "dTurnoverRatio": "0.25",
+            "ds": "7",
+            "goals": "9",
+            "receiverError": "2",
+            "salary": "$203,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "10",
+            "throwaways": "26",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Agatha Hodsman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.38",
+            "assists": "10",
+            "dTurnoverRatio": "0.71",
+            "ds": "12",
+            "goals": "7",
+            "receiverError": "1",
+            "salary": "$257,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "12",
+            "throwaways": "16",
+            "timesTraded": "0",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nathaniel Faries",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.88",
+            "assists": "11",
+            "dTurnoverRatio": "0.63",
+            "ds": "12",
+            "goals": "24",
+            "receiverError": "3",
+            "salary": "$294,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "3",
+            "throwaways": "16",
+            "timesTraded": "3",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Colin Mattison",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.65",
+            "assists": "23",
+            "dTurnoverRatio": "0.62",
+            "ds": "16",
+            "goals": "14",
+            "receiverError": "3",
+            "salary": "$355,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "15",
+            "throwaways": "23",
+            "timesTraded": "2",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Yvonne Fu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.14",
+            "assists": "4",
+            "dTurnoverRatio": "0.43",
+            "ds": "6",
+            "goals": "22",
+            "receiverError": "7",
+            "salary": "$246,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "4",
+            "throwaways": "7",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Veronica Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.82",
+            "assists": "5",
+            "dTurnoverRatio": "0.38",
+            "ds": "5",
+            "goals": "14",
+            "receiverError": "2",
+            "salary": "$210,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "4",
+            "throwaways": "11",
+            "timesTraded": "3",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kelly Smith",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.69",
+            "assists": "6",
+            "dTurnoverRatio": "0.38",
+            "ds": "8",
+            "goals": "21",
+            "receiverError": "8",
+            "salary": "$273,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "16",
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tarek Elkaffas",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.38",
+            "assists": "2",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "1",
+            "receiverError": "8",
+            "salary": "$71,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "1",
+            "throwaways": "8",
+            "timesTraded": "3",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jocelyne Chan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.21",
+            "assists": "7",
+            "dTurnoverRatio": "0.30",
+            "ds": "9",
+            "goals": "7",
+            "receiverError": "11",
+            "salary": "$188,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "16",
+            "throwaways": "19",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Zoe Bu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.38",
+            "assists": "4",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "0",
+            "receiverError": "4",
+            "salary": "$46,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "24",
+            "timesTraded": "2",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Zoe Daniels",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.41",
+            "assists": "15",
+            "dTurnoverRatio": "0.17",
+            "ds": "4",
+            "goals": "21",
+            "receiverError": "6",
+            "salary": "$277,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "9",
+            "throwaways": "17",
+            "timesTraded": "2",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rebecca Chan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.73",
+            "assists": "3",
+            "dTurnoverRatio": "0.13",
+            "ds": "2",
+            "goals": "17",
+            "receiverError": "4",
+            "salary": "$207,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "11",
+            "timesTraded": "3",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Taunya Tremblay",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "0",
+            "dTurnoverRatio": "0.43",
+            "ds": "3",
+            "goals": "6",
+            "receiverError": "3",
+            "salary": "$178,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "8",
+            "throwaways": "4",
+            "timesTraded": "1",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Peter Ferderber",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "9",
+            "dTurnoverRatio": "0.08",
+            "ds": "1",
+            "goals": "9",
+            "receiverError": "2",
+            "salary": "$162,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "1",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Claire Midgley",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.56",
+            "assists": "2",
+            "dTurnoverRatio": "0.10",
+            "ds": "2",
+            "goals": "5",
+            "receiverError": "4",
+            "salary": "$133,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "7",
+            "throwaways": "16",
+            "timesTraded": "3",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hanna Jones-Eriksson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.54",
+            "assists": "12",
+            "dTurnoverRatio": "0.45",
+            "ds": "10",
+            "goals": "21",
+            "receiverError": "9",
+            "salary": "$294,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "8",
+            "throwaways": "13",
+            "timesTraded": null,
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Diane Pendlebury",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.39",
+            "assists": "4",
+            "dTurnoverRatio": "0.15",
+            "ds": "4",
+            "goals": "5",
+            "receiverError": "3",
+            "salary": "$115,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "23",
+            "timesTraded": "3",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Laurie Zacour",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.33",
+            "assists": "7",
+            "dTurnoverRatio": "0.19",
+            "ds": "3",
+            "goals": "14",
+            "receiverError": "4",
+            "salary": "$213,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "9",
+            "throwaways": "12",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Polly Yung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "8",
+            "dTurnoverRatio": "0.22",
+            "ds": "4",
+            "goals": "14",
+            "receiverError": "7",
+            "salary": "$242,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "11",
+            "timesTraded": "1",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Laura Stanley",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.89",
+            "assists": "7",
+            "dTurnoverRatio": "0.24",
+            "ds": "6",
+            "goals": "13",
+            "receiverError": "7",
+            "salary": "$195,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "9",
+            "throwaways": "18",
+            "timesTraded": "3",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "James Ho",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "14",
+            "dTurnoverRatio": "0.29",
+            "ds": "4",
+            "goals": "14",
+            "receiverError": "4",
+            "salary": "$278,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "6",
+            "throwaways": "10",
+            "timesTraded": "2",
+            "wins": null
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Audrey Fu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.42",
+            "assists": "7",
+            "dTurnoverRatio": "0.57",
+            "ds": "8",
+            "goals": "20",
+            "receiverError": "2",
+            "salary": "$282,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "10",
+            "throwaways": "12",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrea Nickel",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.69",
+            "assists": "6",
+            "dTurnoverRatio": "0.60",
+            "ds": "9",
+            "goals": "15",
+            "receiverError": "2",
+            "salary": "$242,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "3",
+            "throwaways": "13",
+            "timesTraded": "3",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Amanda Sheppard",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.13",
+            "assists": "15",
+            "dTurnoverRatio": "0.07",
+            "ds": "2",
+            "goals": "5",
+            "receiverError": "4",
+            "salary": "$180,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "11",
+            "throwaways": "23",
+            "timesTraded": "1",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lori Bristow",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "14",
+            "dTurnoverRatio": "0.24",
+            "ds": "5",
+            "goals": "3",
+            "receiverError": "2",
+            "salary": "$170,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "19",
+            "timesTraded": "1",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Timothy Fowler",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.82",
+            "assists": "17",
+            "dTurnoverRatio": "0.50",
+            "ds": "10",
+            "goals": "13",
+            "receiverError": "3",
+            "salary": "$306,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "17",
+            "timesTraded": "1",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Elizabeth Foran",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "0",
+            "dTurnoverRatio": "0.50",
+            "ds": "3",
+            "goals": "2",
+            "receiverError": "2",
+            "salary": "$116,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "2",
+            "throwaways": "4",
+            "timesTraded": "3",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Genevieve Grier",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.30",
+            "assists": "1",
+            "dTurnoverRatio": "0.27",
+            "ds": "4",
+            "goals": "3",
+            "receiverError": "5",
+            "salary": "$111,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "2",
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Stephanie Schwartz",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.89",
+            "assists": "12",
+            "dTurnoverRatio": "0.19",
+            "ds": "5",
+            "goals": "17",
+            "receiverError": "7",
+            "salary": "$227,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "19",
+            "timesTraded": "0",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Elena Wang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.71",
+            "assists": "1",
+            "dTurnoverRatio": "0.36",
+            "ds": "8",
+            "goals": "11",
+            "receiverError": "8",
+            "salary": "$174,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "9",
+            "throwaways": "14",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "MIchelle Wilfong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.75",
+            "assists": "9",
+            "dTurnoverRatio": "0.29",
+            "ds": "4",
+            "goals": "5",
+            "receiverError": "6",
+            "salary": "$179,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "5",
+            "throwaways": "8",
+            "timesTraded": "1",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Anita Benoit",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "0",
+            "dTurnoverRatio": "0.13",
+            "ds": "1",
+            "goals": "4",
+            "receiverError": "2",
+            "salary": "$132,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "3",
+            "throwaways": "6",
+            "timesTraded": "3",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Catherine Chao",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.56",
+            "assists": "11",
+            "dTurnoverRatio": "0.25",
+            "ds": "5",
+            "goals": "11",
+            "receiverError": "4",
+            "salary": "$239,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "14",
+            "throwaways": "16",
+            "timesTraded": "1",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Heather Gilmour",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "11",
+            "dTurnoverRatio": "0.19",
+            "ds": "5",
+            "goals": "3",
+            "receiverError": "7",
+            "salary": "$156,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "9",
+            "throwaways": "20",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tanja Richards",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.92",
+            "assists": "6",
+            "dTurnoverRatio": "0.06",
+            "ds": "1",
+            "goals": "7",
+            "receiverError": "3",
+            "salary": "$153,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "6",
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Mahmoud Sabae",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.73",
+            "assists": "7",
+            "dTurnoverRatio": "0.25",
+            "ds": "5",
+            "goals": "16",
+            "receiverError": "5",
+            "salary": "$207,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "4",
+            "throwaways": "15",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Michael Luubert",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.68",
+            "assists": "5",
+            "dTurnoverRatio": "0.26",
+            "ds": "6",
+            "goals": "13",
+            "receiverError": "4",
+            "salary": "$185,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "8",
+            "throwaways": "19",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Patrick Russell",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.07",
+            "assists": "9",
+            "dTurnoverRatio": "0.38",
+            "ds": "10",
+            "goals": "10",
+            "receiverError": "11",
+            "salary": "$208,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "7",
+            "throwaways": "15",
+            "timesTraded": "0",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Michael Rudanycz",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.60",
+            "assists": "4",
+            "dTurnoverRatio": "0.08",
+            "ds": "1",
+            "goals": "4",
+            "receiverError": "3",
+            "salary": "$164,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "12",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Victor Rehorst",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.73",
+            "assists": "5",
+            "dTurnoverRatio": "0.26",
+            "ds": "5",
+            "goals": "5",
+            "receiverError": "4",
+            "salary": "$156,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "6",
+            "throwaways": "15",
+            "timesTraded": "2",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jessica Chen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.33",
+            "assists": "0",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "5",
+            "receiverError": "3",
+            "salary": "$118,500",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "1",
+            "throwaways": "3",
+            "timesTraded": "1",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Phil Lam",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.71",
+            "assists": "8",
+            "dTurnoverRatio": "0.24",
+            "ds": "5",
+            "goals": "7",
+            "receiverError": "4",
+            "salary": "$163,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "4",
+            "throwaways": "17",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Diane Sepa-Kishi",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.88",
+            "assists": "5",
+            "dTurnoverRatio": "0.29",
+            "ds": "6",
+            "goals": "6",
+            "receiverError": "4",
+            "salary": "$166,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "10",
+            "throwaways": "17",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Genevieve Daigle",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "2",
+            "dTurnoverRatio": "0.21",
+            "ds": "3",
+            "goals": "14",
+            "receiverError": "4",
+            "salary": "$197,000",
+            "season": "Rom Coms",
+            "seasonId": 11,
+            "secondAssists": "8",
+            "throwaways": "10",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    }
+]

@@ -1,0 +1,2802 @@
+[
+    {
+        "name": "Ryan McKeown",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "5.33",
+            "assists": "13",
+            "dTurnoverRatio": "2.00",
+            "ds": "8",
+            "goals": "24",
+            "receiverError": "1",
+            "salary": "$330,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "3",
+            "timesTraded": "1",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Greg Kramer",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.46",
+            "assists": "31",
+            "dTurnoverRatio": "0.52",
+            "ds": "14",
+            "goals": "10",
+            "receiverError": "1",
+            "salary": "$317,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": null,
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chris Wang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "5.80",
+            "assists": "13",
+            "dTurnoverRatio": "0.50",
+            "ds": "3",
+            "goals": "9",
+            "receiverError": "1",
+            "salary": "$267,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "16",
+            "throwaways": "5",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "BC Roedde",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.21",
+            "assists": "20",
+            "dTurnoverRatio": "0.24",
+            "ds": "5",
+            "goals": "6",
+            "receiverError": "2",
+            "salary": "$209,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "19",
+            "timesTraded": "1",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Vincent Poon",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "2",
+            "dTurnoverRatio": "1.00",
+            "ds": "1",
+            "goals": "6",
+            "receiverError": "0",
+            "salary": "$146,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "0",
+            "throwaways": "1",
+            "timesTraded": "0",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Patrick Russell",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "4",
+            "dTurnoverRatio": "0.31",
+            "ds": "4",
+            "goals": "9",
+            "receiverError": "2",
+            "salary": "$184,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "11",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Vanna Chan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.60",
+            "assists": "1",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "7",
+            "receiverError": "2",
+            "salary": "$147,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "5",
+            "timesTraded": "4",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Laura Archila",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "11.00",
+            "assists": "4",
+            "dTurnoverRatio": "1.67",
+            "ds": "5",
+            "goals": "13",
+            "receiverError": "2",
+            "salary": "$241,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "1",
+            "timesTraded": "1",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gareth Cawley",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.84",
+            "assists": null,
+            "dTurnoverRatio": "0.36",
+            "ds": "9",
+            "goals": "19",
+            "receiverError": "0",
+            "salary": null,
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "10",
+            "throwaways": null,
+            "timesTraded": "3",
+            "wins": null
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Shawn Huynh",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.09",
+            "assists": "28",
+            "dTurnoverRatio": "0.69",
+            "ds": "9",
+            "goals": "9",
+            "receiverError": "2",
+            "salary": "$318,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "6",
+            "throwaways": "11",
+            "timesTraded": "3",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jeff Steele",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.90",
+            "assists": "13",
+            "dTurnoverRatio": "0.50",
+            "ds": "6",
+            "goals": "23",
+            "receiverError": "2",
+            "salary": "$304,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "6",
+            "throwaways": "10",
+            "timesTraded": "1",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Natalie Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.43",
+            "assists": "5",
+            "dTurnoverRatio": "0.20",
+            "ds": "3",
+            "goals": "3",
+            "receiverError": "1",
+            "salary": "$160,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "15",
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Renata Matic",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.25",
+            "assists": "2",
+            "dTurnoverRatio": "1.10",
+            "ds": "11",
+            "goals": "14",
+            "receiverError": "2",
+            "salary": "$216,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "0",
+            "throwaways": "8",
+            "timesTraded": "3",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrew Gosbee",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.17",
+            "assists": "27",
+            "dTurnoverRatio": "0.32",
+            "ds": "6",
+            "goals": "12",
+            "receiverError": "1",
+            "salary": "$315,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "12",
+            "throwaways": "18",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tori Wight",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "1",
+            "dTurnoverRatio": "0.07",
+            "ds": "1",
+            "goals": "5",
+            "receiverError": "0",
+            "salary": "$121,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "6",
+            "throwaways": "14",
+            "timesTraded": "1",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Megan Tran",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.71",
+            "assists": "2",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "2",
+            "receiverError": "2",
+            "salary": "$121,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "7",
+            "timesTraded": "1",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Shawna Lundrigan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.60",
+            "assists": "2",
+            "dTurnoverRatio": "0.17",
+            "ds": "1",
+            "goals": "5",
+            "receiverError": "1",
+            "salary": "$132,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "1",
+            "throwaways": "5",
+            "timesTraded": "4",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Krystal Dos Santos",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": null,
+            "assists": "8",
+            "dTurnoverRatio": "2.00",
+            "ds": "8",
+            "goals": "16",
+            "receiverError": "3",
+            "salary": "$295,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "11",
+            "throwaways": "1",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chelsea Jackson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "9.00",
+            "assists": "6",
+            "dTurnoverRatio": "1.00",
+            "ds": "1",
+            "goals": "8",
+            "receiverError": "0",
+            "salary": "$190,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "1",
+            "timesTraded": "1",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kyra Healey",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.33",
+            "assists": "5",
+            "dTurnoverRatio": "0.23",
+            "ds": "3",
+            "goals": "22",
+            "receiverError": "7",
+            "salary": "$229,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "6",
+            "timesTraded": "4",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Ronald Siu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.81",
+            "assists": "28",
+            "dTurnoverRatio": "0.28",
+            "ds": "5",
+            "goals": "8",
+            "receiverError": "2",
+            "salary": "$314,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": null,
+            "throwaways": "16",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Agatha Hodsman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.10",
+            "assists": "8",
+            "dTurnoverRatio": "0.42",
+            "ds": "5",
+            "goals": "7",
+            "receiverError": "2",
+            "salary": "$215,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "13",
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Melanie Tran",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.20",
+            "assists": "6",
+            "dTurnoverRatio": "0.91",
+            "ds": "10",
+            "goals": "14",
+            "receiverError": "1",
+            "salary": "$250,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "6",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Stephen Pristupa",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.25",
+            "assists": "13",
+            "dTurnoverRatio": "0.74",
+            "ds": null,
+            "goals": "16",
+            "receiverError": "3",
+            "salary": "$291,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "16",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Stephanie Schwartz",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.33",
+            "assists": "7",
+            "dTurnoverRatio": "0.33",
+            "ds": "1",
+            "goals": "0",
+            "receiverError": "0",
+            "salary": "$162,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "6",
+            "throwaways": "3",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lin Hsu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.80",
+            "assists": "2",
+            "dTurnoverRatio": "0.33",
+            "ds": "2",
+            "goals": "9",
+            "receiverError": "1",
+            "salary": "$188,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "5",
+            "timesTraded": "1",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Neil Griffith",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.31",
+            "assists": "17",
+            "dTurnoverRatio": "0.39",
+            "ds": "7",
+            "goals": "8",
+            "receiverError": "2",
+            "salary": "$220,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "16",
+            "timesTraded": "4",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Sarah Burke",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.33",
+            "assists": "5",
+            "dTurnoverRatio": "1.67",
+            "ds": "5",
+            "goals": "13",
+            "receiverError": "0",
+            "salary": "$238,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "8",
+            "throwaways": "3",
+            "timesTraded": "0",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matthew Denton",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "7.75",
+            "assists": "21",
+            "dTurnoverRatio": "0.50",
+            "ds": "3",
+            "goals": "6",
+            "receiverError": "2",
+            "salary": "$280,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "10",
+            "throwaways": "4",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Daniel Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.77",
+            "assists": "27",
+            "dTurnoverRatio": "0.24",
+            "ds": "4",
+            "goals": "7",
+            "receiverError": "4",
+            "salary": "$259,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "9",
+            "throwaways": "13",
+            "timesTraded": "1",
+            "wins": "0"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Oscar Stonehouse",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "9",
+            "dTurnoverRatio": "0.63",
+            "ds": "5",
+            "goals": "12",
+            "receiverError": "1",
+            "salary": "$251,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "12",
+            "throwaways": "7",
+            "timesTraded": "0",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Keegan Lee-Newbury",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.10",
+            "assists": "13",
+            "dTurnoverRatio": "0.67",
+            "ds": "10",
+            "goals": "16",
+            "receiverError": "5",
+            "salary": "$289,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "8",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Shawn Lee",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.40",
+            "assists": "10",
+            "dTurnoverRatio": "0.30",
+            "ds": "3",
+            "goals": "3",
+            "receiverError": "0",
+            "salary": "$169,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "10",
+            "timesTraded": "1",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Clare Nelligan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "3",
+            "dTurnoverRatio": "0.20",
+            "ds": "1",
+            "goals": "6",
+            "receiverError": "1",
+            "salary": "$170,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "5",
+            "throwaways": "4",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Alex Brittain Boisvert",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "7.00",
+            "assists": "6",
+            "dTurnoverRatio": "1.00",
+            "ds": "1",
+            "goals": "12",
+            "receiverError": "0",
+            "salary": "$204,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "1",
+            "throwaways": "1",
+            "timesTraded": "1",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Marianne Perko",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": null,
+            "assists": "3",
+            "dTurnoverRatio": null,
+            "ds": "0",
+            "goals": "4",
+            "receiverError": "0",
+            "salary": "$138,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "1",
+            "throwaways": "0",
+            "timesTraded": "0",
+            "wins": "0"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tiffany Huebel",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.50",
+            "assists": "4",
+            "dTurnoverRatio": null,
+            "ds": "8",
+            "goals": "16",
+            "receiverError": "2",
+            "salary": "$246,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "2",
+            "timesTraded": "3",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nolan McKeown",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.57",
+            "assists": "6",
+            "dTurnoverRatio": "1.13",
+            "ds": "9",
+            "goals": "13",
+            "receiverError": "1",
+            "salary": "$266,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "12",
+            "throwaways": "7",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Emilija Rudzitis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.21",
+            "assists": "7",
+            "dTurnoverRatio": "0.63",
+            "ds": "10",
+            "goals": "4",
+            "receiverError": "2",
+            "salary": "$180,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "10",
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "0"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nicolas Wen Shea",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.56",
+            "assists": "6",
+            "dTurnoverRatio": "0.53",
+            "ds": "9",
+            "goals": "5",
+            "receiverError": "1",
+            "salary": "$208,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": null,
+            "throwaways": "16",
+            "timesTraded": "2",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Benjamin St.Louis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.57",
+            "assists": "6",
+            "dTurnoverRatio": "0.75",
+            "ds": "6",
+            "goals": "8",
+            "receiverError": "1",
+            "salary": "$210,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "5",
+            "throwaways": "7",
+            "timesTraded": "1",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Brittany Ryan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.33",
+            "assists": "0",
+            "dTurnoverRatio": "0.33",
+            "ds": "2",
+            "goals": "4",
+            "receiverError": "3",
+            "salary": "$123,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "1",
+            "throwaways": "3",
+            "timesTraded": "4",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Anthony Slater",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.75",
+            "assists": "7",
+            "dTurnoverRatio": "1.50",
+            "ds": "6",
+            "goals": "5",
+            "receiverError": "0",
+            "salary": "$198,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "4",
+            "timesTraded": "3",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Christine Cashin",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "6.00",
+            "assists": "4",
+            "dTurnoverRatio": "0.67",
+            "ds": "2",
+            "goals": "5",
+            "receiverError": "2",
+            "salary": "$169,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "1",
+            "timesTraded": "2",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chris Loat",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.30",
+            "assists": "23",
+            "dTurnoverRatio": "0.70",
+            "ds": "7",
+            "goals": "6",
+            "receiverError": "0",
+            "salary": "$287,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "10",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jooeun Lee",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.91",
+            "assists": "9",
+            "dTurnoverRatio": "0.23",
+            "ds": "3",
+            "goals": "5",
+            "receiverError": "2",
+            "salary": "$191,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "12",
+            "throwaways": "11",
+            "timesTraded": "2",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rick St Jean",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.86",
+            "assists": "2",
+            "dTurnoverRatio": "0.43",
+            "ds": "3",
+            "goals": "2",
+            "receiverError": "0",
+            "salary": "$135,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "7",
+            "timesTraded": "1",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Xander Jung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.40",
+            "assists": null,
+            "dTurnoverRatio": "1.07",
+            "ds": null,
+            "goals": "15",
+            "receiverError": null,
+            "salary": null,
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "15",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Leona Liu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "0",
+            "dTurnoverRatio": "1.33",
+            "ds": "4",
+            "goals": "7",
+            "receiverError": "0",
+            "salary": "$171,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "3",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matt Kishi",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.69",
+            "assists": "20",
+            "dTurnoverRatio": "0.50",
+            "ds": "8",
+            "goals": "8",
+            "receiverError": "0",
+            "salary": "$257,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "16",
+            "timesTraded": "0",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rebecca Chan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.43",
+            "assists": "1",
+            "dTurnoverRatio": "0.14",
+            "ds": "1",
+            "goals": "2",
+            "receiverError": "0",
+            "salary": "$111,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "7",
+            "timesTraded": null,
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Wesley Gardner",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.25",
+            "assists": "12",
+            "dTurnoverRatio": "0.88",
+            "ds": "7",
+            "goals": "12",
+            "receiverError": null,
+            "salary": "$265,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "6",
+            "throwaways": "8",
+            "timesTraded": null,
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Cassie Guignion",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.67",
+            "assists": "1",
+            "dTurnoverRatio": "1.33",
+            "ds": "4",
+            "goals": "8",
+            "receiverError": "0",
+            "salary": "$160,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "1",
+            "throwaways": "3",
+            "timesTraded": "1",
+            "wins": "0.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "R.t. Lechow",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "6",
+            "dTurnoverRatio": "0.33",
+            "ds": "2",
+            "goals": "4",
+            "receiverError": "0",
+            "salary": "$169,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "6",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matt Murl",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.57",
+            "assists": "8",
+            "dTurnoverRatio": "1.29",
+            "ds": "9",
+            "goals": "14",
+            "receiverError": "0",
+            "salary": "$280,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "10",
+            "throwaways": "7",
+            "timesTraded": "1",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Dara Lo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.50",
+            "assists": "7",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "6",
+            "receiverError": "2",
+            "salary": "$160,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "2",
+            "timesTraded": "0",
+            "wins": "0.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Dong-Ling Chen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.86",
+            "assists": "10",
+            "dTurnoverRatio": "0.45",
+            "ds": "5",
+            "goals": "16",
+            "receiverError": "4",
+            "salary": "$235,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "7",
+            "timesTraded": "1",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Meghan Janssen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.14",
+            "assists": "5",
+            "dTurnoverRatio": "0.29",
+            "ds": "2",
+            "goals": "12",
+            "receiverError": "0",
+            "salary": "$205,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "10",
+            "throwaways": "7",
+            "timesTraded": "2",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nancy Warren",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "1",
+            "dTurnoverRatio": "1.00",
+            "ds": "3",
+            "goals": "3",
+            "receiverError": "0",
+            "salary": "$149,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "5",
+            "throwaways": "3",
+            "timesTraded": "2",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nicole James",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.33",
+            "assists": "1",
+            "dTurnoverRatio": "1.25",
+            "ds": "5",
+            "goals": "6",
+            "receiverError": "1",
+            "salary": "$170,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "3",
+            "timesTraded": "3",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lucas McKeown",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.22",
+            "assists": "7",
+            "dTurnoverRatio": "0.33",
+            "ds": "3",
+            "goals": "12",
+            "receiverError": "0",
+            "salary": "$205,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "9",
+            "timesTraded": "2",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Christian Ferreira",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.80",
+            "assists": "11",
+            "dTurnoverRatio": "0.27",
+            "ds": "4",
+            "goals": null,
+            "receiverError": "5",
+            "salary": "$288,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Mona Sim",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.60",
+            "assists": "1",
+            "dTurnoverRatio": "0.40",
+            "ds": "2",
+            "goals": "4",
+            "receiverError": "0",
+            "salary": "$133,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "5",
+            "timesTraded": "1",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Molly Enneson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "0",
+            "dTurnoverRatio": "1.00",
+            "ds": "2",
+            "goals": "4",
+            "receiverError": "0",
+            "salary": "$161,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "6",
+            "throwaways": "2",
+            "timesTraded": "1",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Colin Mattison",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "11",
+            "dTurnoverRatio": "0.46",
+            "ds": "6",
+            "goals": "15",
+            "receiverError": "1",
+            "salary": "$256,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "12",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Aaron Zucker",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.43",
+            "assists": "17",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "5",
+            "receiverError": "1",
+            "salary": "$221,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "7",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gabriel Isaac",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.00",
+            "assists": "14",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "4",
+            "receiverError": "1",
+            "salary": "$196,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "10",
+            "throwaways": "6",
+            "timesTraded": "0",
+            "wins": "0"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Geoffrey Egger",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.43",
+            "assists": "15",
+            "dTurnoverRatio": "0.50",
+            "ds": "4",
+            "goals": "2",
+            "receiverError": "1",
+            "salary": "$212,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "9",
+            "throwaways": "7",
+            "timesTraded": "2",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jarel Villarroya",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.80",
+            "assists": "4",
+            "dTurnoverRatio": "1.00",
+            "ds": "5",
+            "goals": "10",
+            "receiverError": "0",
+            "salary": "$220,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "10",
+            "throwaways": "5",
+            "timesTraded": "1",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Carter Chin",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.71",
+            "assists": "5",
+            "dTurnoverRatio": "0.18",
+            "ds": "3",
+            "goals": "2",
+            "receiverError": "3",
+            "salary": "$127,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "5",
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Claire Midgley",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.00",
+            "assists": "1",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "5",
+            "receiverError": "1",
+            "salary": "$156,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "2",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Melbourne Ma",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.33",
+            "assists": "14",
+            "dTurnoverRatio": "0.20",
+            "ds": "3",
+            "goals": "9",
+            "receiverError": "3",
+            "salary": "$192,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "12",
+            "timesTraded": "2",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Ben Goodman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.14",
+            "assists": "13",
+            "dTurnoverRatio": "0.29",
+            "ds": "4",
+            "goals": "5",
+            "receiverError": "0",
+            "salary": "$180,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "14",
+            "timesTraded": "2",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kevin Christensen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "2",
+            "dTurnoverRatio": "1.00",
+            "ds": "6",
+            "goals": "6",
+            "receiverError": "4",
+            "salary": "$167,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "2",
+            "timesTraded": "3",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "James Ho",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.67",
+            "assists": "6",
+            "dTurnoverRatio": "0.25",
+            "ds": "1",
+            "goals": "8",
+            "receiverError": "1",
+            "salary": "$189,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "5",
+            "throwaways": "3",
+            "timesTraded": "0",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Ikram Mustapha",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.30",
+            "assists": "14",
+            "dTurnoverRatio": "0.36",
+            "ds": "4",
+            "goals": "4",
+            "receiverError": "1",
+            "salary": "$216,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "9",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Max van der Weerd",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.15",
+            "assists": "8",
+            "dTurnoverRatio": "0.31",
+            "ds": "5",
+            "goals": "6",
+            "receiverError": "3",
+            "salary": "$176,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lili Vahamaki",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.50",
+            "assists": "0",
+            "dTurnoverRatio": "0.25",
+            "ds": "1",
+            "goals": "4",
+            "receiverError": "2",
+            "salary": "$147,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "5",
+            "throwaways": "2",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jocelyne Chan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.67",
+            "assists": "2",
+            "dTurnoverRatio": "0.15",
+            "ds": "2",
+            "goals": "6",
+            "receiverError": "4",
+            "salary": "$133,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "9",
+            "timesTraded": "3",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hayden Andrews",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.64",
+            "assists": "14",
+            "dTurnoverRatio": "0.36",
+            "ds": "5",
+            "goals": "11",
+            "receiverError": "3",
+            "salary": "$227,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "11",
+            "timesTraded": "1",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kevin Tran",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.62",
+            "assists": "13",
+            "dTurnoverRatio": "0.62",
+            "ds": "8",
+            "goals": "5",
+            "receiverError": "0",
+            "salary": "$226,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "8",
+            "throwaways": "13",
+            "timesTraded": "0",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Janice Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.29",
+            "assists": "1",
+            "dTurnoverRatio": "0.11",
+            "ds": "1",
+            "goals": "9",
+            "receiverError": "2",
+            "salary": "$145,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "1",
+            "throwaways": "7",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Angela Lei",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.50",
+            "assists": "1",
+            "dTurnoverRatio": "0.29",
+            "ds": "2",
+            "goals": "9",
+            "receiverError": "5",
+            "salary": "$156,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "6",
+            "throwaways": "2",
+            "timesTraded": "1",
+            "wins": "0"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Heather Gilmour",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.92",
+            "assists": "4",
+            "dTurnoverRatio": "0.31",
+            "ds": "4",
+            "goals": "3",
+            "receiverError": "0",
+            "salary": "$148,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "8",
+            "throwaways": "13",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Oliver Cheng",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.13",
+            "assists": "8",
+            "dTurnoverRatio": "0.56",
+            "ds": "5",
+            "goals": "8",
+            "receiverError": "1",
+            "salary": "$206,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "9",
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gini Luong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.38",
+            "assists": "4",
+            "dTurnoverRatio": "0.46",
+            "ds": "6",
+            "goals": "10",
+            "receiverError": "0",
+            "salary": "$162,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "1",
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gwyneth Gerecke",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.75",
+            "assists": "4",
+            "dTurnoverRatio": "0.25",
+            "ds": "1",
+            "goals": "2",
+            "receiverError": "0",
+            "salary": "$150,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "4",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Debra Cohen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "2",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "3",
+            "receiverError": "1",
+            "salary": "$131,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "1",
+            "throwaways": "1",
+            "timesTraded": "3",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Francette Maquito",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.43",
+            "assists": "2",
+            "dTurnoverRatio": "0.75",
+            "ds": "6",
+            "goals": "13",
+            "receiverError": "1",
+            "salary": "$198,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "1",
+            "throwaways": "7",
+            "timesTraded": "0",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Megan Lee",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.56",
+            "assists": "5",
+            "dTurnoverRatio": "0.25",
+            "ds": "3",
+            "goals": "4",
+            "receiverError": "3",
+            "salary": "$164,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "9",
+            "throwaways": "9",
+            "timesTraded": "2",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kylie Denardo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.71",
+            "assists": "3",
+            "dTurnoverRatio": "0.43",
+            "ds": "3",
+            "goals": "9",
+            "receiverError": "0",
+            "salary": "$169,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "7",
+            "timesTraded": "2",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Daivik Doshi",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.60",
+            "assists": "2",
+            "dTurnoverRatio": "0.45",
+            "ds": "5",
+            "goals": "9",
+            "receiverError": "1",
+            "salary": "$169,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kaity Williams",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "6",
+            "dTurnoverRatio": "0.80",
+            "ds": "4",
+            "goals": "1",
+            "receiverError": "0",
+            "salary": "$174,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "9",
+            "throwaways": "5",
+            "timesTraded": "0",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kieran Bol",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.75",
+            "assists": "9",
+            "dTurnoverRatio": "0.75",
+            "ds": "6",
+            "goals": "3",
+            "receiverError": "0",
+            "salary": "$189,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "5",
+            "throwaways": "8",
+            "timesTraded": "0",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jeff Luckett",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.20",
+            "assists": "12",
+            "dTurnoverRatio": "0.67",
+            "ds": "4",
+            "goals": "3",
+            "receiverError": "1",
+            "salary": "$196,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "5",
+            "timesTraded": "2",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Katherine Zhang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.08",
+            "assists": "7",
+            "dTurnoverRatio": "0.29",
+            "ds": "4",
+            "goals": "3",
+            "receiverError": "2",
+            "salary": "$155,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "6",
+            "throwaways": "12",
+            "timesTraded": "2",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Barbara Huang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.92",
+            "assists": "5",
+            "dTurnoverRatio": "0.33",
+            "ds": "5",
+            "goals": "8",
+            "receiverError": "3",
+            "salary": "$177,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "6",
+            "throwaways": "12",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Catherine Chao",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.20",
+            "assists": "4",
+            "dTurnoverRatio": "0.20",
+            "ds": "1",
+            "goals": "2",
+            "receiverError": "0",
+            "salary": "$126,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "5",
+            "timesTraded": "3",
+            "wins": "0.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Heidi Siu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.80",
+            "assists": "9",
+            "dTurnoverRatio": "0.09",
+            "ds": "1",
+            "goals": "1",
+            "receiverError": "1",
+            "salary": "$159,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "9",
+            "throwaways": "10",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jason Zhou",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.75",
+            "assists": "5",
+            "dTurnoverRatio": "0.46",
+            "ds": "6",
+            "goals": "2",
+            "receiverError": "1",
+            "salary": "$139,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "12",
+            "timesTraded": "1",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Audrey Fu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.17",
+            "assists": "3",
+            "dTurnoverRatio": "0.71",
+            "ds": "5",
+            "goals": "7",
+            "receiverError": "1",
+            "salary": "$183,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hailey McInnis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "4",
+            "dTurnoverRatio": "0.33",
+            "ds": "2",
+            "goals": null,
+            "receiverError": "0",
+            "salary": "$247,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matt Andalaro",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "5",
+            "dTurnoverRatio": "0.33",
+            "ds": "2",
+            "goals": "12",
+            "receiverError": "2",
+            "salary": "$194,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "4",
+            "timesTraded": "2",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jacqueline Statten",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "3",
+            "dTurnoverRatio": "0.14",
+            "ds": "2",
+            "goals": "3",
+            "receiverError": "2",
+            "salary": "$108,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "12",
+            "timesTraded": "1",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Justin Luo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.71",
+            "assists": "3",
+            "dTurnoverRatio": "0.43",
+            "ds": "3",
+            "goals": "10",
+            "receiverError": "0",
+            "salary": "$169,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "7",
+            "timesTraded": "0",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrew Fell",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "2",
+            "dTurnoverRatio": "0.17",
+            "ds": "1",
+            "goals": "4",
+            "receiverError": "1",
+            "salary": "$131,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "5",
+            "timesTraded": "3",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Joel Klassen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.71",
+            "assists": "4",
+            "dTurnoverRatio": "0.71",
+            "ds": "5",
+            "goals": "1",
+            "receiverError": "0",
+            "salary": "$146,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "1",
+            "throwaways": "7",
+            "timesTraded": "2",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jet Chhom",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.30",
+            "assists": "5",
+            "dTurnoverRatio": "0.20",
+            "ds": "2",
+            "goals": "4",
+            "receiverError": "0",
+            "salary": "$149,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "8",
+            "throwaways": "10",
+            "timesTraded": "2",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Barry Li",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "1",
+            "dTurnoverRatio": "0.50",
+            "ds": "6",
+            "goals": "9",
+            "receiverError": "4",
+            "salary": "$174,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "8",
+            "timesTraded": "1",
+            "wins": null
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Laura Stanley",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.73",
+            "assists": "3",
+            "dTurnoverRatio": "0.23",
+            "ds": "3",
+            "goals": "3",
+            "receiverError": "2",
+            "salary": "$130,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "5",
+            "throwaways": "11",
+            "timesTraded": "2",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jane Logan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.33",
+            "assists": "6",
+            "dTurnoverRatio": "0.10",
+            "ds": "1",
+            "goals": "8",
+            "receiverError": "4",
+            "salary": "$178,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "8",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Natalie Dunn",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "2",
+            "dTurnoverRatio": "0.33",
+            "ds": "1",
+            "goals": "2",
+            "receiverError": "1",
+            "salary": "$123,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "2",
+            "timesTraded": "2",
+            "wins": "0.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Peter Hawkings",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.29",
+            "assists": "10",
+            "dTurnoverRatio": "0.10",
+            "ds": "1",
+            "goals": "5",
+            "receiverError": "3",
+            "salary": "$164,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "6",
+            "throwaways": "7",
+            "timesTraded": "1",
+            "wins": "0"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Catherine Pelletier",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "4",
+            "dTurnoverRatio": "0.33",
+            "ds": "2",
+            "goals": "3",
+            "receiverError": "0",
+            "salary": "$160,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "8",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chris Faulkner",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.50",
+            "assists": "10",
+            "dTurnoverRatio": "0.57",
+            "ds": "4",
+            "goals": "8",
+            "receiverError": "1",
+            "salary": "$213,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "5",
+            "throwaways": "6",
+            "timesTraded": "0",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Ryan Schnarr",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.90",
+            "assists": "5",
+            "dTurnoverRatio": "0.08",
+            "ds": "1",
+            "goals": "1",
+            "receiverError": "2",
+            "salary": "$111,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "10",
+            "timesTraded": "1",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Eli Fidler ",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.57",
+            "assists": "6",
+            "dTurnoverRatio": "0.14",
+            "ds": "1",
+            "goals": "1",
+            "receiverError": "0",
+            "salary": "$145,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "5",
+            "throwaways": "7",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Peter Ferderber",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.20",
+            "assists": "5",
+            "dTurnoverRatio": "0.38",
+            "ds": "5",
+            "goals": "4",
+            "receiverError": "3",
+            "salary": "$162,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Diane Pendlebury",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "1",
+            "dTurnoverRatio": "0.17",
+            "ds": "1",
+            "goals": "3",
+            "receiverError": "0",
+            "salary": "$129,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "5",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Meagan Newman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.70",
+            "assists": "5",
+            "dTurnoverRatio": "0.09",
+            "ds": "1",
+            "goals": "7",
+            "receiverError": "1",
+            "salary": "$140,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "10",
+            "timesTraded": "2",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Martin Sieniawski",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.25",
+            "assists": "3",
+            "dTurnoverRatio": "0.40",
+            "ds": "2",
+            "goals": "9",
+            "receiverError": "1",
+            "salary": "$174,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "4",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gail Russel",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.17",
+            "assists": "3",
+            "dTurnoverRatio": "0.63",
+            "ds": "5",
+            "goals": "8",
+            "receiverError": "2",
+            "salary": "$180,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Ed Kung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.33",
+            "assists": "3",
+            "dTurnoverRatio": "0.13",
+            "ds": "1",
+            "goals": "1",
+            "receiverError": "5",
+            "salary": "$119,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "3",
+            "timesTraded": "1",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Eric Palmitesta",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.17",
+            "assists": "5",
+            "dTurnoverRatio": "0.14",
+            "ds": "1",
+            "goals": "9",
+            "receiverError": "1",
+            "salary": "$167,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "6",
+            "timesTraded": "2",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tyler Longo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.33",
+            "assists": "4",
+            "dTurnoverRatio": "0.22",
+            "ds": "2",
+            "goals": "7",
+            "receiverError": "3",
+            "salary": "$162,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Travis Isbister",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.56",
+            "assists": "3",
+            "dTurnoverRatio": "0.15",
+            "ds": "2",
+            "goals": "2",
+            "receiverError": "4",
+            "salary": "$112,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "9",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Carolina Vargas",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.80",
+            "assists": "5",
+            "dTurnoverRatio": "0.57",
+            "ds": "4",
+            "goals": "6",
+            "receiverError": "2",
+            "salary": "$178,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "5",
+            "timesTraded": "2",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Cathy Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.25",
+            "assists": "2",
+            "dTurnoverRatio": "0.17",
+            "ds": "1",
+            "goals": "7",
+            "receiverError": "2",
+            "salary": "$161,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "7",
+            "throwaways": "4",
+            "timesTraded": "1",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Ann Chow",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.00",
+            "assists": "0",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "0",
+            "receiverError": "0",
+            "salary": "$96,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "0",
+            "throwaways": "1",
+            "timesTraded": "0",
+            "wins": "0"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jon Brandt",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "4",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "3",
+            "receiverError": "1",
+            "salary": "$121,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Sanjay Parker",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "2",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "2",
+            "receiverError": "1",
+            "salary": "$118,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "0",
+            "throwaways": "1",
+            "timesTraded": "0",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nick Hung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.25",
+            "assists": "2",
+            "dTurnoverRatio": "0.33",
+            "ds": "2",
+            "goals": "2",
+            "receiverError": "2",
+            "salary": "$134,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "4",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jenn Law",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.78",
+            "assists": "3",
+            "dTurnoverRatio": "0.09",
+            "ds": "1",
+            "goals": "5",
+            "receiverError": "2",
+            "salary": "$132,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "9",
+            "timesTraded": "1",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Megan Miceli",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.67",
+            "assists": "1",
+            "dTurnoverRatio": "0.25",
+            "ds": "1",
+            "goals": "5",
+            "receiverError": "1",
+            "salary": "$129,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "1",
+            "throwaways": "3",
+            "timesTraded": "1",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jacki Gunton",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "0",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "1",
+            "receiverError": "3",
+            "salary": "$103,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "4",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Olivia Chung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.25",
+            "assists": "3",
+            "dTurnoverRatio": "0.29",
+            "ds": "2",
+            "goals": "6",
+            "receiverError": "3",
+            "salary": "$138,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "4",
+            "timesTraded": "1",
+            "wins": "0"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lindsay Chong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "3",
+            "dTurnoverRatio": "0.33",
+            "ds": "3",
+            "goals": "4",
+            "receiverError": "3",
+            "salary": "$141,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "3",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Juliana de van der Schueren",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.75",
+            "assists": "1",
+            "dTurnoverRatio": "0.17",
+            "ds": "1",
+            "goals": "2",
+            "receiverError": "2",
+            "salary": "$118,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "2",
+            "throwaways": "4",
+            "timesTraded": "1",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Brittany Heath",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.17",
+            "assists": "3",
+            "dTurnoverRatio": "0.13",
+            "ds": "1",
+            "goals": "6",
+            "receiverError": "2",
+            "salary": "$147,500",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "6",
+            "timesTraded": "0",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Geneva Bloemen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.17",
+            "assists": "3",
+            "dTurnoverRatio": "0.22",
+            "ds": "2",
+            "goals": "4",
+            "receiverError": "3",
+            "salary": "$137,000",
+            "season": "Myths & Legends",
+            "seasonId": 16,
+            "secondAssists": "4",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    }
+]

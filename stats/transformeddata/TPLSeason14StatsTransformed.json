@@ -1,0 +1,3362 @@
+[
+    {
+        "name": "Gareth Cawley",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.76",
+            "assists": "49",
+            "dTurnoverRatio": "0.62",
+            "ds": "21",
+            "goals": "49",
+            "receiverError": "1",
+            "salary": "$628,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "33",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tyler Curtis",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.73",
+            "assists": "17",
+            "dTurnoverRatio": "0.81",
+            "ds": "13",
+            "goals": "55",
+            "receiverError": "1",
+            "salary": "$519,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "15",
+            "timesTraded": "1",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "BC Roedde",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "66",
+            "dTurnoverRatio": "0.23",
+            "ds": "11",
+            "goals": "22",
+            "receiverError": "2",
+            "salary": "$543,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "24",
+            "throwaways": "45",
+            "timesTraded": "3",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Dario Zgrablic",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.62",
+            "assists": "20",
+            "dTurnoverRatio": "0.41",
+            "ds": "12",
+            "goals": "17",
+            "receiverError": "0",
+            "salary": "$357,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "27",
+            "throwaways": "29",
+            "timesTraded": "2",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Krystal Dos Santos",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.89",
+            "assists": "33",
+            "dTurnoverRatio": "0.90",
+            "ds": "28",
+            "goals": "44",
+            "receiverError": "4",
+            "salary": "$595,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "18",
+            "throwaways": "27",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Norman Lew",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.27",
+            "assists": null,
+            "dTurnoverRatio": "0.53",
+            "ds": "26",
+            "goals": "32",
+            "receiverError": "1",
+            "salary": null,
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "26",
+            "throwaways": "48",
+            "timesTraded": "3",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Norah Isbister",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": null,
+            "assists": "0",
+            "dTurnoverRatio": null,
+            "ds": "0",
+            "goals": "0",
+            "receiverError": "0",
+            "salary": "$100,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "0",
+            "throwaways": "0",
+            "timesTraded": "1",
+            "wins": "0"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Josh McPhie",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.91",
+            "assists": "26",
+            "dTurnoverRatio": "0.74",
+            "ds": "20",
+            "goals": "21",
+            "receiverError": "5",
+            "salary": "$436,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "16",
+            "throwaways": "22",
+            "timesTraded": "1",
+            "wins": "9"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Arthur Pang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.71",
+            "assists": "21",
+            "dTurnoverRatio": "0.37",
+            "ds": "10",
+            "goals": "17",
+            "receiverError": "3",
+            "salary": "$339,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "20",
+            "throwaways": "24",
+            "timesTraded": "5",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Adina Ander",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "No TAs",
+            "assists": "0",
+            "dTurnoverRatio": "No TOs",
+            "ds": "0",
+            "goals": "0",
+            "receiverError": "0",
+            "salary": "$100,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "0",
+            "throwaways": "0",
+            "timesTraded": "1",
+            "wins": "0"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Greg Kramer",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.94",
+            "assists": "63",
+            "dTurnoverRatio": "0.21",
+            "ds": "11",
+            "goals": "16",
+            "receiverError": "4",
+            "salary": "$502,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": null,
+            "throwaways": null,
+            "timesTraded": "0",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matt Kishi",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.69",
+            "assists": "46",
+            "dTurnoverRatio": "0.63",
+            "ds": "27",
+            "goals": "20",
+            "receiverError": "4",
+            "salary": "$511,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "20",
+            "throwaways": "39",
+            "timesTraded": "0",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Bill Banaag",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.60",
+            "assists": "52",
+            "dTurnoverRatio": "0.60",
+            "ds": null,
+            "goals": "28",
+            "receiverError": "5",
+            "salary": "$579,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "25",
+            "throwaways": "48",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kieran Bol",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.21",
+            "assists": "49",
+            "dTurnoverRatio": "0.52",
+            "ds": "17",
+            "goals": "22",
+            "receiverError": "0",
+            "salary": "$519,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "24",
+            "throwaways": "33",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Heidi Siu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.38",
+            "assists": "31",
+            "dTurnoverRatio": "0.32",
+            "ds": "8",
+            "goals": "4",
+            "receiverError": "4",
+            "salary": "$331,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "19",
+            "throwaways": "21",
+            "timesTraded": "0",
+            "wins": "9"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Sara Thompson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "3",
+            "dTurnoverRatio": "0.89",
+            "ds": "16",
+            "goals": "23",
+            "receiverError": "4",
+            "salary": "$309,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "14",
+            "timesTraded": "4",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Mark Taylor",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.71",
+            "assists": "13",
+            "dTurnoverRatio": "2.25",
+            "ds": "18",
+            "goals": "25",
+            "receiverError": "1",
+            "salary": "$429,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "13",
+            "throwaways": "7",
+            "timesTraded": "0",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Aaron Hooper",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "6.33",
+            "assists": "23",
+            "dTurnoverRatio": "2.11",
+            "ds": "19",
+            "goals": null,
+            "receiverError": "3",
+            "salary": null,
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "15",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matthew Denton",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "3.54",
+            "assists": null,
+            "dTurnoverRatio": "0.32",
+            "ds": "8",
+            "goals": "21",
+            "receiverError": "1",
+            "salary": "$583,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "15",
+            "throwaways": "24",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Dong-Ling Chen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "8",
+            "dTurnoverRatio": "0.58",
+            "ds": "14",
+            "goals": "48",
+            "receiverError": "11",
+            "salary": "$419,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "5",
+            "throwaways": "13",
+            "timesTraded": "3",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chris Loat",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.42",
+            "assists": "59",
+            "dTurnoverRatio": "0.36",
+            "ds": "12",
+            "goals": "11",
+            "receiverError": "2",
+            "salary": "$483,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "16",
+            "throwaways": "31",
+            "timesTraded": "0",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Patrick Meredith-Karam",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.06",
+            "assists": "34",
+            "dTurnoverRatio": "0.46",
+            "ds": "26",
+            "goals": "35",
+            "receiverError": "3",
+            "salary": "$479,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "22",
+            "throwaways": null,
+            "timesTraded": "3",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Meghan Janssen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.77",
+            "assists": "20",
+            "dTurnoverRatio": "0.28",
+            "ds": "15",
+            "goals": "22",
+            "receiverError": "6",
+            "salary": "$275,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "16",
+            "throwaways": "47",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Genevieve Grier",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.25",
+            "assists": "0",
+            "dTurnoverRatio": "0.38",
+            "ds": "3",
+            "goals": "6",
+            "receiverError": "0",
+            "salary": "$125,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "2",
+            "throwaways": "8",
+            "timesTraded": "0",
+            "wins": "0.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Anthony Slater",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.48",
+            "assists": "11",
+            "dTurnoverRatio": "0.35",
+            "ds": "8",
+            "goals": "9",
+            "receiverError": "2",
+            "salary": "$265,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "20",
+            "throwaways": "21",
+            "timesTraded": "0",
+            "wins": "9"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Meagan Newman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.33",
+            "assists": "8",
+            "dTurnoverRatio": "0.40",
+            "ds": "6",
+            "goals": "16",
+            "receiverError": "3",
+            "salary": "$263,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "8",
+            "throwaways": "12",
+            "timesTraded": "4",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Travis DeWolf",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.50",
+            "assists": "18",
+            "dTurnoverRatio": "1.67",
+            "ds": "15",
+            "goals": "14",
+            "receiverError": "1",
+            "salary": "$388,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "18",
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Ronald Siu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.46",
+            "assists": "47",
+            "dTurnoverRatio": "0.41",
+            "ds": "12",
+            "goals": "41",
+            "receiverError": "3",
+            "salary": "$581,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "17",
+            "throwaways": "26",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Erika Warren",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.31",
+            "assists": "1",
+            "dTurnoverRatio": "0.31",
+            "ds": "4",
+            "goals": "3",
+            "receiverError": "0",
+            "salary": "$118,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "3",
+            "throwaways": "13",
+            "timesTraded": "3",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrew Gosbee",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.71",
+            "assists": "34",
+            "dTurnoverRatio": "0.38",
+            "ds": "11",
+            "goals": "15",
+            "receiverError": "1",
+            "salary": "$386,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "14",
+            "throwaways": "28",
+            "timesTraded": "2",
+            "wins": "9"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Janet Wan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.60",
+            "assists": "12",
+            "dTurnoverRatio": "0.58",
+            "ds": "7",
+            "goals": "22",
+            "receiverError": "2",
+            "salary": "$298,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "4",
+            "throwaways": "10",
+            "timesTraded": "4",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Laura Archila",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.20",
+            "assists": "12",
+            "dTurnoverRatio": "1.00",
+            "ds": "7",
+            "goals": "29",
+            "receiverError": "2",
+            "salary": "$371,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "5",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Julian Weinrib",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.13",
+            "assists": "36",
+            "dTurnoverRatio": "0.96",
+            "ds": "24",
+            "goals": "32",
+            "receiverError": "2",
+            "salary": "$540,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "13",
+            "throwaways": "23",
+            "timesTraded": "2",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kevin Korecki",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.36",
+            "assists": "38",
+            "dTurnoverRatio": "0.34",
+            "ds": "15",
+            "goals": "19",
+            "receiverError": "2",
+            "salary": "$386,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "19",
+            "throwaways": "42",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nicole James",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.43",
+            "assists": "6",
+            "dTurnoverRatio": "1.42",
+            "ds": "17",
+            "goals": "25",
+            "receiverError": "5",
+            "salary": "$376,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "7",
+            "timesTraded": "3",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jacki Gunton",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.29",
+            "assists": "1",
+            "dTurnoverRatio": "0.13",
+            "ds": "4",
+            "goals": "4",
+            "receiverError": "8",
+            "salary": "$90,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "6",
+            "throwaways": "24",
+            "timesTraded": "4",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rick St Jean",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.00",
+            "assists": "19",
+            "dTurnoverRatio": "1.40",
+            "ds": "14",
+            "goals": "6",
+            "receiverError": null,
+            "salary": "$350,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "21",
+            "throwaways": "10",
+            "timesTraded": "2",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Marianne Perko",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.79",
+            "assists": "18",
+            "dTurnoverRatio": "0.26",
+            "ds": "5",
+            "goals": null,
+            "receiverError": "5",
+            "salary": "$546,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "21",
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Destin McQuillan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.82",
+            "assists": "17",
+            "dTurnoverRatio": "0.62",
+            "ds": "8",
+            "goals": "36",
+            "receiverError": "2",
+            "salary": "$417,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "14",
+            "throwaways": "11",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hayden Andrews",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.67",
+            "assists": "41",
+            "dTurnoverRatio": "0.32",
+            "ds": "9",
+            "goals": "34",
+            "receiverError": "4",
+            "salary": "$528,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "23",
+            "throwaways": "24",
+            "timesTraded": "0",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Remi Ojo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.24",
+            "assists": "37",
+            "dTurnoverRatio": "0.44",
+            "ds": "21",
+            "goals": "24",
+            "receiverError": "7",
+            "salary": "$412,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "14",
+            "throwaways": "41",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrew Fell",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.20",
+            "assists": "3",
+            "dTurnoverRatio": "1.20",
+            "ds": "6",
+            "goals": "2",
+            "receiverError": "0",
+            "salary": "$186,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "8",
+            "throwaways": "5",
+            "timesTraded": "3",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jon Brandt",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.29",
+            "assists": "14",
+            "dTurnoverRatio": "0.41",
+            "ds": "11",
+            "goals": "5",
+            "receiverError": "3",
+            "salary": "$250,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "17",
+            "throwaways": "24",
+            "timesTraded": "3",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hin Tang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "18",
+            "dTurnoverRatio": "0.33",
+            "ds": "7",
+            "goals": "10",
+            "receiverError": "3",
+            "salary": "$265,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "18",
+            "timesTraded": "4",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Debra Cohen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "4.00",
+            "assists": "2",
+            "dTurnoverRatio": "0.20",
+            "ds": "1",
+            "goals": "4",
+            "receiverError": "2",
+            "salary": "$153,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "10",
+            "throwaways": "3",
+            "timesTraded": "2",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Bryan Kaplan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.81",
+            "assists": "33",
+            "dTurnoverRatio": "0.33",
+            "ds": "11",
+            "goals": "19",
+            "receiverError": "2",
+            "salary": "$402,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "23",
+            "throwaways": "31",
+            "timesTraded": "2",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrea Nickel",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": null,
+            "assists": "0",
+            "dTurnoverRatio": null,
+            "ds": "0",
+            "goals": "0",
+            "receiverError": "0",
+            "salary": "$100,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "0",
+            "throwaways": "0",
+            "timesTraded": "2",
+            "wins": "0"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Alex Brittain Boisvert",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.87",
+            "assists": "20",
+            "dTurnoverRatio": "0.75",
+            "ds": "12",
+            "goals": "24",
+            "receiverError": "1",
+            "salary": "$391,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "8",
+            "throwaways": "15",
+            "timesTraded": "1",
+            "wins": "8.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Vikki Shimoda",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "2",
+            "dTurnoverRatio": "0.33",
+            "ds": "8",
+            "goals": "26",
+            "receiverError": "6",
+            "salary": "$237,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "7",
+            "throwaways": "18",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Keegan Lee-Newbury",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.45",
+            "assists": "28",
+            "dTurnoverRatio": "0.53",
+            "ds": "17",
+            "goals": "34",
+            "receiverError": "3",
+            "salary": "$449,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "14",
+            "throwaways": "29",
+            "timesTraded": "3",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Joshua Dong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.26",
+            "assists": "29",
+            "dTurnoverRatio": "0.43",
+            "ds": "20",
+            "goals": "18",
+            "receiverError": "8",
+            "salary": "$357,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "20",
+            "throwaways": "39",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Agatha Hodsman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.55",
+            "assists": "15",
+            "dTurnoverRatio": "0.60",
+            "ds": "12",
+            "goals": "6",
+            "receiverError": "0",
+            "salary": "$275,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "16",
+            "throwaways": "20",
+            "timesTraded": "1",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Peter Hawkings",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.80",
+            "assists": "28",
+            "dTurnoverRatio": "0.40",
+            "ds": "10",
+            "goals": "14",
+            "receiverError": "5",
+            "salary": "$399,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": null,
+            "throwaways": "20",
+            "timesTraded": "2",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tyler Longo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.19",
+            "assists": "17",
+            "dTurnoverRatio": "0.52",
+            "ds": "13",
+            "goals": "7",
+            "receiverError": "4",
+            "salary": "$258,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "8",
+            "throwaways": "21",
+            "timesTraded": "3",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kevin Wang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.08",
+            "assists": "17",
+            "dTurnoverRatio": "1.19",
+            "ds": "19",
+            "goals": "21",
+            "receiverError": "3",
+            "salary": "$383,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "10",
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chris Wang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.54",
+            "assists": "45",
+            "dTurnoverRatio": "0.68",
+            "ds": "17",
+            "goals": "12",
+            "receiverError": "1",
+            "salary": "$458,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "16",
+            "throwaways": "24",
+            "timesTraded": "0",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Natalie Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.74",
+            "assists": "18",
+            "dTurnoverRatio": "0.19",
+            "ds": "5",
+            "goals": "6",
+            "receiverError": "4",
+            "salary": "$251,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "22",
+            "throwaways": "23",
+            "timesTraded": "0",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Benjamin Goodman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.39",
+            "assists": "39",
+            "dTurnoverRatio": "0.40",
+            "ds": "16",
+            "goals": "19",
+            "receiverError": "2",
+            "salary": "$393,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "14",
+            "throwaways": "38",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Teddy Carter",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.04",
+            "assists": "8",
+            "dTurnoverRatio": "0.17",
+            "ds": "5",
+            "goals": "5",
+            "receiverError": "6",
+            "salary": "$152,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "16",
+            "throwaways": "23",
+            "timesTraded": "3",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Leslie Campbell",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.53",
+            "assists": "4",
+            "dTurnoverRatio": "1.06",
+            "ds": "19",
+            "goals": "31",
+            "receiverError": "3",
+            "salary": "$340,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "4",
+            "throwaways": "15",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Ed Kung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.83",
+            "assists": "6",
+            "dTurnoverRatio": "0.22",
+            "ds": "2",
+            "goals": "12",
+            "receiverError": "3",
+            "salary": "$243,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Emily Temple",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.92",
+            "assists": "3",
+            "dTurnoverRatio": "0.50",
+            "ds": "14",
+            "goals": "34",
+            "receiverError": "16",
+            "salary": "$316,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "8",
+            "throwaways": "12",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Ryan Nightingale",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.83",
+            "assists": "7",
+            "dTurnoverRatio": "0.76",
+            "ds": "19",
+            "goals": "27",
+            "receiverError": "7",
+            "salary": "$335,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "8",
+            "throwaways": "18",
+            "timesTraded": "3",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Colin Thompson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.19",
+            "assists": "32",
+            "dTurnoverRatio": "0.23",
+            "ds": "9",
+            "goals": "23",
+            "receiverError": "4",
+            "salary": "$342,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "36",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rajiv Seneviratne",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.32",
+            "assists": "24",
+            "dTurnoverRatio": "1.03",
+            "ds": null,
+            "goals": "4",
+            "receiverError": "2",
+            "salary": "$365,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "13",
+            "throwaways": "28",
+            "timesTraded": "0",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Oliver Cheng",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.24",
+            "assists": "21",
+            "dTurnoverRatio": "0.46",
+            "ds": "18",
+            "goals": "30",
+            "receiverError": "5",
+            "salary": "$399,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "21",
+            "throwaways": "34",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Raoul Tanyan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.63",
+            "assists": "13",
+            "dTurnoverRatio": "0.38",
+            "ds": "14",
+            "goals": "10",
+            "receiverError": "2",
+            "salary": "$201,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "35",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Marisa Hart",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.07",
+            "assists": "16",
+            "dTurnoverRatio": "0.32",
+            "ds": "11",
+            "goals": "23",
+            "receiverError": "6",
+            "salary": "$316,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "14",
+            "throwaways": "28",
+            "timesTraded": "0",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Roxine Kee",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.23",
+            "assists": "3",
+            "dTurnoverRatio": "0.13",
+            "ds": "4",
+            "goals": "0",
+            "receiverError": "6",
+            "salary": "$45,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "3",
+            "throwaways": "26",
+            "timesTraded": "3",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Melissa Morlidge",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.11",
+            "assists": "19",
+            "dTurnoverRatio": "0.05",
+            "ds": "2",
+            "goals": "2",
+            "receiverError": "2",
+            "salary": "$171,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "20",
+            "throwaways": "35",
+            "timesTraded": "3",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Stephanie Schwartz",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.36",
+            "assists": "10",
+            "dTurnoverRatio": "0.07",
+            "ds": "1",
+            "goals": "6",
+            "receiverError": "1",
+            "salary": "$182,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jacqueline Statten",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.55",
+            "assists": "4",
+            "dTurnoverRatio": "0.43",
+            "ds": "6",
+            "goals": "21",
+            "receiverError": "3",
+            "salary": "$253,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "2",
+            "throwaways": "11",
+            "timesTraded": "1",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rosalind Sham",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.92",
+            "assists": "2",
+            "dTurnoverRatio": "0.56",
+            "ds": "9",
+            "goals": "10",
+            "receiverError": "4",
+            "salary": "$198,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "12",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "\"Helen OSullivan\"",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.17",
+            "assists": "5",
+            "dTurnoverRatio": "1.00",
+            "ds": "9",
+            "goals": "11",
+            "receiverError": "3",
+            "salary": "$231,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "8",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Laura Stanley",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.80",
+            "assists": "15",
+            "dTurnoverRatio": "0.32",
+            "ds": "12",
+            "goals": "7",
+            "receiverError": "2",
+            "salary": "$200,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "13",
+            "throwaways": "35",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Robin Johannsen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.25",
+            "assists": "0",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "2",
+            "receiverError": "1",
+            "salary": "$101,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "1",
+            "throwaways": "4",
+            "timesTraded": "3",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Graham Haines",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.70",
+            "assists": "17",
+            "dTurnoverRatio": "1.00",
+            "ds": "11",
+            "goals": "24",
+            "receiverError": "1",
+            "salary": "$392,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "10",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gabriel Isaac",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.71",
+            "assists": "32",
+            "dTurnoverRatio": "0.30",
+            "ds": "6",
+            "goals": "12",
+            "receiverError": "3",
+            "salary": "$343,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "14",
+            "throwaways": "17",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rebecca Chan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.57",
+            "assists": "5",
+            "dTurnoverRatio": "0.10",
+            "ds": "1",
+            "goals": "13",
+            "receiverError": "3",
+            "salary": "$227,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "6",
+            "throwaways": "7",
+            "timesTraded": "3",
+            "wins": null
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Fiona Cheng",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "11",
+            "dTurnoverRatio": "0.50",
+            "ds": "10",
+            "goals": "30",
+            "receiverError": "4",
+            "salary": "$363,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "13",
+            "throwaways": "16",
+            "timesTraded": "1",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Anders Whist",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.52",
+            "assists": "36",
+            "dTurnoverRatio": "0.64",
+            "ds": "14",
+            "goals": "12",
+            "receiverError": "1",
+            "salary": "$407,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "17",
+            "throwaways": "21",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nick Hung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.29",
+            "assists": "10",
+            "dTurnoverRatio": "0.39",
+            "ds": "7",
+            "goals": "3",
+            "receiverError": "1",
+            "salary": "$193,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "12",
+            "throwaways": "17",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lin Hsu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.67",
+            "assists": "7",
+            "dTurnoverRatio": "0.36",
+            "ds": "4",
+            "goals": "29",
+            "receiverError": "2",
+            "salary": "$351,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "17",
+            "throwaways": "9",
+            "timesTraded": "2",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jessica Jia",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.74",
+            "assists": "16",
+            "dTurnoverRatio": "0.90",
+            "ds": "18",
+            "goals": "26",
+            "receiverError": "1",
+            "salary": "$414,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "17",
+            "throwaways": "19",
+            "timesTraded": "2",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Neil Griffith",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.26",
+            "assists": "29",
+            "dTurnoverRatio": "0.34",
+            "ds": "11",
+            "goals": "16",
+            "receiverError": "1",
+            "salary": "$336,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "10",
+            "throwaways": "31",
+            "timesTraded": "3",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Daniel Wagner",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.21",
+            "assists": "11",
+            "dTurnoverRatio": "0.19",
+            "ds": "5",
+            "goals": "3",
+            "receiverError": "2",
+            "salary": "$199,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "18",
+            "throwaways": "24",
+            "timesTraded": "2",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Polly Yung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "5",
+            "dTurnoverRatio": "0.50",
+            "ds": "7",
+            "goals": "24",
+            "receiverError": "7",
+            "salary": "$279,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "7",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tom Jennings",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.39",
+            "assists": "31",
+            "dTurnoverRatio": "0.65",
+            "ds": "13",
+            "goals": "25",
+            "receiverError": "2",
+            "salary": "$439,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "12",
+            "throwaways": "18",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Sandeep Kembhavi",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.73",
+            "assists": "15",
+            "dTurnoverRatio": "0.89",
+            "ds": "17",
+            "goals": "23",
+            "receiverError": "4",
+            "salary": "$373,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "15",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Michael Rudanycz",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "5",
+            "dTurnoverRatio": "0.17",
+            "ds": "1",
+            "goals": "2",
+            "receiverError": "1",
+            "salary": "$152,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "5",
+            "throwaways": "5",
+            "timesTraded": "0",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Peter Ferderber",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.43",
+            "assists": "31",
+            "dTurnoverRatio": "0.38",
+            "ds": "13",
+            "goals": "21",
+            "receiverError": "4",
+            "salary": "$361,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "12",
+            "throwaways": "30",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Laura Wiese",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.60",
+            "assists": "20",
+            "dTurnoverRatio": "0.38",
+            "ds": "5",
+            "goals": "16",
+            "receiverError": "3",
+            "salary": "$304,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "6",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Allison Soong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.10",
+            "assists": "14",
+            "dTurnoverRatio": "0.28",
+            "ds": "10",
+            "goals": "9",
+            "receiverError": "5",
+            "salary": "$226,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "20",
+            "throwaways": "31",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Marko Iskric",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.35",
+            "assists": "30",
+            "dTurnoverRatio": "0.22",
+            "ds": "8",
+            "goals": "18",
+            "receiverError": "5",
+            "salary": "$322,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "12",
+            "throwaways": "31",
+            "timesTraded": "1",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Anita C Benoit",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.57",
+            "assists": "3",
+            "dTurnoverRatio": "0.50",
+            "ds": "5",
+            "goals": "1",
+            "receiverError": "3",
+            "salary": "$181,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "15",
+            "throwaways": "7",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Timothy Fowler",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.48",
+            "assists": "21",
+            "dTurnoverRatio": "0.41",
+            "ds": "12",
+            "goals": "15",
+            "receiverError": "2",
+            "salary": "$321,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "19",
+            "throwaways": "27",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Audrey Fu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.79",
+            "assists": "14",
+            "dTurnoverRatio": "0.12",
+            "ds": "2",
+            "goals": "12",
+            "receiverError": "3",
+            "salary": "$255,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "14",
+            "timesTraded": "2",
+            "wins": "8"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Dara Lo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.56",
+            "assists": "10",
+            "dTurnoverRatio": "0.85",
+            "ds": "11",
+            "goals": "13",
+            "receiverError": "4",
+            "salary": "$276,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "4",
+            "throwaways": "9",
+            "timesTraded": "1",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lori Bristow",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.30",
+            "assists": "7",
+            "dTurnoverRatio": "0.64",
+            "ds": "7",
+            "goals": "4",
+            "receiverError": "1",
+            "salary": "$185,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "6",
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Colin Mattison",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.36",
+            "assists": "21",
+            "dTurnoverRatio": "0.74",
+            "ds": "17",
+            "goals": "17",
+            "receiverError": "1",
+            "salary": "$342,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "22",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kim Le",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "4",
+            "dTurnoverRatio": "0.57",
+            "ds": "4",
+            "goals": "11",
+            "receiverError": "1",
+            "salary": "$203,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "5",
+            "throwaways": "6",
+            "timesTraded": "2",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lindsay Chong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.28",
+            "assists": "6",
+            "dTurnoverRatio": "0.76",
+            "ds": "16",
+            "goals": "25",
+            "receiverError": "3",
+            "salary": "$331,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "17",
+            "throwaways": "18",
+            "timesTraded": "0",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kevin Rabichow",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.21",
+            "assists": "20",
+            "dTurnoverRatio": "0.24",
+            "ds": "6",
+            "goals": "8",
+            "receiverError": "1",
+            "salary": "$240,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "24",
+            "timesTraded": "0",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Misiu Godfrey",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.85",
+            "assists": "19",
+            "dTurnoverRatio": "0.68",
+            "ds": "15",
+            "goals": "19",
+            "receiverError": "2",
+            "salary": "$368,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "18",
+            "throwaways": "20",
+            "timesTraded": "0",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Justin Wee",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.67",
+            "assists": "6",
+            "dTurnoverRatio": "0.08",
+            "ds": "3",
+            "goals": "13",
+            "receiverError": "7",
+            "salary": "$163,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "14",
+            "throwaways": "30",
+            "timesTraded": "2",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Krista Bennatti-Roberts",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.73",
+            "assists": "5",
+            "dTurnoverRatio": "0.46",
+            "ds": "6",
+            "goals": "16",
+            "receiverError": "2",
+            "salary": "$247,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "14",
+            "throwaways": "11",
+            "timesTraded": "0",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jarel Villarroya",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.07",
+            "assists": "13",
+            "dTurnoverRatio": "0.69",
+            "ds": "11",
+            "goals": "13",
+            "receiverError": "1",
+            "salary": "$321,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "18",
+            "throwaways": "15",
+            "timesTraded": "1",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Hilda AhChong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.90",
+            "assists": "8",
+            "dTurnoverRatio": "0.45",
+            "ds": "5",
+            "goals": "16",
+            "receiverError": "1",
+            "salary": "$245,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "1",
+            "throwaways": "10",
+            "timesTraded": "1",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Robert Stalker",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.46",
+            "assists": "7",
+            "dTurnoverRatio": "0.09",
+            "ds": "3",
+            "goals": "10",
+            "receiverError": "4",
+            "salary": "$130,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "6",
+            "throwaways": "28",
+            "timesTraded": "2",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Larry Macdonald",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.29",
+            "assists": "16",
+            "dTurnoverRatio": "0.52",
+            "ds": "12",
+            "goals": "7",
+            "receiverError": "2",
+            "salary": "$248,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "21",
+            "timesTraded": "3",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Alice Feng",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.63",
+            "assists": "2",
+            "dTurnoverRatio": "0.73",
+            "ds": "8",
+            "goals": "20",
+            "receiverError": "3",
+            "salary": "$257,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "3",
+            "throwaways": "8",
+            "timesTraded": "3",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kelsey Waugh",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.40",
+            "assists": "1",
+            "dTurnoverRatio": "0.06",
+            "ds": "1",
+            "goals": "4",
+            "receiverError": "8",
+            "salary": "$110,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "3",
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Michelle Wang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.40",
+            "assists": "2",
+            "dTurnoverRatio": "0.71",
+            "ds": "5",
+            "goals": "3",
+            "receiverError": "2",
+            "salary": "$131,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "0",
+            "throwaways": "5",
+            "timesTraded": "2",
+            "wins": "1"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Danielle Leung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.27",
+            "assists": "18",
+            "dTurnoverRatio": "0.57",
+            "ds": "13",
+            "goals": "19",
+            "receiverError": "8",
+            "salary": "$346,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "16",
+            "throwaways": "15",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Megan Lee",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.92",
+            "assists": "13",
+            "dTurnoverRatio": "0.37",
+            "ds": "7",
+            "goals": "24",
+            "receiverError": "6",
+            "salary": "$337,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "12",
+            "throwaways": "13",
+            "timesTraded": "1",
+            "wins": null
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Elena Wang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.08",
+            "assists": "6",
+            "dTurnoverRatio": "0.64",
+            "ds": "9",
+            "goals": "8",
+            "receiverError": "1",
+            "salary": "$225,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "8",
+            "throwaways": "13",
+            "timesTraded": "3",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Brittany Heath",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.25",
+            "assists": "4",
+            "dTurnoverRatio": "0.50",
+            "ds": "3",
+            "goals": "5",
+            "receiverError": "2",
+            "salary": "$177,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "5",
+            "throwaways": "4",
+            "timesTraded": "3",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andrew Ho",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.46",
+            "assists": "6",
+            "dTurnoverRatio": "0.26",
+            "ds": "8",
+            "goals": "8",
+            "receiverError": "3",
+            "salary": "$141,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "7",
+            "throwaways": "28",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chengxin Guo",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.10",
+            "assists": "7",
+            "dTurnoverRatio": "0.20",
+            "ds": "3",
+            "goals": "12",
+            "receiverError": "5",
+            "salary": "$209,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "4",
+            "throwaways": "10",
+            "timesTraded": "2",
+            "wins": "7.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jason Zhou",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.84",
+            "assists": "12",
+            "dTurnoverRatio": "0.25",
+            "ds": "6",
+            "goals": "13",
+            "receiverError": "5",
+            "salary": "$210,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "4",
+            "throwaways": "19",
+            "timesTraded": "3",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "R.T. Lechow",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.89",
+            "assists": "25",
+            "dTurnoverRatio": "0.26",
+            "ds": "6",
+            "goals": "10",
+            "receiverError": "5",
+            "salary": "$286,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "18",
+            "timesTraded": "2",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Chris Faulkner",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.29",
+            "assists": "16",
+            "dTurnoverRatio": "0.32",
+            "ds": "7",
+            "goals": "23",
+            "receiverError": "1",
+            "salary": "$319,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "21",
+            "timesTraded": "2",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gwyneth Gerecke",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.83",
+            "assists": "0",
+            "dTurnoverRatio": "0.13",
+            "ds": "1",
+            "goals": "4",
+            "receiverError": "2",
+            "salary": "$130,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "5",
+            "throwaways": "6",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jet Chhom",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.13",
+            "assists": "10",
+            "dTurnoverRatio": "0.67",
+            "ds": "12",
+            "goals": "5",
+            "receiverError": "2",
+            "salary": "$219,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "8",
+            "throwaways": "16",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Calvin Ho",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.68",
+            "assists": "25",
+            "dTurnoverRatio": "0.44",
+            "ds": "11",
+            "goals": "12",
+            "receiverError": "6",
+            "salary": "$304,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "7",
+            "throwaways": "19",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Olivia Chung",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "0",
+            "dTurnoverRatio": "0.57",
+            "ds": "8",
+            "goals": "15",
+            "receiverError": "6",
+            "salary": "$216,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "4",
+            "throwaways": "8",
+            "timesTraded": "0",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jane Logan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.14",
+            "assists": "4",
+            "dTurnoverRatio": "0.46",
+            "ds": "6",
+            "goals": "13",
+            "receiverError": "6",
+            "salary": "$220,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "7",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Natalie Dunn",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "10",
+            "dTurnoverRatio": "0.30",
+            "ds": "7",
+            "goals": "23",
+            "receiverError": "5",
+            "salary": "$276,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "8",
+            "throwaways": "18",
+            "timesTraded": "2",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Patrick Russell",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.83",
+            "assists": "24",
+            "dTurnoverRatio": "0.61",
+            "ds": "11",
+            "goals": "18",
+            "receiverError": null,
+            "salary": "$356,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "18",
+            "timesTraded": null,
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nicholas Hu",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.05",
+            "assists": "7",
+            "dTurnoverRatio": "0.24",
+            "ds": "6",
+            "goals": "10",
+            "receiverError": "3",
+            "salary": "$184,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "16",
+            "throwaways": "22",
+            "timesTraded": "1",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kevin Christensen",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.45",
+            "assists": "9",
+            "dTurnoverRatio": "0.40",
+            "ds": "6",
+            "goals": "19",
+            "receiverError": "4",
+            "salary": "$275,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "7",
+            "throwaways": "11",
+            "timesTraded": "2",
+            "wins": "7"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Gail Russel",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.92",
+            "assists": "12",
+            "dTurnoverRatio": "0.31",
+            "ds": "9",
+            "goals": "16",
+            "receiverError": "3",
+            "salary": "$251,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "12",
+            "throwaways": "26",
+            "timesTraded": "1",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Victoria Ta",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.25",
+            "assists": "5",
+            "dTurnoverRatio": "0.30",
+            "ds": "3",
+            "goals": "3",
+            "receiverError": "2",
+            "salary": "$161,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "5",
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Dawn Man",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.31",
+            "assists": "3",
+            "dTurnoverRatio": "0.21",
+            "ds": "4",
+            "goals": "4",
+            "receiverError": "3",
+            "salary": "$121,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "2",
+            "throwaways": "16",
+            "timesTraded": "3",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rahil Suleman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.20",
+            "assists": "18",
+            "dTurnoverRatio": "0.15",
+            "ds": "4",
+            "goals": "7",
+            "receiverError": "2",
+            "salary": "$207,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "12",
+            "throwaways": "25",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Carolina Vargas",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.20",
+            "assists": "12",
+            "dTurnoverRatio": "0.39",
+            "ds": "9",
+            "goals": "16",
+            "receiverError": "3",
+            "salary": "$259,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "12",
+            "throwaways": "20",
+            "timesTraded": "3",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Sanjay Parker",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.38",
+            "assists": "21",
+            "dTurnoverRatio": "0.21",
+            "ds": "6",
+            "goals": "17",
+            "receiverError": "7",
+            "salary": "$274,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "8",
+            "throwaways": "21",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Eric Swanson",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "7",
+            "dTurnoverRatio": "0.50",
+            "ds": "4",
+            "goals": "16",
+            "receiverError": "3",
+            "salary": "$232,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "3",
+            "throwaways": "5",
+            "timesTraded": "1",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jocelyne Chan",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.27",
+            "assists": "4",
+            "dTurnoverRatio": "0.46",
+            "ds": "11",
+            "goals": "22",
+            "receiverError": "13",
+            "salary": "$265,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "10",
+            "throwaways": "11",
+            "timesTraded": "2",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Barbara Huang",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.39",
+            "assists": "5",
+            "dTurnoverRatio": "0.18",
+            "ds": "5",
+            "goals": "14",
+            "receiverError": "10",
+            "salary": "$165,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "2",
+            "throwaways": "18",
+            "timesTraded": "3",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Alexandra Gaglione",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "3",
+            "dTurnoverRatio": "0.62",
+            "ds": "8",
+            "goals": "12",
+            "receiverError": "6",
+            "salary": "$197,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "4",
+            "throwaways": "7",
+            "timesTraded": "2",
+            "wins": "2.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Darren Hui",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "3",
+            "dTurnoverRatio": "0.25",
+            "ds": "2",
+            "goals": "9",
+            "receiverError": "5",
+            "salary": "$168,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "3",
+            "throwaways": "3",
+            "timesTraded": "2",
+            "wins": "3"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Anna Kazmierska",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.47",
+            "assists": "9",
+            "dTurnoverRatio": "0.35",
+            "ds": "8",
+            "goals": "9",
+            "receiverError": "6",
+            "salary": "$225,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "16",
+            "throwaways": "17",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Andy Zajac",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.22",
+            "assists": "21",
+            "dTurnoverRatio": "0.33",
+            "ds": "9",
+            "goals": "18",
+            "receiverError": "4",
+            "salary": "$288,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "7",
+            "throwaways": "23",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Nancy Warren",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.30",
+            "assists": "2",
+            "dTurnoverRatio": "0.42",
+            "ds": "5",
+            "goals": "14",
+            "receiverError": "2",
+            "salary": "$189,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "1",
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Tiffany Huebel",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.40",
+            "assists": "2",
+            "dTurnoverRatio": "0.31",
+            "ds": "4",
+            "goals": "21",
+            "receiverError": "8",
+            "salary": "$226,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "0",
+            "throwaways": "5",
+            "timesTraded": "2",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Norman Stewart",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.32",
+            "assists": "10",
+            "dTurnoverRatio": "0.27",
+            "ds": "6",
+            "goals": "6",
+            "receiverError": "3",
+            "salary": "$207,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "15",
+            "throwaways": "19",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Genevieve Co",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "5",
+            "dTurnoverRatio": "0.60",
+            "ds": "9",
+            "goals": "9",
+            "receiverError": "4",
+            "salary": "$205,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "6",
+            "throwaways": "11",
+            "timesTraded": "1",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Mathew Harder",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.31",
+            "assists": "10",
+            "dTurnoverRatio": "0.28",
+            "ds": "5",
+            "goals": "4",
+            "receiverError": "2",
+            "salary": "$186,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "16",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "James Ho",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.64",
+            "assists": "11",
+            "dTurnoverRatio": "0.56",
+            "ds": "9",
+            "goals": "14",
+            "receiverError": "5",
+            "salary": "$270,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "7",
+            "throwaways": "11",
+            "timesTraded": "1",
+            "wins": "6.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Catherine Chao",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.20",
+            "assists": "13",
+            "dTurnoverRatio": "0.50",
+            "ds": "12",
+            "goals": "16",
+            "receiverError": "4",
+            "salary": "$286,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "20",
+            "timesTraded": "1",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Scott Koshman",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "1",
+            "dTurnoverRatio": "0.44",
+            "ds": "4",
+            "goals": "4",
+            "receiverError": "5",
+            "salary": "$132,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "3",
+            "throwaways": "4",
+            "timesTraded": "2",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Kaity Williams",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.24",
+            "assists": "12",
+            "dTurnoverRatio": "0.27",
+            "ds": "7",
+            "goals": "10",
+            "receiverError": "5",
+            "salary": "$218,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "14",
+            "throwaways": "21",
+            "timesTraded": "2",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Rachel Prowse",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.17",
+            "assists": "3",
+            "dTurnoverRatio": "0.54",
+            "ds": "7",
+            "goals": "5",
+            "receiverError": "7",
+            "salary": "$170,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "4",
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Lily Kao",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.75",
+            "assists": "12",
+            "dTurnoverRatio": "0.13",
+            "ds": "2",
+            "goals": "10",
+            "receiverError": "4",
+            "salary": "$223,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "9",
+            "throwaways": "12",
+            "timesTraded": "0",
+            "wins": "6"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Alexa Skinner",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.32",
+            "assists": "14",
+            "dTurnoverRatio": "0.35",
+            "ds": "8",
+            "goals": "19",
+            "receiverError": "4",
+            "salary": "$287,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "19",
+            "timesTraded": "2",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Diane Pendlebury",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.63",
+            "assists": "6",
+            "dTurnoverRatio": "0.10",
+            "ds": "1",
+            "goals": "5",
+            "receiverError": "2",
+            "salary": "$167,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "7",
+            "throwaways": "8",
+            "timesTraded": "0",
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Claire Midgley",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "0",
+            "dTurnoverRatio": "0.21",
+            "ds": "3",
+            "goals": "4",
+            "receiverError": "2",
+            "salary": "$130,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "6",
+            "throwaways": "12",
+            "timesTraded": "1",
+            "wins": "5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Amanda Sheppard",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "17",
+            "dTurnoverRatio": "0.12",
+            "ds": "2",
+            "goals": "17",
+            "receiverError": "3",
+            "salary": "$256,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "4",
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Cathy Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.63",
+            "assists": "13",
+            "dTurnoverRatio": "0.22",
+            "ds": "4",
+            "goals": "10",
+            "receiverError": "2",
+            "salary": "$229,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "13",
+            "throwaways": "16",
+            "timesTraded": "0",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Catherine Pelletier",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "11",
+            "dTurnoverRatio": "0.37",
+            "ds": "7",
+            "goals": "4",
+            "receiverError": "2",
+            "salary": "$185,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "6",
+            "throwaways": "17",
+            "timesTraded": "1",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Carter Chin",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.89",
+            "assists": "10",
+            "dTurnoverRatio": "0.05",
+            "ds": "1",
+            "goals": "2",
+            "receiverError": "3",
+            "salary": "$138,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "7",
+            "throwaways": "19",
+            "timesTraded": "1",
+            "wins": "5.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Matthew Colphon",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.22",
+            "assists": "14",
+            "dTurnoverRatio": "0.29",
+            "ds": "6",
+            "goals": "15",
+            "receiverError": "3",
+            "salary": "$237,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "8",
+            "throwaways": "18",
+            "timesTraded": "0",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Irene Tse",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.76",
+            "assists": "2",
+            "dTurnoverRatio": "0.15",
+            "ds": "4",
+            "goals": "14",
+            "receiverError": "9",
+            "salary": "$166,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "11",
+            "throwaways": "17",
+            "timesTraded": null,
+            "wins": "4"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Carissa Wong",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "5",
+            "dTurnoverRatio": "0.27",
+            "ds": "4",
+            "goals": "13",
+            "receiverError": "7",
+            "salary": "$187,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "3",
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "3.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Jennifer Law",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.50",
+            "assists": "3",
+            "dTurnoverRatio": "0.17",
+            "ds": "3",
+            "goals": "15",
+            "receiverError": "4",
+            "salary": "$163,500",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "4",
+            "throwaways": "14",
+            "timesTraded": "1",
+            "wins": "1.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Puja Ahluwalia",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.36",
+            "assists": "1",
+            "dTurnoverRatio": "0.31",
+            "ds": "5",
+            "goals": "13",
+            "receiverError": "5",
+            "salary": "$173,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "3",
+            "throwaways": "11",
+            "timesTraded": "0",
+            "wins": "4.5"
+        },
+        "zuluruId": 0
+    },
+    {
+        "name": "Megan Miceli",
+        "sex": "",
+        "stats": {
+            "assistThrowawayRatio": "0.88",
+            "assists": "0",
+            "dTurnoverRatio": "0.13",
+            "ds": "2",
+            "goals": "9",
+            "receiverError": "7",
+            "salary": "$137,000",
+            "season": "Seinfeld",
+            "seasonId": 14,
+            "secondAssists": "7",
+            "throwaways": "8",
+            "timesTraded": "1",
+            "wins": "2"
+        },
+        "zuluruId": 0
+    }
+]

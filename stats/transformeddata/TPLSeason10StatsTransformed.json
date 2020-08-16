@@ -1,0 +1,2856 @@
+[
+    {
+        "name": "Bill Banaag",
+        "stats": {
+            "assistThrowawayRatio": "2.55",
+            "assists": "74",
+            "dTurnoverRatio": "0.51",
+            "ds": "25",
+            "goals": "40",
+            "receiverError": "7",
+            "salary": "$761,000",
+            "secondAssists": "33",
+            "secondAssits": null,
+            "throwaways": "42",
+            "timesTraded": "1",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Matthew Galloway",
+        "stats": {
+            "assistThrowawayRatio": "1.32",
+            "assists": "14",
+            "dTurnoverRatio": "1.24",
+            "ds": "31",
+            "goals": "59",
+            "receiverError": "3",
+            "salary": "$611,500",
+            "secondAssists": "15",
+            "secondAssits": null,
+            "throwaways": "22",
+            "timesTraded": "1",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Chris Loat",
+        "stats": {
+            "assistThrowawayRatio": "4.00",
+            "assists": "74",
+            "dTurnoverRatio": "0.52",
+            "ds": "14",
+            "goals": "12",
+            "receiverError": "2",
+            "salary": "$602,000",
+            "secondAssists": "26",
+            "secondAssits": null,
+            "throwaways": "25",
+            "timesTraded": "1",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "Darrel Nantais",
+        "stats": {
+            "assistThrowawayRatio": "1.87",
+            "assists": "60",
+            "dTurnoverRatio": "0.33",
+            "ds": "17",
+            "goals": "5",
+            "receiverError": "0",
+            "salary": "$466,500",
+            "secondAssists": "37",
+            "secondAssits": null,
+            "throwaways": "52",
+            "timesTraded": "0",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Jacob Slan",
+        "stats": {
+            "assistThrowawayRatio": "0.69",
+            "assists": "0",
+            "dTurnoverRatio": "0.38",
+            "ds": "5",
+            "goals": "14",
+            "receiverError": "0",
+            "salary": "$196,500",
+            "secondAssists": "9",
+            "secondAssits": null,
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Kieran Bol",
+        "stats": {
+            "assistThrowawayRatio": "2.09",
+            "assists": "25",
+            "dTurnoverRatio": "0.58",
+            "ds": "14",
+            "goals": "20",
+            "receiverError": "2",
+            "salary": "$420,000",
+            "secondAssists": "21",
+            "secondAssits": null,
+            "throwaways": "22",
+            "timesTraded": "4",
+            "wins": "9"
+        }
+    },
+    {
+        "name": "Polly Yung",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "4",
+            "dTurnoverRatio": "0.60",
+            "ds": "6",
+            "goals": "22",
+            "receiverError": "5",
+            "salary": "$295,500",
+            "secondAssists": "11",
+            "secondAssits": null,
+            "throwaways": "5",
+            "timesTraded": "8",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Aaron Hooper",
+        "stats": {
+            "assistThrowawayRatio": "2.94",
+            "assists": "34",
+            "dTurnoverRatio": "2.00",
+            "ds": null,
+            "goals": "39",
+            "receiverError": "2",
+            "salary": "$652,000",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "16",
+            "timesTraded": "3",
+            "wins": "6"
+        }
+    },
+    {
+        "name": "Chris Wang",
+        "stats": {
+            "assistThrowawayRatio": "6.00",
+            "assists": "40",
+            "dTurnoverRatio": "1.08",
+            "ds": "13",
+            "goals": "24",
+            "receiverError": "2",
+            "salary": "$534,000",
+            "secondAssists": "20",
+            "secondAssits": null,
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "6"
+        }
+    },
+    {
+        "name": "Greg Kramer",
+        "stats": {
+            "assistThrowawayRatio": "1.90",
+            "assists": null,
+            "dTurnoverRatio": "0.41",
+            "ds": "30",
+            "goals": "37",
+            "receiverError": "2",
+            "salary": null,
+            "secondAssits": null,
+            "throwaways": null,
+            "timesTraded": "1",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Julian Weinrib",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "46",
+            "dTurnoverRatio": "0.85",
+            "ds": "22",
+            "goals": "49",
+            "receiverError": "3",
+            "salary": "$707,000",
+            "secondAssists": "23",
+            "secondAssits": null,
+            "throwaways": "23",
+            "timesTraded": "2",
+            "wins": "8.5"
+        }
+    },
+    {
+        "name": "Marianne Perko",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "22",
+            "dTurnoverRatio": "0.44",
+            "ds": "7",
+            "goals": "55",
+            "receiverError": "4",
+            "salary": "$543,000",
+            "secondAssists": "14",
+            "secondAssits": null,
+            "throwaways": "12",
+            "timesTraded": "1",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Baron Lam",
+        "stats": {
+            "assistThrowawayRatio": "2.11",
+            "assists": "62",
+            "dTurnoverRatio": "0.22",
+            "ds": "11",
+            "goals": "12",
+            "receiverError": "2",
+            "salary": "$483,000",
+            "secondAssists": "37",
+            "secondAssits": null,
+            "throwaways": "47",
+            "timesTraded": "0",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "Rob Grundy",
+        "stats": {
+            "assistThrowawayRatio": "1.30",
+            "assists": "37",
+            "dTurnoverRatio": "0.53",
+            "ds": "26",
+            "goals": "22",
+            "receiverError": "2",
+            "salary": "$459,000",
+            "secondAssists": "24",
+            "secondAssits": null,
+            "throwaways": "47",
+            "timesTraded": "1",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Gareth Cawley",
+        "stats": {
+            "assistThrowawayRatio": "2.28",
+            "assists": "53",
+            "dTurnoverRatio": "0.50",
+            "ds": "18",
+            "goals": null,
+            "receiverError": "0",
+            "salary": null,
+            "secondAssists": "29",
+            "secondAssits": null,
+            "throwaways": "36",
+            "timesTraded": "0",
+            "wins": "7.5"
+        }
+    },
+    {
+        "name": "Jeff Chik",
+        "stats": {
+            "assistThrowawayRatio": "2.40",
+            "assists": "25",
+            "dTurnoverRatio": "0.68",
+            "ds": "15",
+            "goals": "11",
+            "receiverError": "2",
+            "salary": "$393,000",
+            "secondAssists": "23",
+            "secondAssits": null,
+            "throwaways": "20",
+            "timesTraded": "6",
+            "wins": "9"
+        }
+    },
+    {
+        "name": "Colin Mattison",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "23",
+            "dTurnoverRatio": "0.50",
+            "ds": "14",
+            "goals": "16",
+            "receiverError": "4",
+            "salary": "$348,000",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "24",
+            "timesTraded": "8",
+            "wins": "8"
+        }
+    },
+    {
+        "name": "Ian Bone",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "29",
+            "dTurnoverRatio": "1.59",
+            "ds": null,
+            "goals": "36",
+            "receiverError": "5",
+            "salary": "$638,000",
+            "secondAssists": "15",
+            "secondAssits": null,
+            "throwaways": "22",
+            "timesTraded": "2",
+            "wins": "9"
+        }
+    },
+    {
+        "name": "Anthea Tsoukalas",
+        "stats": {
+            "assistThrowawayRatio": "5.00",
+            "assists": "1",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "12",
+            "receiverError": "6",
+            "salary": "$193,000",
+            "secondAssists": "4",
+            "secondAssits": null,
+            "throwaways": "1",
+            "timesTraded": "1",
+            "wins": "7.5"
+        }
+    },
+    {
+        "name": "Remi Jr. Ojo",
+        "stats": {
+            "assistThrowawayRatio": "2.24",
+            "assists": "59",
+            "dTurnoverRatio": "0.54",
+            "ds": "21",
+            "goals": "46",
+            "receiverError": "5",
+            "salary": "$682,000",
+            "secondAssists": "17",
+            "secondAssits": null,
+            "throwaways": "34",
+            "timesTraded": "0",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Neil Duchen",
+        "stats": {
+            "assistThrowawayRatio": "3.57",
+            "assists": "38",
+            "dTurnoverRatio": "1.17",
+            "ds": "21",
+            "goals": "51",
+            "receiverError": "4",
+            "salary": "$652,500",
+            "secondAssists": "12",
+            "secondAssits": null,
+            "throwaways": "14",
+            "timesTraded": "1",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Norman Lew",
+        "stats": {
+            "assistThrowawayRatio": "2.38",
+            "assists": "70",
+            "dTurnoverRatio": "0.55",
+            "ds": "26",
+            "goals": "30",
+            "receiverError": "7",
+            "salary": "$679,000",
+            "secondAssists": "25",
+            "secondAssits": null,
+            "throwaways": "40",
+            "timesTraded": "2",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Mark Virata",
+        "stats": {
+            "assistThrowawayRatio": "0.93",
+            "assists": "2",
+            "dTurnoverRatio": "0.33",
+            "ds": "7",
+            "goals": "4",
+            "receiverError": "6",
+            "salary": "$148,000",
+            "secondAssists": "12",
+            "secondAssits": null,
+            "throwaways": "15",
+            "timesTraded": "6",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "Charles Burger",
+        "stats": {
+            "assistThrowawayRatio": "0.80",
+            "assists": "3",
+            "dTurnoverRatio": "1.38",
+            "ds": "11",
+            "goals": "20",
+            "receiverError": "3",
+            "salary": "$266,500",
+            "secondAssists": "1",
+            "secondAssits": null,
+            "throwaways": "5",
+            "timesTraded": "0",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Jessica Jia",
+        "stats": {
+            "assistThrowawayRatio": "4.50",
+            "assists": "13",
+            "dTurnoverRatio": "0.90",
+            "ds": "9",
+            "goals": "43",
+            "receiverError": "2",
+            "salary": "$487,500",
+            "secondAssists": "23",
+            "secondAssits": null,
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Nathaniel Faries",
+        "stats": {
+            "assistThrowawayRatio": "3.14",
+            "assists": "24",
+            "dTurnoverRatio": "1.06",
+            "ds": "19",
+            "goals": "51",
+            "receiverError": "4",
+            "salary": "$604,000",
+            "secondAssists": "20",
+            "secondAssits": null,
+            "throwaways": "14",
+            "timesTraded": "1",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Peter Hawkings",
+        "stats": {
+            "assistThrowawayRatio": "3.08",
+            "assists": "49",
+            "dTurnoverRatio": "0.30",
+            "ds": "9",
+            "goals": "9",
+            "receiverError": "4",
+            "salary": "$460,000",
+            "secondAssists": "31",
+            "secondAssits": null,
+            "throwaways": "26",
+            "timesTraded": "1",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Blue McClellan",
+        "stats": {
+            "assistThrowawayRatio": "2.33",
+            "assists": "10",
+            "dTurnoverRatio": "0.22",
+            "ds": "2",
+            "goals": "3",
+            "receiverError": "0",
+            "salary": "$186,500",
+            "secondAssists": "11",
+            "secondAssits": null,
+            "throwaways": "9",
+            "timesTraded": "2",
+            "wins": "2"
+        }
+    },
+    {
+        "name": "Andrew Gosbee",
+        "stats": {
+            "assistThrowawayRatio": "3.21",
+            "assists": "31",
+            "dTurnoverRatio": "0.39",
+            "ds": "9",
+            "goals": "18",
+            "receiverError": "4",
+            "salary": "$446,500",
+            "secondAssists": "30",
+            "secondAssits": null,
+            "throwaways": "19",
+            "timesTraded": "0",
+            "wins": "9"
+        }
+    },
+    {
+        "name": "Laurie Zacour",
+        "stats": {
+            "assistThrowawayRatio": "0.82",
+            "assists": "4",
+            "dTurnoverRatio": "0.06",
+            "ds": "1",
+            "goals": "21",
+            "receiverError": "5",
+            "salary": "$201,500",
+            "secondAssists": "5",
+            "secondAssits": null,
+            "throwaways": "11",
+            "timesTraded": "6",
+            "wins": "2"
+        }
+    },
+    {
+        "name": "Mathew Harder",
+        "stats": {
+            "assistThrowawayRatio": "4.43",
+            "assists": "10",
+            "dTurnoverRatio": "0.78",
+            "ds": "7",
+            "goals": "7",
+            "receiverError": "2",
+            "salary": "$285,000",
+            "secondAssists": "21",
+            "secondAssits": null,
+            "throwaways": "7",
+            "timesTraded": "4",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Destin McQuillan",
+        "stats": {
+            "assistThrowawayRatio": "3.91",
+            "assists": "60",
+            "dTurnoverRatio": "0.76",
+            "ds": "19",
+            "goals": "26",
+            "receiverError": "2",
+            "salary": "$671,000",
+            "secondAssists": "30",
+            "secondAssits": null,
+            "throwaways": "23",
+            "timesTraded": "0",
+            "wins": "8.5"
+        }
+    },
+    {
+        "name": "Noah Goldstein",
+        "stats": {
+            "assistThrowawayRatio": "3.93",
+            "assists": "25",
+            "dTurnoverRatio": "0.37",
+            "ds": "7",
+            "goals": "20",
+            "receiverError": "5",
+            "salary": "$411,000",
+            "secondAssists": "30",
+            "secondAssits": null,
+            "throwaways": "14",
+            "timesTraded": "4",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Anthony Slater",
+        "stats": {
+            "assistThrowawayRatio": "2.75",
+            "assists": "16",
+            "dTurnoverRatio": "0.75",
+            "ds": "9",
+            "goals": "24",
+            "receiverError": "0",
+            "salary": "$384,000",
+            "secondAssists": "17",
+            "secondAssits": null,
+            "throwaways": "12",
+            "timesTraded": "2",
+            "wins": "6"
+        }
+    },
+    {
+        "name": "Agatha Hodsman",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "4",
+            "dTurnoverRatio": "0.46",
+            "ds": "6",
+            "goals": "8",
+            "receiverError": "3",
+            "salary": "$224,000",
+            "secondAssists": "11",
+            "secondAssits": null,
+            "throwaways": "10",
+            "timesTraded": "0",
+            "wins": "9"
+        }
+    },
+    {
+        "name": "Tyler Curtis",
+        "stats": {
+            "assistThrowawayRatio": "2.07",
+            "assists": "18",
+            "dTurnoverRatio": "1.17",
+            "ds": "21",
+            "goals": null,
+            "receiverError": "3",
+            "salary": "$640,000",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "15",
+            "timesTraded": "1",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "Misiu Godfrey",
+        "stats": {
+            "assistThrowawayRatio": "4.40",
+            "assists": "36",
+            "dTurnoverRatio": "0.94",
+            "ds": "17",
+            "goals": "36",
+            "receiverError": "3",
+            "salary": "$598,500",
+            "secondAssists": "30",
+            "secondAssits": null,
+            "throwaways": "15",
+            "timesTraded": "2",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Keegan Lee-Newbury",
+        "stats": {
+            "assistThrowawayRatio": "1.55",
+            "assists": "22",
+            "dTurnoverRatio": "0.92",
+            "ds": "24",
+            "goals": "45",
+            "receiverError": "4",
+            "salary": "$542,000",
+            "secondAssists": "12",
+            "secondAssits": null,
+            "throwaways": "22",
+            "timesTraded": "1",
+            "wins": "8"
+        }
+    },
+    {
+        "name": "Jason Chan",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "37",
+            "dTurnoverRatio": "0.23",
+            "ds": "10",
+            "goals": "14",
+            "receiverError": "3",
+            "salary": "$360,000",
+            "secondAssists": "23",
+            "secondAssits": null,
+            "throwaways": "40",
+            "timesTraded": "1",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Amanda Murdoch",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "1",
+            "dTurnoverRatio": "0.50",
+            "ds": "4",
+            "goals": "11",
+            "receiverError": "0",
+            "salary": "$193,000",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "8",
+            "timesTraded": "3",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Jean-Francois Ouellet",
+        "stats": {
+            "assistThrowawayRatio": "3.22",
+            "assists": "14",
+            "dTurnoverRatio": "0.38",
+            "ds": "5",
+            "goals": "9",
+            "receiverError": "4",
+            "salary": "$256,500",
+            "secondAssists": "15",
+            "secondAssits": null,
+            "throwaways": "9",
+            "timesTraded": "6",
+            "wins": "3"
+        }
+    },
+    {
+        "name": "Eric Palmitesta",
+        "stats": {
+            "assistThrowawayRatio": "2.24",
+            "assists": "23",
+            "dTurnoverRatio": "0.50",
+            "ds": "11",
+            "goals": "46",
+            "receiverError": "5",
+            "salary": "$498,000",
+            "secondAssists": "15",
+            "secondAssits": null,
+            "throwaways": "17",
+            "timesTraded": "1",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Robert Jackson",
+        "stats": {
+            "assistThrowawayRatio": "1.42",
+            "assists": "24",
+            "dTurnoverRatio": "0.77",
+            "ds": "23",
+            "goals": "26",
+            "receiverError": "4",
+            "salary": "$441,000",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "26",
+            "timesTraded": "3",
+            "wins": "8"
+        }
+    },
+    {
+        "name": "Vikki Shimoda",
+        "stats": {
+            "assistThrowawayRatio": "1.25",
+            "assists": "4",
+            "dTurnoverRatio": "0.40",
+            "ds": "2",
+            "goals": "6",
+            "receiverError": "1",
+            "salary": "$156,000",
+            "secondAssists": "1",
+            "secondAssits": null,
+            "throwaways": "4",
+            "timesTraded": "0",
+            "wins": "2"
+        }
+    },
+    {
+        "name": "Gabriel Isaac",
+        "stats": {
+            "assistThrowawayRatio": "2.84",
+            "assists": "33",
+            "dTurnoverRatio": "0.61",
+            "ds": "14",
+            "goals": "11",
+            "receiverError": "4",
+            "salary": "$412,000",
+            "secondAssists": "21",
+            "secondAssits": null,
+            "throwaways": "19",
+            "timesTraded": "6",
+            "wins": "7.5"
+        }
+    },
+    {
+        "name": "Cristina Chern",
+        "stats": {
+            "assistThrowawayRatio": "1.75",
+            "assists": "10",
+            "dTurnoverRatio": "1.10",
+            "ds": "11",
+            "goals": "22",
+            "receiverError": "2",
+            "salary": "$333,000",
+            "secondAssists": "4",
+            "secondAssits": null,
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "8"
+        }
+    },
+    {
+        "name": "Jeff Steele",
+        "stats": {
+            "assistThrowawayRatio": "1.73",
+            "assists": "32",
+            "dTurnoverRatio": "0.32",
+            "ds": "8",
+            "goals": "31",
+            "receiverError": "3",
+            "salary": "$417,000",
+            "secondAssists": "6",
+            "secondAssits": null,
+            "throwaways": "22",
+            "timesTraded": "0",
+            "wins": "6"
+        }
+    },
+    {
+        "name": "Mark Taylor",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "13",
+            "dTurnoverRatio": null,
+            "ds": "22",
+            "goals": "31",
+            "receiverError": "3",
+            "salary": "$442,500",
+            "secondAssists": "5",
+            "secondAssits": null,
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Tyler Longo",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "4",
+            "dTurnoverRatio": "0.14",
+            "ds": "1",
+            "goals": "3",
+            "receiverError": "1",
+            "salary": "$173,000",
+            "secondAssists": "14",
+            "secondAssits": null,
+            "throwaways": "6",
+            "timesTraded": "2",
+            "wins": "3"
+        }
+    },
+    {
+        "name": "David Burden",
+        "stats": {
+            "assistThrowawayRatio": "1.48",
+            "assists": "32",
+            "dTurnoverRatio": "0.12",
+            "ds": "4",
+            "goals": "10",
+            "receiverError": "4",
+            "salary": "$292,000",
+            "secondAssists": "11",
+            "secondAssits": null,
+            "throwaways": "29",
+            "timesTraded": "3",
+            "wins": "8.5"
+        }
+    },
+    {
+        "name": "Colin Thompson",
+        "stats": {
+            "assistThrowawayRatio": "2.09",
+            "assists": "30",
+            "dTurnoverRatio": "0.39",
+            "ds": "9",
+            "goals": "29",
+            "receiverError": "1",
+            "salary": "$445,500",
+            "secondAssists": "16",
+            "secondAssits": null,
+            "throwaways": "22",
+            "timesTraded": "6",
+            "wins": "7.5"
+        }
+    },
+    {
+        "name": "Travis DeWolf",
+        "stats": {
+            "assistThrowawayRatio": "2.09",
+            "assists": "13",
+            "dTurnoverRatio": "0.94",
+            "ds": "15",
+            "goals": "44",
+            "receiverError": "5",
+            "salary": "$474,000",
+            "secondAssists": "10",
+            "secondAssits": null,
+            "throwaways": "11",
+            "timesTraded": "0",
+            "wins": "7.5"
+        }
+    },
+    {
+        "name": "Lucy Chu",
+        "stats": {
+            "assistThrowawayRatio": "1.40",
+            "assists": "23",
+            "dTurnoverRatio": "0.67",
+            "ds": "22",
+            "goals": "30",
+            "receiverError": "3",
+            "salary": "$458,000",
+            "secondAssists": "19",
+            "secondAssits": null,
+            "throwaways": "30",
+            "timesTraded": "2",
+            "wins": "8"
+        }
+    },
+    {
+        "name": "David Yu",
+        "stats": {
+            "assistThrowawayRatio": "1.52",
+            "assists": "30",
+            "dTurnoverRatio": "0.56",
+            "ds": "19",
+            "goals": "21",
+            "receiverError": "3",
+            "salary": "$418,500",
+            "secondAssists": "17",
+            "secondAssits": null,
+            "throwaways": "31",
+            "timesTraded": "3",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Taunya Tremblay",
+        "stats": {
+            "assistThrowawayRatio": null,
+            "assists": "1",
+            "dTurnoverRatio": "1.00",
+            "ds": "2",
+            "goals": "7",
+            "receiverError": "1",
+            "salary": "$171,500",
+            "secondAssists": "6",
+            "secondAssits": null,
+            "throwaways": "1",
+            "timesTraded": "1",
+            "wins": "2"
+        }
+    },
+    {
+        "name": "Carolina Vargas",
+        "stats": {
+            "assistThrowawayRatio": "2.60",
+            "assists": "5",
+            "dTurnoverRatio": "0.56",
+            "ds": "10",
+            "goals": "13",
+            "receiverError": "8",
+            "salary": "$286,500",
+            "secondAssists": "21",
+            "secondAssits": null,
+            "throwaways": "10",
+            "timesTraded": "2",
+            "wins": "8.5"
+        }
+    },
+    {
+        "name": "Vincent Poon",
+        "stats": {
+            "assistThrowawayRatio": "2.33",
+            "assists": "18",
+            "dTurnoverRatio": "0.21",
+            "ds": "3",
+            "goals": "11",
+            "receiverError": "2",
+            "salary": "$254,500",
+            "secondAssists": "10",
+            "secondAssits": null,
+            "throwaways": "12",
+            "timesTraded": "5",
+            "wins": "2.5"
+        }
+    },
+    {
+        "name": "Greg McMullin",
+        "stats": {
+            "assistThrowawayRatio": "3.69",
+            "assists": "30",
+            "dTurnoverRatio": "0.43",
+            "ds": "6",
+            "goals": "9",
+            "receiverError": "1",
+            "salary": "$355,500",
+            "secondAssists": "18",
+            "secondAssits": null,
+            "throwaways": "13",
+            "timesTraded": "1",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Kirk MacRae",
+        "stats": {
+            "assistThrowawayRatio": "2.71",
+            "assists": "21",
+            "dTurnoverRatio": "0.59",
+            "ds": "10",
+            "goals": "44",
+            "receiverError": "3",
+            "salary": "$490,500",
+            "secondAssists": "17",
+            "secondAssits": null,
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "Marko Iskric",
+        "stats": {
+            "assistThrowawayRatio": "1.90",
+            "assists": "29",
+            "dTurnoverRatio": "0.38",
+            "ds": "14",
+            "goals": "16",
+            "receiverError": "7",
+            "salary": "$378,000",
+            "secondAssists": "28",
+            "secondAssits": null,
+            "throwaways": "30",
+            "timesTraded": "0",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Timothy Fowler",
+        "stats": {
+            "assistThrowawayRatio": "1.60",
+            "assists": "24",
+            "dTurnoverRatio": "0.31",
+            "ds": "11",
+            "goals": "20",
+            "receiverError": "5",
+            "salary": "$354,500",
+            "secondAssists": "24",
+            "secondAssits": null,
+            "throwaways": "30",
+            "timesTraded": "5",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Saleh Mohamed",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "12",
+            "dTurnoverRatio": "0.80",
+            "ds": "8",
+            "goals": "16",
+            "receiverError": "1",
+            "salary": "$305,500",
+            "secondAssists": "15",
+            "secondAssits": null,
+            "throwaways": "9",
+            "timesTraded": "2",
+            "wins": "3"
+        }
+    },
+    {
+        "name": "Matt Denton",
+        "stats": {
+            "assistThrowawayRatio": "2.27",
+            "assists": "44",
+            "dTurnoverRatio": "0.46",
+            "ds": "13",
+            "goals": "22",
+            "receiverError": "2",
+            "salary": "$473,000",
+            "secondAssists": "15",
+            "secondAssits": null,
+            "throwaways": "26",
+            "timesTraded": "2",
+            "wins": "6"
+        }
+    },
+    {
+        "name": "Rick St. Jean",
+        "stats": {
+            "assistThrowawayRatio": "2.20",
+            "assists": "13",
+            "dTurnoverRatio": "0.45",
+            "ds": "5",
+            "goals": "10",
+            "receiverError": "1",
+            "salary": "$244,000",
+            "secondAssists": "9",
+            "secondAssits": null,
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "3"
+        }
+    },
+    {
+        "name": "Michael McConnell",
+        "stats": {
+            "assistThrowawayRatio": "1.88",
+            "assists": "12",
+            "dTurnoverRatio": "0.78",
+            "ds": "14",
+            "goals": "20",
+            "receiverError": "2",
+            "salary": "$362,000",
+            "secondAssists": "18",
+            "secondAssits": null,
+            "throwaways": "16",
+            "timesTraded": "1",
+            "wins": "8"
+        }
+    },
+    {
+        "name": "Leroy Lo",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "14",
+            "dTurnoverRatio": "0.41",
+            "ds": "9",
+            "goals": "19",
+            "receiverError": "4",
+            "salary": "$299,000",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "18",
+            "timesTraded": "5",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Will Mercer",
+        "stats": {
+            "assistThrowawayRatio": "3.50",
+            "assists": "29",
+            "dTurnoverRatio": "0.44",
+            "ds": "7",
+            "goals": "12",
+            "receiverError": "4",
+            "salary": "$347,500",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "12",
+            "timesTraded": "3",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "David Ip",
+        "stats": {
+            "assistThrowawayRatio": "1.57",
+            "assists": "19",
+            "dTurnoverRatio": "0.50",
+            "ds": "11",
+            "goals": "42",
+            "receiverError": "1",
+            "salary": "$460,500",
+            "secondAssists": "14",
+            "secondAssits": null,
+            "throwaways": "21",
+            "timesTraded": "1",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Patrick Russell",
+        "stats": {
+            "assistThrowawayRatio": "2.13",
+            "assists": "4",
+            "dTurnoverRatio": "0.67",
+            "ds": "6",
+            "goals": "10",
+            "receiverError": "1",
+            "salary": "$228,000",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Jennifer Law",
+        "stats": {
+            "assistThrowawayRatio": "1.06",
+            "assists": "5",
+            "dTurnoverRatio": "0.13",
+            "ds": "3",
+            "goals": "15",
+            "receiverError": "8",
+            "salary": "$188,500",
+            "secondAssists": "12",
+            "secondAssits": null,
+            "throwaways": "16",
+            "timesTraded": "5",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "Chris Faulkner",
+        "stats": {
+            "assistThrowawayRatio": "3.33",
+            "assists": "18",
+            "dTurnoverRatio": "0.53",
+            "ds": "8",
+            "goals": "23",
+            "receiverError": "3",
+            "salary": "$380,000",
+            "secondAssists": "22",
+            "secondAssits": null,
+            "throwaways": "12",
+            "timesTraded": "4",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Stephanie Schwartz",
+        "stats": {
+            "assistThrowawayRatio": "2.33",
+            "assists": "2",
+            "dTurnoverRatio": null,
+            "ds": "11",
+            "goals": "41",
+            "receiverError": null,
+            "salary": "$409,500",
+            "secondAssists": "5",
+            "secondAssits": null,
+            "throwaways": "3",
+            "timesTraded": "2",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Matt Kishi",
+        "stats": {
+            "assistThrowawayRatio": "2.27",
+            "assists": "34",
+            "dTurnoverRatio": "0.64",
+            "ds": "18",
+            "goals": "12",
+            "receiverError": "2",
+            "salary": "$428,000",
+            "secondAssists": "25",
+            "secondAssits": null,
+            "throwaways": "26",
+            "timesTraded": "1",
+            "wins": "6"
+        }
+    },
+    {
+        "name": "John Hurlbut",
+        "stats": {
+            "assistThrowawayRatio": "1.14",
+            "assists": "21",
+            "dTurnoverRatio": "0.14",
+            "ds": "4",
+            "goals": "3",
+            "receiverError": null,
+            "salary": "$192,000",
+            "secondAssists": "12",
+            "secondAssits": null,
+            "throwaways": "29",
+            "timesTraded": "1",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "Kenny Ye",
+        "stats": {
+            "assistThrowawayRatio": "2.73",
+            "assists": "18",
+            "dTurnoverRatio": "0.42",
+            "ds": "5",
+            "goals": "21",
+            "receiverError": "1",
+            "salary": "$349,500",
+            "secondAssists": "12",
+            "secondAssits": null,
+            "throwaways": "11",
+            "timesTraded": "2",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Genevieve Daigle",
+        "stats": {
+            "assistThrowawayRatio": "1.83",
+            "assists": "6",
+            "dTurnoverRatio": "0.22",
+            "ds": "2",
+            "goals": "17",
+            "receiverError": "3",
+            "salary": "$235,000",
+            "secondAssists": "5",
+            "secondAssits": null,
+            "throwaways": "6",
+            "timesTraded": "5",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Lachlan Holmes",
+        "stats": {
+            "assistThrowawayRatio": "3.25",
+            "assists": "12",
+            "dTurnoverRatio": "0.91",
+            "ds": "10",
+            "goals": "19",
+            "receiverError": "3",
+            "salary": "$327,500",
+            "secondAssists": "14",
+            "secondAssits": null,
+            "throwaways": "8",
+            "timesTraded": "4",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "Meghan Janssen",
+        "stats": {
+            "assistThrowawayRatio": "1.91",
+            "assists": "10",
+            "dTurnoverRatio": "0.24",
+            "ds": "4",
+            "goals": "40",
+            "receiverError": "6",
+            "salary": "$379,000",
+            "secondAssists": "11",
+            "secondAssits": null,
+            "throwaways": "11",
+            "timesTraded": "4",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "\"Finlay Dsilva\"",
+        "stats": {
+            "assistThrowawayRatio": "2.11",
+            "assists": "34",
+            "dTurnoverRatio": "0.10",
+            "ds": "3",
+            "goals": "9",
+            "receiverError": "2",
+            "salary": "$323,500",
+            "secondAssists": "25",
+            "secondAssits": null,
+            "throwaways": "28",
+            "timesTraded": "1",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "Jill Elliot",
+        "stats": {
+            "assistThrowawayRatio": "1.75",
+            "assists": "5",
+            "dTurnoverRatio": "0.60",
+            "ds": "3",
+            "goals": "6",
+            "receiverError": "1",
+            "salary": "$174,000",
+            "secondAssists": "2",
+            "secondAssits": null,
+            "throwaways": "4",
+            "timesTraded": "4",
+            "wins": "3"
+        }
+    },
+    {
+        "name": "Hin Tang",
+        "stats": {
+            "assistThrowawayRatio": "1.43",
+            "assists": "18",
+            "dTurnoverRatio": "0.04",
+            "ds": "1",
+            "goals": "11",
+            "receiverError": "4",
+            "salary": "$240,500",
+            "secondAssists": "12",
+            "secondAssits": null,
+            "throwaways": "21",
+            "timesTraded": "0",
+            "wins": "8"
+        }
+    },
+    {
+        "name": "Debra Cohen",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "6",
+            "dTurnoverRatio": "0.20",
+            "ds": "2",
+            "goals": "11",
+            "receiverError": "2",
+            "salary": "$216,000",
+            "secondAssists": "10",
+            "secondAssits": null,
+            "throwaways": "8",
+            "timesTraded": "5",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Andrew Milne",
+        "stats": {
+            "assistThrowawayRatio": "1.89",
+            "assists": null,
+            "dTurnoverRatio": "0.25",
+            "ds": "14",
+            "goals": "14",
+            "receiverError": "2",
+            "salary": "$523,500",
+            "secondAssists": "25",
+            "secondAssits": null,
+            "throwaways": null,
+            "timesTraded": "2",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Jessica Chen",
+        "stats": {
+            "assistThrowawayRatio": "0.90",
+            "assists": "2",
+            "dTurnoverRatio": "0.18",
+            "ds": "2",
+            "goals": "15",
+            "receiverError": "1",
+            "salary": "$198,000",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "10",
+            "timesTraded": "1",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Ed Kung",
+        "stats": {
+            "assistThrowawayRatio": "3.17",
+            "assists": "6",
+            "dTurnoverRatio": "0.62",
+            "ds": "8",
+            "goals": "12",
+            "receiverError": "7",
+            "salary": "$267,000",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "8"
+        }
+    },
+    {
+        "name": "Cathy Wong",
+        "stats": {
+            "assistThrowawayRatio": "2.80",
+            "assists": "19",
+            "dTurnoverRatio": "0.38",
+            "ds": "5",
+            "goals": "12",
+            "receiverError": "3",
+            "salary": "$298,000",
+            "secondAssists": "9",
+            "secondAssits": null,
+            "throwaways": "10",
+            "timesTraded": "5",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Emma Seaborn",
+        "stats": {
+            "assistThrowawayRatio": "2.29",
+            "assists": "27",
+            "dTurnoverRatio": "0.18",
+            "ds": "6",
+            "goals": "6",
+            "receiverError": "5",
+            "salary": "$318,000",
+            "secondAssits": null,
+            "throwaways": "28",
+            "timesTraded": "0",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Jarel Villarroya",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "17",
+            "dTurnoverRatio": "0.57",
+            "ds": "12",
+            "goals": "1",
+            "receiverError": "1",
+            "salary": "$268,500",
+            "secondAssists": "23",
+            "secondAssits": null,
+            "throwaways": "20",
+            "timesTraded": "0",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "Benjamin St.Louis",
+        "stats": {
+            "assistThrowawayRatio": "1.42",
+            "assists": "8",
+            "dTurnoverRatio": "0.26",
+            "ds": "6",
+            "goals": "17",
+            "receiverError": "4",
+            "salary": "$251,000",
+            "secondAssists": "19",
+            "secondAssits": null,
+            "throwaways": "19",
+            "timesTraded": "5",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "Don Colangelo",
+        "stats": {
+            "assistThrowawayRatio": "2.06",
+            "assists": "21",
+            "dTurnoverRatio": "0.89",
+            "ds": "17",
+            "goals": "14",
+            "receiverError": "3",
+            "salary": "$363,500",
+            "secondAssists": "12",
+            "secondAssits": null,
+            "throwaways": "16",
+            "timesTraded": "2",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Carter Chin",
+        "stats": {
+            "assistThrowawayRatio": "1.43",
+            "assists": "22",
+            "dTurnoverRatio": "0.18",
+            "ds": "6",
+            "goals": "4",
+            "receiverError": "5",
+            "salary": "$236,000",
+            "secondAssists": "18",
+            "secondAssits": null,
+            "throwaways": "28",
+            "timesTraded": "0",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Benjamin Goodman",
+        "stats": {
+            "assistThrowawayRatio": "0.89",
+            "assists": "18",
+            "dTurnoverRatio": "0.17",
+            "ds": "5",
+            "goals": "14",
+            "receiverError": "1",
+            "salary": "$225,000",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "28",
+            "timesTraded": "5",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Julie DeWolf",
+        "stats": {
+            "assistThrowawayRatio": null,
+            "assists": "8",
+            "dTurnoverRatio": "0.88",
+            "ds": "7",
+            "goals": "32",
+            "receiverError": "5",
+            "salary": "$383,500",
+            "secondAssists": "18",
+            "secondAssits": null,
+            "throwaways": "3",
+            "timesTraded": "2",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Ben Kirkland",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "18",
+            "dTurnoverRatio": "0.39",
+            "ds": "9",
+            "goals": "17",
+            "receiverError": "6",
+            "salary": "$330,500",
+            "secondAssists": "16",
+            "secondAssits": null,
+            "throwaways": "17",
+            "timesTraded": "4",
+            "wins": "8"
+        }
+    },
+    {
+        "name": "Amanda Sheppard",
+        "stats": {
+            "assistThrowawayRatio": "1.35",
+            "assists": "16",
+            "dTurnoverRatio": "0.13",
+            "ds": "3",
+            "goals": "20",
+            "receiverError": "3",
+            "salary": "$281,500",
+            "secondAssists": "11",
+            "secondAssits": null,
+            "throwaways": "20",
+            "timesTraded": "5",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Valerie MacDougall",
+        "stats": {
+            "assistThrowawayRatio": "0.75",
+            "assists": "2",
+            "dTurnoverRatio": "0.25",
+            "ds": "3",
+            "goals": "12",
+            "receiverError": "4",
+            "salary": "$179,500",
+            "secondAssists": "4",
+            "secondAssits": null,
+            "throwaways": "8",
+            "timesTraded": "4",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "Matthew Colphon",
+        "stats": {
+            "assistThrowawayRatio": "0.93",
+            "assists": "7",
+            "dTurnoverRatio": "0.83",
+            "ds": "15",
+            "goals": "34",
+            "receiverError": "4",
+            "salary": "$359,500",
+            "secondAssists": "6",
+            "secondAssits": null,
+            "throwaways": "14",
+            "timesTraded": "3",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "William Peckham",
+        "stats": {
+            "assistThrowawayRatio": "3.00",
+            "assists": "14",
+            "dTurnoverRatio": "0.20",
+            "ds": "2",
+            "goals": "8",
+            "receiverError": "2",
+            "salary": "$241,000",
+            "secondAssists": "10",
+            "secondAssits": null,
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Carson Pun",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "10",
+            "dTurnoverRatio": "0.44",
+            "ds": "4",
+            "goals": "5",
+            "receiverError": "1",
+            "salary": "$204,500",
+            "secondAssists": "6",
+            "secondAssits": null,
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "Peter Ferderber",
+        "stats": {
+            "assistThrowawayRatio": "1.05",
+            "assists": "12",
+            "dTurnoverRatio": "0.38",
+            "ds": "9",
+            "goals": "18",
+            "receiverError": "3",
+            "salary": "$280,000",
+            "secondAssists": "10",
+            "secondAssits": null,
+            "throwaways": "21",
+            "timesTraded": "3",
+            "wins": "7.5"
+        }
+    },
+    {
+        "name": "Wesley George",
+        "stats": {
+            "assistThrowawayRatio": "1.45",
+            "assists": "19",
+            "dTurnoverRatio": "0.21",
+            "ds": "6",
+            "goals": "32",
+            "receiverError": "6",
+            "salary": "$349,000",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "22",
+            "timesTraded": "1",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Brittany Heath",
+        "stats": {
+            "assistThrowawayRatio": "1.17",
+            "assists": "1",
+            "dTurnoverRatio": "0.43",
+            "ds": "3",
+            "goals": "9",
+            "receiverError": "1",
+            "salary": "$186,500",
+            "secondAssists": "6",
+            "secondAssits": null,
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Maxim Tomashevsky",
+        "stats": {
+            "assistThrowawayRatio": "1.63",
+            "assists": "11",
+            "dTurnoverRatio": "0.41",
+            "ds": "9",
+            "goals": "20",
+            "receiverError": "6",
+            "salary": "$308,500",
+            "secondAssists": "15",
+            "secondAssits": null,
+            "throwaways": "16",
+            "timesTraded": "3",
+            "wins": "7.5"
+        }
+    },
+    {
+        "name": "Michael Rudanycz",
+        "stats": {
+            "assistThrowawayRatio": "0.56",
+            "assists": "7",
+            "dTurnoverRatio": "0.26",
+            "ds": "7",
+            "goals": "12",
+            "receiverError": "9",
+            "salary": "$166,500",
+            "secondAssists": "3",
+            "secondAssits": null,
+            "throwaways": "18",
+            "timesTraded": "4",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "Jon Jephcott",
+        "stats": {
+            "assistThrowawayRatio": "2.50",
+            "assists": "11",
+            "dTurnoverRatio": "0.80",
+            "ds": "12",
+            "goals": "20",
+            "receiverError": "5",
+            "salary": "$337,000",
+            "secondAssists": "14",
+            "secondAssits": null,
+            "throwaways": "10",
+            "timesTraded": "2",
+            "wins": "6"
+        }
+    },
+    {
+        "name": "Ikram Mustapha",
+        "stats": {
+            "assistThrowawayRatio": "1.61",
+            "assists": "12",
+            "dTurnoverRatio": "0.24",
+            "ds": "5",
+            "goals": "6",
+            "receiverError": "3",
+            "salary": "$231,500",
+            "secondAssists": "17",
+            "secondAssits": null,
+            "throwaways": "18",
+            "timesTraded": "3",
+            "wins": "7.5"
+        }
+    },
+    {
+        "name": "Daniel McKittrick",
+        "stats": {
+            "assistThrowawayRatio": "1.71",
+            "assists": "5",
+            "dTurnoverRatio": "0.80",
+            "ds": "8",
+            "goals": "16",
+            "receiverError": "3",
+            "salary": "$260,000",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "7",
+            "timesTraded": "3",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Dario Zgrablic",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "27",
+            "dTurnoverRatio": "0.48",
+            "ds": "14",
+            "goals": "11",
+            "receiverError": "4",
+            "salary": "$359,500",
+            "secondAssists": "23",
+            "secondAssits": null,
+            "throwaways": "25",
+            "timesTraded": "1",
+            "wins": "6"
+        }
+    },
+    {
+        "name": "Jon Brandt",
+        "stats": {
+            "assistThrowawayRatio": "0.88",
+            "assists": "14",
+            "dTurnoverRatio": "0.27",
+            "ds": "8",
+            "goals": "21",
+            "receiverError": "4",
+            "salary": "$249,000",
+            "secondAssists": "9",
+            "secondAssits": null,
+            "throwaways": "26",
+            "timesTraded": "2",
+            "wins": "2"
+        }
+    },
+    {
+        "name": "Andrew Fell",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "3",
+            "dTurnoverRatio": "0.43",
+            "ds": "3",
+            "goals": "3",
+            "receiverError": "1",
+            "salary": "$175,500",
+            "secondAssists": "9",
+            "secondAssits": null,
+            "throwaways": "6",
+            "timesTraded": "3",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Heidi Siu",
+        "stats": {
+            "assistThrowawayRatio": "2.64",
+            "assists": "12",
+            "dTurnoverRatio": "0.54",
+            "ds": "7",
+            "goals": "1",
+            "receiverError": "2",
+            "salary": "$244,000",
+            "secondAssists": "17",
+            "secondAssits": null,
+            "throwaways": "11",
+            "timesTraded": "0",
+            "wins": "7.5"
+        }
+    },
+    {
+        "name": "Lindsay Musalem",
+        "stats": {
+            "assistThrowawayRatio": "2.09",
+            "assists": "27",
+            "dTurnoverRatio": "0.56",
+            "ds": "15",
+            "goals": "28",
+            "receiverError": "5",
+            "salary": "$447,500",
+            "secondAssists": "19",
+            "secondAssits": null,
+            "throwaways": "22",
+            "timesTraded": "2",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Marisa Hart",
+        "stats": {
+            "assistThrowawayRatio": "1.06",
+            "assists": "10",
+            "dTurnoverRatio": "0.32",
+            "ds": "7",
+            "goals": "17",
+            "receiverError": "6",
+            "salary": "$234,500",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "16",
+            "timesTraded": "4",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "Jonathan Brunetti",
+        "stats": {
+            "assistThrowawayRatio": "1.19",
+            "assists": "12",
+            "dTurnoverRatio": "0.58",
+            "ds": "15",
+            "goals": "15",
+            "receiverError": "5",
+            "salary": "$275,500",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "21",
+            "timesTraded": "2",
+            "wins": "3"
+        }
+    },
+    {
+        "name": "Raoul Tanyan",
+        "stats": {
+            "assistThrowawayRatio": "0.79",
+            "assists": "11",
+            "dTurnoverRatio": "0.34",
+            "ds": "11",
+            "goals": "13",
+            "receiverError": "8",
+            "salary": "$206,000",
+            "secondAssists": "8",
+            "secondAssits": null,
+            "throwaways": "24",
+            "timesTraded": null,
+            "wins": "3"
+        }
+    },
+    {
+        "name": "Stephanie Harper",
+        "stats": {
+            "assistThrowawayRatio": "2.33",
+            "assists": "14",
+            "dTurnoverRatio": "0.73",
+            "ds": "8",
+            "goals": "14",
+            "receiverError": "2",
+            "salary": "$283,500",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "9",
+            "timesTraded": "2",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Diane Sepa-Kishi",
+        "stats": {
+            "assistThrowawayRatio": "0.70",
+            "assists": "3",
+            "dTurnoverRatio": "0.60",
+            "ds": "9",
+            "goals": "14",
+            "receiverError": "5",
+            "salary": "$229,500",
+            "secondAssists": "4",
+            "secondAssits": null,
+            "throwaways": "10",
+            "timesTraded": "4",
+            "wins": "7.5"
+        }
+    },
+    {
+        "name": "Adam Wenneman",
+        "stats": {
+            "assistThrowawayRatio": "1.25",
+            "assists": "17",
+            "dTurnoverRatio": "0.50",
+            "ds": "15",
+            "goals": "15",
+            "receiverError": "10",
+            "salary": "$291,500",
+            "secondAssists": "8",
+            "secondAssits": null,
+            "throwaways": "20",
+            "timesTraded": "1",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Hadiya Roderique",
+        "stats": {
+            "assistThrowawayRatio": "1.08",
+            "assists": "17",
+            "dTurnoverRatio": "0.42",
+            "ds": "13",
+            "goals": "23",
+            "receiverError": "7",
+            "salary": "$304,500",
+            "secondAssists": "9",
+            "secondAssits": null,
+            "throwaways": "24",
+            "timesTraded": "0",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "Sarah Burke",
+        "stats": {
+            "assistThrowawayRatio": "1.75",
+            "assists": "6",
+            "dTurnoverRatio": "0.17",
+            "ds": "1",
+            "goals": "9",
+            "receiverError": "2",
+            "salary": "$173,000",
+            "secondAssists": "1",
+            "secondAssits": null,
+            "throwaways": "4",
+            "timesTraded": "0",
+            "wins": "2"
+        }
+    },
+    {
+        "name": "Kalu Kalu",
+        "stats": {
+            "assistThrowawayRatio": "1.78",
+            "assists": "5",
+            "dTurnoverRatio": "0.54",
+            "ds": "7",
+            "goals": "6",
+            "receiverError": "4",
+            "salary": "$212,000",
+            "secondAssists": "11",
+            "secondAssits": null,
+            "throwaways": "9",
+            "timesTraded": "4",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Kyle Hubbard",
+        "stats": {
+            "assistThrowawayRatio": "2.86",
+            "assists": "11",
+            "dTurnoverRatio": "0.18",
+            "ds": "2",
+            "goals": "18",
+            "receiverError": "4",
+            "salary": "$290,500",
+            "secondAssists": "9",
+            "secondAssits": null,
+            "throwaways": "7",
+            "timesTraded": "0",
+            "wins": null
+        }
+    },
+    {
+        "name": "Ron Waisbord",
+        "stats": {
+            "assistThrowawayRatio": "1.62",
+            "assists": "23",
+            "dTurnoverRatio": "0.54",
+            "ds": "14",
+            "goals": "27",
+            "receiverError": "5",
+            "salary": "$397,000",
+            "secondAssists": "11",
+            "secondAssits": null,
+            "throwaways": "21",
+            "timesTraded": "1",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Allan Tong",
+        "stats": {
+            "assistThrowawayRatio": "1.08",
+            "assists": "6",
+            "dTurnoverRatio": "0.75",
+            "ds": "12",
+            "goals": "16",
+            "receiverError": "3",
+            "salary": "$262,000",
+            "secondAssists": "8",
+            "secondAssits": null,
+            "throwaways": "13",
+            "timesTraded": "3",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "Nick Hung",
+        "stats": {
+            "assistThrowawayRatio": "1.35",
+            "assists": "17",
+            "dTurnoverRatio": "0.32",
+            "ds": "9",
+            "goals": "11",
+            "receiverError": "5",
+            "salary": "$246,500",
+            "secondAssists": "14",
+            "secondAssits": null,
+            "throwaways": "23",
+            "timesTraded": "0",
+            "wins": "3"
+        }
+    },
+    {
+        "name": "Natalie Fitzgerald",
+        "stats": {
+            "assistThrowawayRatio": "2.63",
+            "assists": "7",
+            "dTurnoverRatio": "0.60",
+            "ds": "6",
+            "goals": "13",
+            "receiverError": "2",
+            "salary": "$263,000",
+            "secondAssists": "14",
+            "secondAssits": null,
+            "throwaways": "8",
+            "timesTraded": "0",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Tom Brooks",
+        "stats": {
+            "assistThrowawayRatio": "0.94",
+            "assists": "4",
+            "dTurnoverRatio": "0.44",
+            "ds": "11",
+            "goals": "14",
+            "receiverError": "7",
+            "salary": "$235,000",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "18",
+            "timesTraded": "3",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Eli Fidler",
+        "stats": {
+            "assistThrowawayRatio": "2.39",
+            "assists": "23",
+            "dTurnoverRatio": "0.60",
+            "ds": "12",
+            "goals": "16",
+            "receiverError": "2",
+            "salary": "$381,000",
+            "secondAssists": "20",
+            "secondAssits": null,
+            "throwaways": "18",
+            "timesTraded": "4",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Puja Ahluwalia",
+        "stats": {
+            "assistThrowawayRatio": "0.63",
+            "assists": "0",
+            "dTurnoverRatio": "0.73",
+            "ds": "8",
+            "goals": "19",
+            "receiverError": "3",
+            "salary": "$240,500",
+            "secondAssists": "5",
+            "secondAssits": null,
+            "throwaways": "8",
+            "timesTraded": "2",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Stephanie Kimmerle",
+        "stats": {
+            "assistThrowawayRatio": "1.64",
+            "assists": "15",
+            "dTurnoverRatio": "0.61",
+            "ds": "11",
+            "goals": "19",
+            "receiverError": "4",
+            "salary": "$323,000",
+            "secondAssists": "8",
+            "secondAssits": null,
+            "throwaways": "14",
+            "timesTraded": "0",
+            "wins": "7"
+        }
+    },
+    {
+        "name": "Dexter Chu",
+        "stats": {
+            "assistThrowawayRatio": "1.24",
+            "assists": "17",
+            "dTurnoverRatio": "0.10",
+            "ds": "2",
+            "goals": "22",
+            "receiverError": "3",
+            "salary": "$276,000",
+            "secondAssists": "4",
+            "secondAssits": null,
+            "throwaways": "17",
+            "timesTraded": "4",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Danielle Leung",
+        "stats": {
+            "assistThrowawayRatio": "1.50",
+            "assists": "9",
+            "dTurnoverRatio": "0.68",
+            "ds": "13",
+            "goals": "23",
+            "receiverError": "3",
+            "salary": "$352,500",
+            "secondAssists": "15",
+            "secondAssits": null,
+            "throwaways": "16",
+            "timesTraded": "2",
+            "wins": null
+        }
+    },
+    {
+        "name": "Kristie Ellis",
+        "stats": {
+            "assistThrowawayRatio": "2.20",
+            "assists": "25",
+            "dTurnoverRatio": "0.28",
+            "ds": "7",
+            "goals": "22",
+            "receiverError": "5",
+            "salary": "$367,000",
+            "secondAssists": "19",
+            "secondAssits": null,
+            "throwaways": "20",
+            "timesTraded": "3",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Lori Bristow",
+        "stats": {
+            "assistThrowawayRatio": "0.80",
+            "assists": "5",
+            "dTurnoverRatio": "0.00",
+            "ds": "0",
+            "goals": "3",
+            "receiverError": "2",
+            "salary": "$117,500",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "15",
+            "timesTraded": "1",
+            "wins": "3"
+        }
+    },
+    {
+        "name": "Alyne Azucena",
+        "stats": {
+            "assistThrowawayRatio": "1.81",
+            "assists": "22",
+            "dTurnoverRatio": "0.60",
+            "ds": "12",
+            "goals": "19",
+            "receiverError": "4",
+            "salary": "$350,500",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "16",
+            "timesTraded": "4",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Anna Luo",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "8",
+            "dTurnoverRatio": "0.65",
+            "ds": "11",
+            "goals": "13",
+            "receiverError": "5",
+            "salary": "$247,500",
+            "secondAssists": "4",
+            "secondAssits": null,
+            "throwaways": "12",
+            "timesTraded": "1",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Kat Zikov",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "4",
+            "dTurnoverRatio": "0.20",
+            "ds": "1",
+            "goals": "2",
+            "receiverError": "2",
+            "salary": "$134,500",
+            "secondAssists": "2",
+            "secondAssits": null,
+            "throwaways": "3",
+            "timesTraded": "0",
+            "wins": "2"
+        }
+    },
+    {
+        "name": "Ronald Ha",
+        "stats": {
+            "assistThrowawayRatio": "1.55",
+            "assists": "8",
+            "dTurnoverRatio": "0.45",
+            "ds": "9",
+            "goals": "10",
+            "receiverError": "9",
+            "salary": "$214,000",
+            "secondAssists": "9",
+            "secondAssits": null,
+            "throwaways": "11",
+            "timesTraded": "3",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "Daniel Eisner",
+        "stats": {
+            "assistThrowawayRatio": "1.76",
+            "assists": "12",
+            "dTurnoverRatio": "0.29",
+            "ds": "6",
+            "goals": "13",
+            "receiverError": "4",
+            "salary": "$257,500",
+            "secondAssists": "18",
+            "secondAssits": null,
+            "throwaways": "17",
+            "timesTraded": "2",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Daniel Wagner",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "13",
+            "dTurnoverRatio": "0.27",
+            "ds": "7",
+            "goals": "11",
+            "receiverError": "4",
+            "salary": "$218,000",
+            "secondAssists": "9",
+            "secondAssits": null,
+            "throwaways": "22",
+            "timesTraded": "3",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Janine Duffy",
+        "stats": {
+            "assistThrowawayRatio": "1.30",
+            "assists": "18",
+            "dTurnoverRatio": "0.50",
+            "ds": "11",
+            "goals": "10",
+            "receiverError": "2",
+            "salary": "$248,000",
+            "secondAssists": "8",
+            "secondAssits": null,
+            "throwaways": "20",
+            "timesTraded": "3",
+            "wins": "1"
+        }
+    },
+    {
+        "name": "Norman Stewart",
+        "stats": {
+            "assistThrowawayRatio": "1.20",
+            "assists": "14",
+            "dTurnoverRatio": "0.26",
+            "ds": "6",
+            "goals": "12",
+            "receiverError": "3",
+            "salary": "$226,000",
+            "secondAssists": "10",
+            "secondAssits": null,
+            "throwaways": "20",
+            "timesTraded": "3",
+            "wins": "3"
+        }
+    },
+    {
+        "name": "Mark Kalvaitis",
+        "stats": {
+            "assistThrowawayRatio": "2.09",
+            "assists": "7",
+            "dTurnoverRatio": "0.50",
+            "ds": "8",
+            "goals": "14",
+            "receiverError": "5",
+            "salary": "$269,500",
+            "secondAssists": "16",
+            "secondAssits": null,
+            "throwaways": "11",
+            "timesTraded": "3",
+            "wins": "6"
+        }
+    },
+    {
+        "name": "Daniel Ngai",
+        "stats": {
+            "assistThrowawayRatio": "2.17",
+            "assists": "22",
+            "dTurnoverRatio": "0.13",
+            "ds": "3",
+            "goals": "5",
+            "receiverError": "6",
+            "salary": "$252,500",
+            "secondAssists": "17",
+            "secondAssits": null,
+            "throwaways": "18",
+            "timesTraded": "1",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Janet Wan",
+        "stats": {
+            "assistThrowawayRatio": "0.80",
+            "assists": "1",
+            "dTurnoverRatio": "0.18",
+            "ds": "4",
+            "goals": "8",
+            "receiverError": "12",
+            "salary": "$127,500",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "10",
+            "timesTraded": "3",
+            "wins": "2.5"
+        }
+    },
+    {
+        "name": "Laura Wiese",
+        "stats": {
+            "assistThrowawayRatio": "1.75",
+            "assists": "12",
+            "dTurnoverRatio": "0.29",
+            "ds": "6",
+            "goals": "16",
+            "receiverError": "5",
+            "salary": "$274,500",
+            "secondAssists": "16",
+            "secondAssits": null,
+            "throwaways": "16",
+            "timesTraded": "0",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Beth Fisher",
+        "stats": {
+            "assistThrowawayRatio": "0.67",
+            "assists": "2",
+            "dTurnoverRatio": "0.20",
+            "ds": "4",
+            "goals": "9",
+            "receiverError": "2",
+            "salary": "$166,000",
+            "secondAssists": "10",
+            "secondAssits": null,
+            "throwaways": "18",
+            "timesTraded": null,
+            "wins": "6"
+        }
+    },
+    {
+        "name": "Diane Pendlebury",
+        "stats": {
+            "assistThrowawayRatio": "1.60",
+            "assists": "8",
+            "dTurnoverRatio": "0.05",
+            "ds": "1",
+            "goals": "9",
+            "receiverError": "6",
+            "salary": "$197,500",
+            "secondAssists": "16",
+            "secondAssits": null,
+            "throwaways": "15",
+            "timesTraded": "3",
+            "wins": "6"
+        }
+    },
+    {
+        "name": "Anita Benoit",
+        "stats": {
+            "assistThrowawayRatio": "1.14",
+            "assists": "2",
+            "dTurnoverRatio": "0.22",
+            "ds": "2",
+            "goals": "3",
+            "receiverError": "2",
+            "salary": "$145,000",
+            "secondAssists": "6",
+            "secondAssits": null,
+            "throwaways": "7",
+            "timesTraded": "2",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "Anne-Marie Carey",
+        "stats": {
+            "assistThrowawayRatio": "1.68",
+            "assists": "16",
+            "dTurnoverRatio": "0.48",
+            "ds": "11",
+            "goals": "20",
+            "receiverError": "4",
+            "salary": "$334,500",
+            "secondAssists": "16",
+            "secondAssits": null,
+            "throwaways": "19",
+            "timesTraded": "2",
+            "wins": "6"
+        }
+    },
+    {
+        "name": "James Ho",
+        "stats": {
+            "assistThrowawayRatio": "1.62",
+            "assists": "14",
+            "dTurnoverRatio": "0.47",
+            "ds": "9",
+            "goals": "18",
+            "receiverError": "6",
+            "salary": "$295,000",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Cameron Crockatt",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "6",
+            "dTurnoverRatio": "0.36",
+            "ds": "4",
+            "goals": "18",
+            "receiverError": "5",
+            "salary": "$242,000",
+            "secondAssists": "6",
+            "secondAssits": null,
+            "throwaways": "6",
+            "timesTraded": "3",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Tabish Gilani",
+        "stats": {
+            "assistThrowawayRatio": "1.73",
+            "assists": "19",
+            "dTurnoverRatio": "0.28",
+            "ds": "5",
+            "goals": "3",
+            "receiverError": "3",
+            "salary": "$217,000",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "15",
+            "timesTraded": "0",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "Catherine Chao",
+        "stats": {
+            "assistThrowawayRatio": "1.55",
+            "assists": "10",
+            "dTurnoverRatio": "0.15",
+            "ds": "3",
+            "goals": "14",
+            "receiverError": "9",
+            "salary": "$208,000",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "11",
+            "timesTraded": "3",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "Crystal Sotelo",
+        "stats": {
+            "assistThrowawayRatio": "1.00",
+            "assists": "4",
+            "dTurnoverRatio": "0.31",
+            "ds": "5",
+            "goals": "7",
+            "receiverError": "5",
+            "salary": "$180,000",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "11",
+            "timesTraded": "2",
+            "wins": "6.5"
+        }
+    },
+    {
+        "name": "Krista Bennatti-Roberts",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "3",
+            "dTurnoverRatio": "0.27",
+            "ds": "3",
+            "goals": "19",
+            "receiverError": "4",
+            "salary": "$249,000",
+            "secondAssists": "11",
+            "secondAssits": null,
+            "throwaways": "7",
+            "timesTraded": "2",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Kaity Williams",
+        "stats": {
+            "assistThrowawayRatio": "1.56",
+            "assists": "17",
+            "dTurnoverRatio": "0.09",
+            "ds": "2",
+            "goals": "3",
+            "receiverError": "5",
+            "salary": "$177,500",
+            "secondAssists": "11",
+            "secondAssits": null,
+            "throwaways": "18",
+            "timesTraded": "0",
+            "wins": "2.5"
+        }
+    },
+    {
+        "name": "Graham Haines",
+        "stats": {
+            "assistThrowawayRatio": "0.93",
+            "assists": "9",
+            "dTurnoverRatio": "0.53",
+            "ds": "9",
+            "goals": "11",
+            "receiverError": "3",
+            "salary": "$224,000",
+            "secondAssists": "4",
+            "secondAssits": null,
+            "throwaways": "14",
+            "timesTraded": "1",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Ameet Khanderia",
+        "stats": {
+            "assistThrowawayRatio": "1.92",
+            "assists": "8",
+            "dTurnoverRatio": "0.17",
+            "ds": "3",
+            "goals": "7",
+            "receiverError": "6",
+            "salary": "$200,000",
+            "secondAssists": "15",
+            "secondAssits": null,
+            "throwaways": "12",
+            "timesTraded": "2",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "Rebecca Chan",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "3",
+            "dTurnoverRatio": "0.08",
+            "ds": "1",
+            "goals": "16",
+            "receiverError": "7",
+            "salary": "$215,000",
+            "secondAssists": "9",
+            "secondAssits": null,
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "6"
+        }
+    },
+    {
+        "name": "Anders Whist",
+        "stats": {
+            "assistThrowawayRatio": "1.67",
+            "assists": "17",
+            "dTurnoverRatio": "0.36",
+            "ds": "9",
+            "goals": "8",
+            "receiverError": "7",
+            "salary": "$242,500",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "18",
+            "timesTraded": "1",
+            "wins": "3.5"
+        }
+    },
+    {
+        "name": "John Spears",
+        "stats": {
+            "assistThrowawayRatio": "0.77",
+            "assists": "5",
+            "dTurnoverRatio": "0.13",
+            "ds": "2",
+            "goals": "12",
+            "receiverError": "3",
+            "salary": "$178,000",
+            "secondAssists": "5",
+            "secondAssits": null,
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "Natalie Dunn",
+        "stats": {
+            "assistThrowawayRatio": "1.25",
+            "assists": "7",
+            "dTurnoverRatio": "0.30",
+            "ds": "6",
+            "goals": "14",
+            "receiverError": "4",
+            "salary": "$233,500",
+            "secondAssists": "13",
+            "secondAssits": null,
+            "throwaways": "16",
+            "timesTraded": "1",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Dawn Man",
+        "stats": {
+            "assistThrowawayRatio": "2.00",
+            "assists": "3",
+            "dTurnoverRatio": "0.22",
+            "ds": "2",
+            "goals": "9",
+            "receiverError": "3",
+            "salary": "$189,500",
+            "secondAssists": "9",
+            "secondAssits": null,
+            "throwaways": "6",
+            "timesTraded": "1",
+            "wins": "4.5"
+        }
+    },
+    {
+        "name": "Morgan Leech",
+        "stats": {
+            "assistThrowawayRatio": "0.69",
+            "assists": "7",
+            "dTurnoverRatio": "0.15",
+            "ds": "3",
+            "goals": "8",
+            "receiverError": "4",
+            "salary": "$154,000",
+            "secondAssists": "4",
+            "secondAssits": null,
+            "throwaways": "16",
+            "timesTraded": "1",
+            "wins": "4"
+        }
+    },
+    {
+        "name": "Lydia Dwyer",
+        "stats": {
+            "assistThrowawayRatio": "1.08",
+            "assists": "1",
+            "dTurnoverRatio": "0.21",
+            "ds": "4",
+            "goals": "5",
+            "receiverError": "7",
+            "salary": "$148,000",
+            "secondAssists": "12",
+            "secondAssits": null,
+            "throwaways": "12",
+            "timesTraded": "2",
+            "wins": "5"
+        }
+    },
+    {
+        "name": "\"Helen OSullivan\"",
+        "stats": {
+            "assistThrowawayRatio": "0.90",
+            "assists": "2",
+            "dTurnoverRatio": "0.35",
+            "ds": "6",
+            "goals": "16",
+            "receiverError": "7",
+            "salary": "$212,500",
+            "secondAssists": "7",
+            "secondAssits": null,
+            "throwaways": "10",
+            "timesTraded": "1",
+            "wins": "5.5"
+        }
+    },
+    {
+        "name": "Farra Kurniawan",
+        "stats": {
+            "assistThrowawayRatio": "1.85",
+            "assists": "13",
+            "dTurnoverRatio": "0.35",
+            "ds": "6",
+            "goals": "14",
+            "receiverError": "4",
+            "salary": "$260,500",
+            "secondAssists": "11",
+            "secondAssits": null,
+            "throwaways": "13",
+            "timesTraded": "2",
+            "wins": "4"
+        }
+    }
+]
